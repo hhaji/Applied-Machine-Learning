@@ -20,7 +20,7 @@ General mathematical sophistication; and a solid understanding of Algorithms, Li
 
 ## Software:
 [Python](https://www.python.org/) : we'll be using python throughout the course to implement various ML algorithms and run experiments <br>
-[Google Developer Python Tutorial](https://developers.google.com/edu/python/)  <br>
+[Google Developer Python Tutorial](https://developers.google.com/edu/python/)  (highly recommended as a way to master python in just a few hours!) <br>
 [NumPy Tutorial](http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial) <br>
 [Scikit-Learn](http://scikit-learn.org/) (also highly recommended!)  <br>
 
