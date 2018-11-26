@@ -20,14 +20,14 @@ General mathematical sophistication; and a solid understanding of Algorithms, Li
 
 ## Software:
 [Python](https://www.python.org/) : we'll be using python throughout the course to implement various ML algorithms and run experiments <br>
-[Google Developer Python Tutorial](https://developers.google.com/edu/python/) (highly recommended as a way to master python in just a few hours!)  <br>
-[NumPy Tutorial](http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial) (also highly recommended!)  <br>
+[Google Developer Python Tutorial](https://developers.google.com/edu/python/)  <br>
+[NumPy Tutorial](http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial) <br>
 [Scikit-Learn](http://scikit-learn.org/) (also highly recommended!)  <br>
 
 ### Latex
-A Brief Introduction to LaTeX [pdf](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
-Math in LaTeX [pdf](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
-Sample Document [pdf](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
+A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
+Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
+Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
 
 ## Grading:
 * Homework – 10%
