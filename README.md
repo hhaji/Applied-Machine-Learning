@@ -20,9 +20,12 @@ General mathematical sophistication; and a solid understanding of Algorithms, Li
 
 ## Software:
 [Python](https://www.python.org/) : we'll be using python throughout the course to implement various ML algorithms and run experiments <br>
-[Google Developer Python Tutorial](https://developers.google.com/edu/python/)  (highly recommended as a way to master python in just a few hours!) <br>
 [NumPy Tutorial](http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial) <br>
 [Scikit-Learn](http://scikit-learn.org/) <br>
+
+You can learn Python via the following websites:
+* [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning).
+* [Google Developer Python Tutorial](https://developers.google.com/edu/python/)  (highly recommended as a way to master python in just a few hours!) 
 
 ### Latex
 A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
