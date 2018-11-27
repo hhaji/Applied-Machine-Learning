@@ -20,6 +20,15 @@ Recommended Slides & Papers:
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) 
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
+* [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book)
+
+### Extra NoteBooks and Slides:
+* [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+* [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml)
+* [An Introduction to Statistical Learning with Applications in R](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven
+* [iPython-NoteBooks](https://github.com/jdwittenauer/ipython-notebooks) by John Wittenauer
+* [Scikit-Learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas
+* [Data Science Roadmap](https://github.com/estraviz/data-science-roadmap#4-machine-learning-back-to-top-) by Javier Estraviz
 
 
 ## Class time and Location: 
