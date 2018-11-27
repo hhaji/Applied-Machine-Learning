@@ -12,6 +12,11 @@ Learning algorithms are ubiquitous, and are playing an ever increasing role in o
 [Machine Learning: The Art and Science of Algorithms That Make Sense of Data](https://www.cs.bris.ac.uk/~flach/mlbook/) by Peter Flach <br>
 [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David
 
+## Slides & Papers:
+
+Recommended Slides & Papers:
+
+
 ## Class time and Location: 
 Saturday and Monday 08:00-09:30 AM (Spring 2019), Room 204/1. 
 
@@ -36,6 +41,21 @@ Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resou
 * Homework – 10%
 * Midterm – 40%
 * Endterm – 50%
+
+## Topics:
+Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford students ([CS224N](http://nlp.stanford.edu/courses/cs224n/2015/), [CS224D](http://cs224d.stanford.edu/reports_2016.html)) to get some general inspiration.
+
+## Account:
+It is necessary to have a [GitHub](https://github.com/) account to share your projects. It offers plans for both private repositories and free accounts. Github is like the hammer in your toolbox, therefore, you need to have it!
+
+## Academic Honor Code:
+Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
+
+We’ll follow the standard of Department of Mathematical Sciences approach: 
+* You can get help, but you MUST acknowledge the help on the work you hand in
+* Failure to acknowledge your sources is a violation of the Honor Code
+*  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
+* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
 
 ## Questions?
 I’ll be having office hours for this course on Saturday 10:00 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
