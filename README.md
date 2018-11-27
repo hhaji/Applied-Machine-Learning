@@ -15,6 +15,7 @@ Learning algorithms are ubiquitous, and are playing an ever increasing role in o
 ## Slides & Papers:
 
 Recommended Slides & Papers:
+* **Toolkit Lab: [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013)**
 
 
 ## Class time and Location: 
