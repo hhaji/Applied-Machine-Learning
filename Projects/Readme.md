@@ -1,11 +1,10 @@
 # Course Project Resources:
 To bring together and apply the various topics covered in this course, you will work on a machine learning project. The goal of the project is to go through the complete knowledge discovery process to answer one or more questions you have about a topic of your own choosing. You will acquire the data, formulate a question (or questions) of interest, perform the data analysis, and communicate the results. Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Furthermore, we can include **mathematical notation** within markdown cells of Jupyter Notebook using **LaTeX**.  
 
-## Project Presentation
-### Project Presentation in GitHub
+## َUploading and Presentation of Project 
+### Uploading Project in GitHub
 Students individually implement given assignments in recommended language (Python or R). 
-Each Student should create his/her own folder inside of this folder (using pull request) containing his/her projects. 
-The name of each folder starts with the name of data followed by underline and it ends with the familyname of 
+Each Student should create his/her own folder inside of this folder (using pull request) and place his/her files in this folder. The name of each folder starts with the name of data followed by underline and it ends with the familyname of 
 the student (NameOfData_Familyname). The folder should contain a Readme.md file in which any student should 
 explain the result of his/her  analysis. 
 
