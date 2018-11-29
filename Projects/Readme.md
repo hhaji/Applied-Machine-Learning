@@ -7,9 +7,8 @@ The name of each folder starts with the name of data followed by underline and i
 the student (NameOfData_Familyname). The folder should contain a Readme.md file in which any student should 
 explain the result of his/her  analysis.  
 
-The following resources may be helpful for those still undecided about their course project. 
-
 ## Datasets:
+The following resources may be helpful for those still undecided about their course projects. 
 * [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 * [CrowdFlower Data for Everyone library](http://www.crowdflower.com/data-for-everyone)
@@ -35,7 +34,7 @@ You can learn Python via the following websites: <br>
 * [Google Developer Python Tutorial](https://developers.google.com/edu/python/)  (highly recommended as a way to master python in just a few hours!) 
 
 ### Latex
-The students can include mathematical notation within markdown cells using LaTeX in their **Jupyter Notebooks**. 
+The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
 A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
 Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
 Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
