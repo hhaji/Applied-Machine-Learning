@@ -81,4 +81,4 @@ We’ll follow the standard of Department of Mathematical Sciences approach:
 * You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
 
 ## Questions?
-I’ll be having office hours for this course on Saturday 10:00 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
+I’ll be having office hours for this course on Monday 09:30 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
