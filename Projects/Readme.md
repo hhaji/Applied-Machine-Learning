@@ -27,7 +27,10 @@ Programming assignments will require the use of Python 3.7, as well as additiona
 * [SciPy:](https://www.scipy.org) A Python package for mathematics, science, and engineering.
 * [IPython:](https://ipython.org) An architecture for interactive computing with Python.
 
-Most of the relevant software is a part of the [SciPy stack](https://www.scipy.org), a collection of Python-based open source software for mathematics, science, and engineering (which includes Python, NumPy, the SciPy library, Matplotlib, pandas, IPython, and scikit-learn). The [Anaconda](https://www.anaconda.com) Python Distribution is a free distribution for the SciPy stack that supports Linux, Mac, and Windows. With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
+Most of the relevant software is a part of the [SciPy stack](https://www.scipy.org), a collection of Python-based open source software for mathematics, science, and engineering (which includes Python, NumPy, the SciPy library, Matplotlib, pandas, IPython, and scikit-learn). The [Anaconda](https://www.anaconda.com) Python Distribution is a free distribution for the SciPy stack that supports Linux, Mac, and Windows. With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.<br>
+
+* [Getting started with conda](https://conda.io/docs/user-guide/getting-started.html)
+* [Instalation](https://docs.anaconda.com/anaconda/install/)
 
 Tutorial: <br>
 * [NumPy Tutorial](http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial) <br>
