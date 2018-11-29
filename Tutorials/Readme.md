@@ -1,4 +1,4 @@
-# Tutorial:
+# Tutorials:
 
 ## Blogs: 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural network and machine learning. 
