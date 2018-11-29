@@ -38,11 +38,19 @@ Saturday and Monday 08:00-09:30 AM (Spring 2019), Room 204/1.
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
 ## Software:
-[Python](https://www.python.org/) : we'll be using python throughout the course to implement various ML algorithms and run experiments <br>
-[NumPy Tutorial](http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial) <br>
-[Scikit-Learn](http://scikit-learn.org/) <br>
+Programming assignments will require the use of Python 3.7, as well as additional Python packages as follows. <br>
+* [Python 3.7](https://www.python.org/downloads/) (An interactive, object-oriented, extensible programming language.)
+* NumPy (A Python package for scientific computing.)
+* Pandas (A Python package for high-performance, easy-to-use data structures and data analysis tools.)
+* Scikit-Learn (A Python package for machine learning.)
+* Matplotlib (A Python package for 2D plotting.)
+* SciPy (library) 0.9.0 (A Python package for mathematics, science, and engineering.)
+* IPython 1.1.0 (An architecture for interactive computing with Python.)
 
-You can learn Python via the following websites:
+Tutorial: <br>
+* [NumPy Tutorial](http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial) <br>
+
+You can learn Python via the following websites: <br>
 * [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning).
 * [Google Developer Python Tutorial](https://developers.google.com/edu/python/)  (highly recommended as a way to master python in just a few hours!) 
 
