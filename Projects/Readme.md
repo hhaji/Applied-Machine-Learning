@@ -5,8 +5,7 @@ To bring together and apply the various topics covered in this course, you will 
 ### Uploading Project in GitHub
 Students individually implement given assignments in recommended language. 
 Each Student should create his/her own folder inside of this folder (using pull request) and place his/her files in this folder. The name of each folder starts with the name of data followed by underline and it ends with the familyname of 
-the student (NameOfData_Familyname). The folder should contain a Readme.md file in which any student should 
-explain the result of his/her  analysis. 
+the student (NameOfData_Familyname). The folder should comprise a Readme.md file containing the analysis of the result.
 
 ### Project Presentation in the Class
 Each student will explain his/her project in a 10–15 minute presentation to the class. Presentations should clearly convey the project ideas, methods, and results, including the question(s) being addressed, the motivation of the analyses being employed, and relevant evaluations, contributions, and discussion questions.
