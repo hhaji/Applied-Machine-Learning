@@ -1,5 +1,6 @@
 # Course Project Resources:
-Projects are programming assignments that cover the topic of this course. 
+Projects are programming assignments that cover the topic of this course. Any project is written by  
+**[Jupyter Notebooks](http://jupyter.org)**. Jupyter Notebooks are a third-party tool that we use for programming assignments.
 Students individually implement given assignments in recommended language. 
 Each Student should create his/her own folder inside of this folder (using pull request) containing his/her projects. 
 The name of each folder starts with the name of data followed by underline and it ends with the familyname of 
@@ -34,6 +35,7 @@ You can learn Python via the following websites: <br>
 * [Google Developer Python Tutorial](https://developers.google.com/edu/python/)  (highly recommended as a way to master python in just a few hours!) 
 
 ### Latex
+The students can include mathematical notation within markdown cells using LaTeX in their **Jupyter Notebooks**. 
 A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
 Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
 Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
