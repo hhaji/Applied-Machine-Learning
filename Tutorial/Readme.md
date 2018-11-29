@@ -1,7 +1,7 @@
 # Tutorial:
 
 ## Blogs: 
-* [The Blog of Christopher Olah:](http://colah.github.io) Fascinating tutorials about different subjects of neural network and machine learning. 
+* [Christopher Olah:](http://colah.github.io) This blog consists of fascinating tutorials about different subjects of neural network and machine learning. 
 
 ## Metric Learning
 1. Metric Learning: <br>
