@@ -7,7 +7,7 @@
 Learning algorithms are ubiquitous, and are playing an ever increasing role in our daily lives. How are they different from any old algorithm? How can we reason about the ability of an algorithm to “learn from examples”, and classify data it has never seen? We will introduce the formal notions of learnability, generalization, supervised vs. unsupervised learning, etc. The goal is also to introduce the fundamental techniques and models that are central in today’s machine learning  applications. Because machine Learning can only be understood through practice, by using the algorithms, the course is accompanied with practicals during which students test a variety of machine learning algorithm with real world data.
 
 
-## MAIN TEXTBOOK:
+## Main TextBooks:
 [Hands-On Machine Learning with Scikit-Learn & TensorFlow](http://shop.oreilly.com/product/0636920052289.do) by  Aurélien Géron <br>
 [Machine Learning: The Art and Science of Algorithms That Make Sense of Data](https://www.cs.bris.ac.uk/~flach/mlbook/) by Peter Flach <br>
 [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David
