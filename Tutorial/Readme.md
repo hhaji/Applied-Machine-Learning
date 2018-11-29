@@ -4,7 +4,6 @@
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural network and machine learning. 
 
 ## Metric Learning
-1. Metric Learning: <br>
 * Paper: [Distance metric learning, with application to clustering with side-information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)
 * Survey: [A Survey on Metric Learning for Feature Vectors and Structured Data](https://arxiv.org/pdf/1306.6709.pdf) by Aurelien Bellet, Amaury Habrard, and Marc Sebban
 * Install: [Metric-Learn](https://github.com/metric-learn/metric-learn) 
