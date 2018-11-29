@@ -39,13 +39,13 @@ General mathematical sophistication; and a solid understanding of Algorithms, Li
 
 ## Software:
 Programming assignments will require the use of Python 3.7, as well as additional Python packages as follows. <br>
-* [Python 3.7](https://www.python.org/downloads/) (An interactive, object-oriented, extensible programming language.)
-* NumPy (A Python package for scientific computing.)
-* Pandas (A Python package for high-performance, easy-to-use data structures and data analysis tools.)
-* Scikit-Learn (A Python package for machine learning.)
-* Matplotlib (A Python package for 2D plotting.)
-* SciPy (library) 0.9.0 (A Python package for mathematics, science, and engineering.)
-* IPython 1.1.0 (An architecture for interactive computing with Python.)
+* [Python 3.7:](https://www.python.org/downloads/) An interactive, object-oriented, extensible programming language.
+* [NumPy:](http://www.numpy.org) A Python package for scientific computing.
+* [Pandas:](https://pandas.pydata.org) A Python package for high-performance, easy-to-use data structures and data analysis tools.
+* [Scikit-Learn:](https://scikit-learn.org/stable/) A Python package for machine learning.
+* [Matplotlib:](https://matplotlib.org) A Python package for 2D plotting.
+* [SciPy:](https://www.scipy.org) A Python package for mathematics, science, and engineering.
+* [IPython:](https://ipython.org) An architecture for interactive computing with Python.
 
 Tutorial: <br>
 * [NumPy Tutorial](http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial) <br>
