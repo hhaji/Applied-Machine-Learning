@@ -1,8 +1,8 @@
 # Tutorials:
 
 ## Blogs: 
-* The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Distill](https://distill.pub/about/) is dedicated to clear explanations of machine learning
+* The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 
 ## Metric Learning
 * Paper: [Distance Metric Learning, with Application to Clustering with Side-Information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)
