@@ -55,6 +55,7 @@ You can learn Python via the following websites: <br>
 * [Google Developer Python Tutorial](https://developers.google.com/edu/python/)  (highly recommended as a way to master python in just a few hours!) 
 
 ### Latex
+The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
 A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
 Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
 Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
