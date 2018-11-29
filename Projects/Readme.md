@@ -1,7 +1,6 @@
 # Course Project Resources:
 Projects are programming assignments that cover the topic of this course. Any project is written by  
-**[Jupyter Notebook](http://jupyter.org)**. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Furthermore,  
-we can include **mathematical notation** within markdown cells of Jupyter Notebook using **LaTeX**. 
+**[Jupyter Notebook](http://jupyter.org)**. The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Furthermore, we can include **mathematical notation** within markdown cells of Jupyter Notebook using **LaTeX**. 
 Students individually implement given assignments in recommended language. 
 Each Student should create his/her own folder inside of this folder (using pull request) containing his/her projects. 
 The name of each folder starts with the name of data followed by underline and it ends with the familyname of 
