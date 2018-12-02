@@ -1,7 +1,7 @@
 # Tutorials:
 
 ## Blogs: 
-* [Distill](https://distill.pub/about/) is dedicated to clear explanations of machine learning
+* [Distill](https://distill.pub/about/) is an academic journal in the area of Machine Learning and it was dedicated to clear explanations of machine learning. 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 
 ## Metric Learning
