@@ -17,6 +17,7 @@ Learning algorithms are ubiquitous, and are playing an ever increasing role in o
 
 Recommended Slides & Papers:
 1. **Toolkit Lab:** 
+* [Pandas](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) 
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
