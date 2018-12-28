@@ -3,6 +3,8 @@
 ## Blogs: 
 * [Distill](https://distill.pub/about/) is an academic journal in machine learning and it was dedicated to clear explanations of machine learning. 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
+* [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) by Jason Brownlee <br>
+
 
 ## Metric Learning
 * Paper: [Distance Metric Learning, with Application to Clustering with Side-Information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)
