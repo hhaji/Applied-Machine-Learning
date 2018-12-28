@@ -10,6 +10,7 @@ Learning algorithms are ubiquitous, and are playing an ever increasing role in o
 ## Main TextBooks:
 * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](http://shop.oreilly.com/product/0636920052289.do) by  Aurélien Géron <br>
 * [Machine Learning: The Art and Science of Algorithms That Make Sense of Data](https://www.cs.bris.ac.uk/~flach/mlbook/) by Peter Flach <br>
+* [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
 * [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
 
