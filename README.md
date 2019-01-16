@@ -20,12 +20,15 @@ Recommended Slides & Papers:
 1. **Toolkit Lab:** 
 
 #### Numpy:
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
+* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
 #### Pandas:
 * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
 
 #### SciPy:
@@ -33,11 +36,12 @@ Recommended Slides & Papers:
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
 #### Python: 
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
-* [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
 
 ### Extra NoteBooks and Slides:
+* [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
 * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
 * [An Introduction to Statistical Learning with Applications in R](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven <br>
