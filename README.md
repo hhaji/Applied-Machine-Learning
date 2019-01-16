@@ -20,30 +20,30 @@ Recommended Slides & Papers:
 1. **Toolkit Lab:** 
 
 #### Numpy:
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
+* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
 
 #### Pandas:
 * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
-* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
+* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
 
 #### SciPy:
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
 #### Python: 
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
-* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) 
-* [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book)
+* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
+* [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
 
 ### Extra NoteBooks and Slides:
-* [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
-* [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml)
-* [An Introduction to Statistical Learning with Applications in R](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven
-* [iPython-NoteBooks](https://github.com/jdwittenauer/ipython-notebooks) by John Wittenauer
-* [Scikit-Learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas
-* [Data Science Roadmap](https://github.com/estraviz/data-science-roadmap#4-machine-learning-back-to-top-) by Javier Estraviz
+* [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
+* [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
+* [An Introduction to Statistical Learning with Applications in R](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven <br>
+* [iPython-NoteBooks](https://github.com/jdwittenauer/ipython-notebooks) by John Wittenauer <br>
+* [Scikit-Learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas <br>
+* [Data Science Roadmap](https://github.com/estraviz/data-science-roadmap#4-machine-learning-back-to-top-) by Javier Estraviz <br>
 
 
 ## Class time and Location: 
@@ -55,13 +55,13 @@ General mathematical sophistication; and a solid understanding of Algorithms, Li
 ## Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by  
 **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python packages as follows. <br>
-* [Python 3.7:](https://www.python.org/downloads/) An interactive, object-oriented, extensible programming language.
-* [NumPy:](http://www.numpy.org) A Python package for scientific computing.
-* [Pandas:](https://pandas.pydata.org) A Python package for high-performance, easy-to-use data structures and data analysis tools.
-* [Scikit-Learn:](https://scikit-learn.org/stable/) A Python package for machine learning.
-* [Matplotlib:](https://matplotlib.org) A Python package for 2D plotting.
-* [SciPy:](https://www.scipy.org) A Python package for mathematics, science, and engineering.
-* [IPython:](https://ipython.org) An architecture for interactive computing with Python.
+* [Python 3.7:](https://www.python.org/downloads/) An interactive, object-oriented, extensible programming language. <br>
+* [NumPy:](http://www.numpy.org) A Python package for scientific computing. <br>
+* [Pandas:](https://pandas.pydata.org) A Python package for high-performance, easy-to-use data structures and data analysis tools. <br>
+* [Scikit-Learn:](https://scikit-learn.org/stable/) A Python package for machine learning. <br>
+* [Matplotlib:](https://matplotlib.org) A Python package for 2D plotting. <br>
+* [SciPy:](https://www.scipy.org) A Python package for mathematics, science, and engineering. <br>
+* [IPython:](https://ipython.org) An architecture for interactive computing with Python. <br>
 
 ### Latex
 The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
@@ -84,10 +84,10 @@ It is necessary to have a [GitHub](https://github.com/) account to share your pr
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
 We’ll follow the standard of Department of Mathematical Sciences approach: 
-* You can get help, but you MUST acknowledge the help on the work you hand in
-* Failure to acknowledge your sources is a violation of the Honor Code
-*  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
-* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
+* You can get help, but you MUST acknowledge the help on the work you hand in <br>
+* Failure to acknowledge your sources is a violation of the Honor Code <br>
+*  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit <br>
+* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code <br>
 
 ## Questions?
 I’ll be having office hours for this course on Monday 09:30 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
