@@ -18,13 +18,23 @@ Learning algorithms are ubiquitous, and are playing an ever increasing role in o
 
 Recommended Slides & Papers:
 1. **Toolkit Lab:** 
+
+#### Numpy:
+* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
+
+#### Pandas:
 * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
+* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
+#### SciPy:
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
+* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
+
+#### Python: 
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) 
-* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
 * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book)
 
 ### Extra NoteBooks and Slides:
