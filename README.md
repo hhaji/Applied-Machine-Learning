@@ -56,6 +56,8 @@ Saturday and Monday 08:00-09:30 AM (Spring 2019), Room 204/1.
 ## Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
+[Learn Probability and Statistics through interactive visualizations:](https://seeing-theory.brown.edu/index.html#firstPage) Seeing Theory was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
+
 ## Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by  
 **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python packages as follows. <br>
