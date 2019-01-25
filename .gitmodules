@@ -1,0 +1,3 @@
+[submodule "Jupyter NoteBooks/Data-Science-iPython-Notebooks"]
+	path = Jupyter NoteBooks/Data-Science-iPython-Notebooks
+	url = https://github.com/donnemartin/data-science-ipython-notebooks
