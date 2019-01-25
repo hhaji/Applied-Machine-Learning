@@ -3,8 +3,8 @@
 ## Folders:
 This folder contains interesting jupyter notebooks writen by different authors.
 
-- The folder Data contains the data used in the jupyter notebooks.
-- The folder Images contains the images applied in the jupyter notebooks.
+- The Data folder  contains all data used in the jupyter notebooks.
+- The Images folder contains all images applied in the jupyter notebooks.
 
 ## Files:
 
