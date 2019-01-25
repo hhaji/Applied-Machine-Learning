@@ -37,6 +37,7 @@ Recommended Slides & Papers:
 
 #### Python: 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+* [Real Python Tutorials](https://realpython.com)
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
