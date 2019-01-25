@@ -1,7 +1,7 @@
 # Jupyter NoteBooks
+This folder contains interesting jupyter notebooks writen by different authors.
 
 ## Folders:
-This folder contains interesting jupyter notebooks writen by different authors.
 
 - The Data folder  contains all data used in the jupyter notebooks.
 - The Images folder contains all images applied in the jupyter notebooks.
