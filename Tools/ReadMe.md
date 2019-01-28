@@ -2,7 +2,7 @@
 - [Git](#Git)
 - [Markdown](#Markdown) 
 - [Programming Languages](#Programming-Languages)
-- [Jupyter & IPython](#Jupyter-&-IPython)
+- [Jupyter and IPython](#Jupyter-and-IPython)
 
 ## [Git](#Git)
 * [Resources to learn Git](https://try.github.io)
@@ -54,7 +54,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Getting started with conda](https://conda.io/docs/user-guide/getting-started.html)
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
 
-## [Jupyter & IPython](#Jupyter-&-IPython)
+## [Jupyter and IPython](#Jupyter-and-IPython)
 * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
 * [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
