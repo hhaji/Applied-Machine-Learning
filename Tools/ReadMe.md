@@ -1,10 +1,10 @@
 # Tools in Data Science: 
 - [Git](#Git)
 - [Markdown](#Markdown) 
-- [Programming Languages](#PLAN)
-- [Jupyter & IPython](#JIP)
+- [Programming Languages](#Programming-Languages)
+- [Jupyter & IPython](#Jupyter-&-IPython)
 
-## [Git](#Git)?
+## [Git](#Git)
 * [Resources to learn Git](https://try.github.io)
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
@@ -31,7 +31,7 @@
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
-## [Programming Languages](#PLAN) 
+## [Programming Languages](#Programming-Languages) 
 ### Python
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
 
@@ -54,7 +54,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Getting started with conda](https://conda.io/docs/user-guide/getting-started.html)
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
 
-## [Jupyter & IPython](#JIP)
+## [Jupyter & IPython](#Jupyter-&-IPython)
 * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
 * [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
