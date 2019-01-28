@@ -14,7 +14,7 @@
   - Pandas
   - SciPy
 - [Markdown](#Markdown) 
-- [Jupyter Notebook and IPython](#Jupyter-and-IPython)
+- [Jupyter Notebook and IPython](#Jupyter-Notebook-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
 
 ## [Git](#Git)
@@ -77,18 +77,6 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
-## [Jupyter Notebook and IPython](#Jupyter-and-IPython)
-The [Jupyter Notebook](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
-
-* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-* [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
-* [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
-* [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-* [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
-* [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
-* [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)
-* [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
-
 ## [Python Libraries for Data Science](#Python-Libraries-for-Data-Science)
 
 ### Numpy:
@@ -108,6 +96,18 @@ The [Jupyter Notebook](https://jupyter.org) is an open-source web application th
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
+## [Jupyter Notebook and IPython](#Jupyter-Notebook-and-IPython)
+The [Jupyter Notebook](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
+
+* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
+* [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
+* [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+* [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+* [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+* [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)
+* [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
+* Talk: [Jupyter (Formerly IPython Notebook)](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6973/pdf/imm6973.pdf) by Finn Arup Nielsen <br>
 
 ## [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
 * [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
