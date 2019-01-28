@@ -56,6 +56,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 * [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
 * [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)
+* [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
 
 ## Command Prompt Cheat sheet
 * [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
