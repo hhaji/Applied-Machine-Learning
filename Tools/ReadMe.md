@@ -1,7 +1,7 @@
 # Tools in Data Science: 
--  [Git](#Git)
+- [Git](#Git)
 - [Markdown](#Markdown) 
-- [Programming Language](#PL)
+- [Programming Language](#Programming Language)
 - [Jupyter & IPython](#JIP)
 
 ## [Git](#Git)
@@ -31,7 +31,7 @@
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
-## [Programming Language](#PL) 
+## [Programming Language](#Programming Language) 
 ### Python
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
 
