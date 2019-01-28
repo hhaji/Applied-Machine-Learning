@@ -8,6 +8,9 @@
 - [Jupyter and IPython](#Jupyter-and-IPython)
 
 ## [Git](#Git)
+[Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
+
+Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 * [Resources to learn Git](https://try.github.io)
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
@@ -27,12 +30,6 @@
 * [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino
 * [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 * [A Quick Guide to Git and Version Control](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
-
-## [Markdown](#Markdown) 
-* [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-* [Learn Markdown Online](https://commonmark.org/help/tutorial/)
-* [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
-* [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
 ## [Programming Languages](#Programming-Languages) 
 ### Python
@@ -56,6 +53,12 @@ If you want to solve interesting problems to practice Python or R, then we recom
 
 * [Getting started with conda](https://conda.io/docs/user-guide/getting-started.html)
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
+
+## [Markdown](#Markdown) 
+* [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Learn Markdown Online](https://commonmark.org/help/tutorial/)
+* [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
+* [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
 ## [Jupyter and IPython](#Jupyter-and-IPython)
 * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
