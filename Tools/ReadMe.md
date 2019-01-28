@@ -10,7 +10,6 @@
 ## [Git](#Git)
 [Git](https://git-scm.com) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is [easy to learn](https://git-scm.com/doc) and has a [tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). 
 
-Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 * [Resources to learn Git](https://try.github.io)
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
