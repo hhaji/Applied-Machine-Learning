@@ -8,11 +8,11 @@
   - R
   - Project euler
   - Anaconda (Installing Python using Anaconda)
+  - Tutorials and Jupyter Notebooks
 - [Python Libraries for Data Science](#Python-Libraries-for-Data-Science) 
   - Numpy
   - Pandas
   - SciPy
-  
 - [Markdown](#Markdown) 
 - [Jupyter Notebook and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
@@ -60,7 +60,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 ### Anaconda
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
 
-### Python (Tutorials and Jupyter Notebooks): 
+### Tutorials and Jupyter Notebooks: 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Real Python Tutorials](https://realpython.com)
 * [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
@@ -98,6 +98,7 @@ The [Jupyter Notebook](https://jupyter.org) is an open-source web application th
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
 ### Pandas:
+[Pandas](https://pandas.pydata.org) is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
