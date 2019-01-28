@@ -1,5 +1,5 @@
 # Tools in Data Science: 
--  Git{#Git} 
+-  [Git](#Git)
 - [Markdown](Markdown) 
 - [Programming Language](#PL)
 - [Jupyter & IPython](#JIP)
