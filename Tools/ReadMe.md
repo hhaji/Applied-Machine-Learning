@@ -9,6 +9,10 @@
   - Project euler
   - Anaconda (Installing Python using Anaconda)
 - [Python Libraries for Data Science](#Python-Libraries-for-Data-Science) 
+  - Numpy
+  - Pandas
+  - SciPy
+  
 - [Markdown](#Markdown) 
 - [Jupyter Notebook and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
@@ -56,6 +60,12 @@ If you want to solve interesting problems to practice Python or R, then we recom
 ### Anaconda
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
 
+### Python (Tutorials and Jupyter Notebooks): 
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
+* [Real Python Tutorials](https://realpython.com)
+* [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
+* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
+
 * [Getting started with conda](https://conda.io/docs/user-guide/getting-started.html)
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
 
@@ -79,29 +89,24 @@ The [Jupyter Notebook](https://jupyter.org) is an open-source web application th
 * [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)
 * [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
 
-## [Python Libraries for Data Science](#Python-Libraries-for-Data-Science)(Jupyter Notebooks)
+## [Python Libraries for Data Science](#Python-Libraries-for-Data-Science)
 
-#### Numpy:
+### Numpy:
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
-#### Pandas:
+### Pandas:
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
 
-#### SciPy:
+### SciPy:
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
-#### Python: 
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
-* [Real Python Tutorials](https://realpython.com)
-* [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
-* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
 ## [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
 * [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
