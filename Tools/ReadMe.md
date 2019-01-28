@@ -4,7 +4,7 @@
 - [Programming Languages](#PLAN)
 - [Jupyter & IPython](#JIP)
 
-## [Git](#Git)
+## [Git](#Git)?
 * [Resources to learn Git](https://try.github.io)
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
