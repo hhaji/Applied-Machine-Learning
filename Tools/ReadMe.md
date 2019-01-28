@@ -1,10 +1,10 @@
 # Tools in Data Science: 
-- [Git](#Git)
-- [Markdown](#Markdown) 
+- [Git](Git)
+- [Markdown](Markdown) 
 - [Programming Language](#PL)
 - [Jupyter & IPython](#JIP)
 
-## Git # {#Git}
+## Git {#Git}
 * [Resources to learn Git](https://try.github.io)
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
@@ -25,7 +25,7 @@
 * [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 * [A Quick Guide to Git and Version Control](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
 
-## Markdown {#Markdown}
+## Markdown # {#Markdown}
 * [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Learn Markdown Online](https://commonmark.org/help/tutorial/)
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
