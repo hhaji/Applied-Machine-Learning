@@ -50,6 +50,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
 
 ### Jupyter
+* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 * [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
