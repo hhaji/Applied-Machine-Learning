@@ -1,5 +1,8 @@
 # Tools in Data Science: 
 - [Git](#Git)
+  - [Videos](#Videos)
+  - [Git Cheat Sheets](#Git-Cheat-Sheets)
+  - [Slides](#Slides)
 - [Markdown](#Markdown) 
 - [Programming Languages](#Programming-Languages)
 - [Jupyter and IPython](#Jupyter-and-IPython)
@@ -11,16 +14,16 @@
 * [Git Book](https://git-scm.com/book/en/v2)
 * [Git Tutorial](http://www.cs.columbia.edu/~sedwards/classes/2013/4840/git-tutorial.pdf) by Jae Woo Lee and Stephen A. Edwards
 
-### Videos:
+### [Videos](#Videos):
 * [Parsclick (Git: In Persian)](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L)
 * [Parsclick (GitHub: In persian)](https://parsclick.net/course/PL3Y-E4YSE4wa_TUfN7G3rAMIiu6vIeepT)
 
-### Git Cheat Sheets:
+### [Git Cheat Sheets](#Git-Cheat-Sheets):
 * [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
 
-### Slides:
+### [Slides](#Slides):
 * [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino
 * [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 * [A Quick Guide to Git and Version Control](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
