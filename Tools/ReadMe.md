@@ -7,9 +7,9 @@
   - Python
   - R
   - Project euler
-  - Anaconda
+  - Anaconda (Installing Python using Anaconda)
 - [Markdown](#Markdown) 
-- [Jupyter and IPython](#Jupyter-and-IPython)
+- [Jupyter Notebook and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
 
 ## [Git](#Git)
@@ -59,12 +59,16 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
 
 ## [Markdown](#Markdown) 
+[Markdown](https://www.markdownguide.org/getting-started) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+
 * [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Learn Markdown Online](https://commonmark.org/help/tutorial/)
 * [Getting Started with R Markdown](https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html)
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
-## [Jupyter and IPython](#Jupyter-and-IPython)
+## [Jupyter Notebook and IPython](#Jupyter-and-IPython)
+The [Jupyter Notebook](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
+
 * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
 * [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
