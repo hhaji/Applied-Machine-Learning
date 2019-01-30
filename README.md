@@ -13,7 +13,6 @@
 - [Class time and Location](#Class-time-and-Location)
 - [Prerequisites](#Prerequisites)
 - [Projects](#Projects)
-  1. Latex
 - [Grading](#Grading)
 - [Miscellaneous](#Miscellaneous)
   1. [Topics](#Topics)
@@ -68,7 +67,7 @@ Projects are programming assignments that cover the topic of this course. Any pr
 * [SciPy:](https://www.scipy.org) A Python package for mathematics, science, and engineering. <br>
 * [IPython:](https://ipython.org) An architecture for interactive computing with Python. <br>
 
-#### Latex
+***Latex:**
 The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
 A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
 Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
