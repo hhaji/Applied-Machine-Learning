@@ -5,8 +5,8 @@
 
 ---
 **Index:**
-+ [Course Overview](#Course-Overview)
-+ [Main TextBooks](#Main-TextBooks)
+1. [Course Overview](#Course-Overview)
+2. [Main TextBooks](#Main-TextBooks)
 + [Slides and Papers](#Slides-and-Papers)
   1. [Toolkit Lab](#Toolkit-Lab) 
   2. [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
