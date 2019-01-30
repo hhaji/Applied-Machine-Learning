@@ -14,7 +14,7 @@
   - Pandas
   - SciPy
 - [Markdown](#Markdown) 
-- [Jupyter Notebook and IPython](#Jupyter-Notebook-and-IPython)
+- [Jupyter and IPython](#Jupyter-and-IPython)
 - [Command Prompt Cheat sheet](#Command-Prompt-Cheat-sheet)
 
 ## [Git](#Git)
@@ -97,9 +97,10 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
-## [Jupyter and IPython](#Jupyter-Notebook-and-IPython)
+## [Jupyter and IPython](#Jupyter-and-IPython)
 The [Jupyter](https://jupyter.org) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Also, [IPython](https://ipython.org) provides a rich architecture for interactive computing with in multiple programming languages.
 
+* Install: [JupyterLab User Cheatsheet & Jupyter NoteBooks User Cheatsheet](https://docs.anaconda.com/_downloads/JupyterLab-Notebook-Cheatsheet.pdf)
 * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
 * [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
