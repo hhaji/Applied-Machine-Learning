@@ -8,17 +8,17 @@
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. [Toolkit Lab](#Toolkit-Lab) 
-  2. [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
+  1- [Toolkit Lab](#Toolkit-Lab) 
+  2- [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class time and Location](#Class-time-and-Location)
 - [Prerequisites](#Prerequisites)
 - [Projects](#Projects)
 - [Grading](#Grading)
 - [Miscellaneous](#Miscellaneous)
-  1. [Topics](#Topics)
-  2. [Account](#Account)
-  3. [Academic Honor Code](#Academic-Honor-Code)
-  4. [Questions](#Questions)
+  1- [Topics](#Topics)
+  2- [Account](#Account)
+  3- [Academic Honor Code](#Academic-Honor-Code)
+  4- [Questions](#Questions)
 ---
 
 ## [Course Overview:](#Course-Overview)
@@ -35,7 +35,7 @@ Learning algorithms are ubiquitous, and are playing an ever increasing role in o
 ## [Slides and Papers:](#Slides-and-Papers)
 
 Recommended Slides & Papers:
-1. #### [Toolkit Lab:](#Toolkit-Lab) 
+1- #### [Toolkit Lab:](#Toolkit-Lab) 
     - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science)
 
 
