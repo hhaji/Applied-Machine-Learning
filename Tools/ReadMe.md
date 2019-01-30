@@ -81,6 +81,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
 ## [Python Libraries for Data Science](#Python-Libraries-for-Data-Science)
+Python continues to take leading positions in solving data science tasks and challenges. [Kdnuggets](https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html) introduced 20 libraries of Python for data science. Here are five of the most important of libraries: 
 
 ### NumPy
 [NumPy](http://www.numpy.org) is the fundamental package for scientific computing with Python. Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.<br>
