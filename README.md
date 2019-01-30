@@ -3,45 +3,35 @@
 [Data Science Center](http://ds.sbu.ac.ir)<br> 
 [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
-## Course Overview:
+---
+**Index:**
+- [Course Overview](Course-Overview)
+- [Main TextBooks](Main-TextBooks)
+- [Slides and Papers](Slides-and-Papers)
+  1. [Toolkit Lab](Toolkit-Lab) 
+  2. [Extra NoteBooks and Slides](Extra-NoteBooks-and-Slides)
+
+---
+
+## [Course Overview:](Course-Overview)
 Learning algorithms are ubiquitous, and are playing an ever increasing role in our daily lives. How are they different from any old algorithm? How can we reason about the ability of an algorithm to “learn from examples”, and classify data it has never seen? We will introduce the formal notions of learnability, generalization, supervised vs. unsupervised learning, etc. The goal is also to introduce the fundamental techniques and models that are central in today’s machine learning  applications. Because machine Learning can only be understood through practice, by using the algorithms, the course is accompanied with practicals during which students test a variety of machine learning algorithm with real world data.
 
 
-## Main TextBooks:
+## [Main TextBooks:](Main-TextBooks)
 * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](http://shop.oreilly.com/product/0636920052289.do) by  Aurélien Géron <br>
 * [Machine Learning: The Art and Science of Algorithms That Make Sense of Data](https://www.cs.bris.ac.uk/~flach/mlbook/) by Peter Flach <br>
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
 * [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
 
-## Slides & Papers:
+## [Slides and Papers:](Slides-and-Papers)
 
 Recommended Slides & Papers:
-1. **Toolkit Lab:** 
+1. [Toolkit Lab:](Toolkit-Lab) 
+  - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science)
 
-#### Numpy:
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
-* [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
-* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
-#### Pandas:
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
-* [Pandas (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/pandas) by Aleksey Bilogur <br>
-* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
-* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
-
-#### SciPy:
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
-* [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
-
-#### Python: 
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
-* [Real Python Tutorials](https://realpython.com)
-* [Python (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/python) by Colin Morris <br>
-* [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
-
-### Extra NoteBooks and Slides:
+### [Extra NoteBooks and Slides:](Extra-NoteBooks-and-Slides)
 * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
 * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
