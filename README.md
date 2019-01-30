@@ -8,9 +8,18 @@
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. [Toolkit Lab:](#Toolkit-Lab) 
+  1. [Toolkit Lab](#Toolkit-Lab) 
   2. [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
-
+- [Class time and Location](#Class-time-and-Location)
+- [Prerequisites](#Prerequisites)
+- [Projects](#Projects)
+  1. Latex
+- [Grading](#Grading)
+- [Miscellaneous](#Miscellaneous)
+  1. Topics
+  2. Account
+  3. Academic Honor Code
+  4. Questions
 ---
 
 ## [Course Overview:](#Course-Overview)
@@ -40,16 +49,15 @@ Recommended Slides & Papers:
 * [Scikit-Learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas <br>
 * [Data Science Roadmap](https://github.com/estraviz/data-science-roadmap#4-machine-learning-back-to-top-) by Javier Estraviz <br>
 
-
-## Class time and Location: 
+## [Class time and Location:](#Class-time-and-Location)
 Saturday and Monday 08:00-09:30 AM (Spring 2019), Room 204/1. 
 
-## Prerequisites:
+## [Prerequisites:](#Prerequisites)
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
 [Learn Probability and Statistics through interactive visualizations:](https://seeing-theory.brown.edu/index.html#firstPage) Seeing Theory was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
 
-## Projects:
+## [Projects:](#Projects)
 Projects are programming assignments that cover the topic of this course. Any project is written by  
 **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python packages as follows. <br>
 * [Python 3.7:](https://www.python.org/downloads/) An interactive, object-oriented, extensible programming language. <br>
@@ -66,18 +74,20 @@ A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring201
 Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
 Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
 
-## Grading:
+## [Grading:](#Grading)
 * Homework – 10%
 * Midterm – 40%
 * Endterm – 50%
 
-## Topics:
+## [Miscellaneous](#Miscellaneous)
+
+### Topics:
 Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford students ([CS224N](http://nlp.stanford.edu/courses/cs224n/2015/), [CS224D](http://cs224d.stanford.edu/reports_2016.html)) to get some general inspiration.
 
-## Account:
+### Account:
 It is necessary to have a [GitHub](https://github.com/) account to share your projects. It offers plans for both private repositories and free accounts. Github is like the hammer in your toolbox, therefore, you need to have it!
 
-## Academic Honor Code:
+### Academic Honor Code:
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
 We’ll follow the standard of Department of Mathematical Sciences approach: 
@@ -86,5 +96,5 @@ We’ll follow the standard of Department of Mathematical Sciences approach:
 *  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit <br>
 * You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code <br>
 
-## Questions?
+### Questions?
 I’ll be having office hours for this course on Monday 09:30 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
