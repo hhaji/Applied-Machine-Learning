@@ -40,7 +40,7 @@ Recommended Slides & Papers:
     - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science)
 
 
-### [Extra NoteBooks and Slides:](#Extra-NoteBooks-and-Slides)
+#### [Extra NoteBooks and Slides:](#Extra-NoteBooks-and-Slides)
 * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
 * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
