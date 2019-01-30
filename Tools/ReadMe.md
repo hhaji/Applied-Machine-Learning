@@ -13,6 +13,7 @@
   - Numpy
   - Pandas
   - Matplotlib
+  - Scikit-Learn
   - SciPy
 - [Markdown](#Markdown) 
 - [Jupyter and IPython](#Jupyter-and-IPython)
@@ -81,7 +82,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 
 ## [Python Libraries for Data Science](#Python-Libraries-for-Data-Science)
 
-### [NumPy:](http://www.numpy.org)
+### NumPy
 [NumPy](http://www.numpy.org) is the fundamental package for scientific computing with Python. Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.<br>
 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
@@ -89,7 +90,7 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson <br>
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 
-### [Pandas:](https://pandas.pydata.org)
+### Pandas
 [Pandas](https://pandas.pydata.org) is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.<br>
 
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
@@ -97,18 +98,18 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013) <br>
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) <br>
 
-### [Matplotlib:](https://matplotlib.org)
+### Matplotlib
 [Matplotlib](https://matplotlib.org) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
 
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
 
-### [Scikit-Learn:](https://scikit-learn.org)
+### Scikit-Learn
 [Scikit-Learn](https://scikit-learn.org) is a simple and efficient tools for data mining and data analysis. It was built on NumPy, SciPy, and Matplotlib. 
 
 * [Data Science iPython NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) by Donne Martin <br>
 
-### [SciPy:](https://github.com/scipy/scipy)
+### SciPy
 [SciPy](https://github.com/scipy/scipy) (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) <br>
