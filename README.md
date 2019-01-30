@@ -38,7 +38,6 @@ Recommended Slides & Papers:
 1. #### [Toolkit Lab:](#Toolkit-Lab) 
     - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science)
 
-
 #### [Extra NoteBooks and Slides:](#Extra-NoteBooks-and-Slides)
 * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
