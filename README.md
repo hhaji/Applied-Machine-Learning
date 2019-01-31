@@ -34,7 +34,7 @@ Learning algorithms are ubiquitous, and are playing an ever increasing role in o
 ## Slides and Papers:
 
 Recommended Slides & Papers:
-1. Toolkit Lab:
+1. ### Toolkit Lab:
     - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science)
 
 ### Extra NoteBooks and Slides:
