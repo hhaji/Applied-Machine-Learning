@@ -84,11 +84,11 @@ It is necessary to have a [GitHub](https://github.com/) account to share your pr
 ## Academic Honor Code:
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
-We’ll follow the standard of Department of Mathematical Sciences approach: 
-* You can get help, but you MUST acknowledge the help on the work you hand in <br>
-* Failure to acknowledge your sources is a violation of the Honor Code <br>
-*  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit <br>
-* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code <br>
+We will follow the standard of Department of Mathematical Sciences approach: 
+* You can get help, but you MUST acknowledge the help on the work you hand in
+* Failure to acknowledge your sources is a violation of the Honor Code
+*  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
+* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
 
 ## Questions?
-I’ll be having office hours for this course on Monday 09:30 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
+I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
