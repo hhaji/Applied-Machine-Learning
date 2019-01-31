@@ -4,7 +4,7 @@
 [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ---
-**Index:**
+## **Index:**
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
