@@ -41,9 +41,9 @@ Recommended Slides & Papers:
     **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
 
 - ### Extra NoteBooks and Slides:
+  * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
   * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
-  * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
   * [An Introduction to Statistical Learning with Applications in R](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven <br>
   * [iPython-NoteBooks](https://github.com/jdwittenauer/ipython-notebooks) by John Wittenauer <br>
   * [Scikit-Learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas <br>
