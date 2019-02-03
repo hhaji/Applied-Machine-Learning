@@ -1,7 +1,6 @@
 # Applied Machine Learning 
 [Course: Applied Machine Learning at Shahid Beheshti University](http://facultymembers.sbu.ac.ir/hhaji/machine-learning-2017/) <br>
-[Data Science Center](http://ds.sbu.ac.ir)<br> 
-[Shahid Beheshti University](http://www.sbu.ac.ir/)
+[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ---
 ### **Index:**
