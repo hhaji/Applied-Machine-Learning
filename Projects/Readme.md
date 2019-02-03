@@ -17,6 +17,7 @@ The following resources may be helpful for those still undecided about their cou
 * [CrowdFlower Data for Everyone library](http://www.crowdflower.com/data-for-everyone)
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
 * [Data Science Weekly](https://www.datascienceweekly.org/data-science-resources/data-science-datasets)
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience#data-sets)
 
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
 * [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
