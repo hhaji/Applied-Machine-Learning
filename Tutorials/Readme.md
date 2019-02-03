@@ -7,6 +7,9 @@
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/)
 * [Awesome Data Science:](https://github.com/bulutyazilim/awesome-datascience) An open source Data Science repository to learn and apply towards solving real world problems.
 
+## General:
+* [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
 ## Metric Learning
 * Paper: [Distance Metric Learning, with Application to Clustering with Side-Information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)
 * Survey: [A Survey on Metric Learning for Feature Vectors and Structured Data](https://arxiv.org/pdf/1306.6709.pdf) by Aurelien Bellet, Amaury Habrard, and Marc Sebban
