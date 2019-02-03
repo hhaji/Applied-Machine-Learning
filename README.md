@@ -43,7 +43,7 @@ Recommended Slides & Papers:
   * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
   * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
-  * [An Introduction to Statistical Learning with Applications in R](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven <br>
+  * [Python code for "An Introduction to Statistical Learning with Applications in R"](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven <br>
   * [iPython-NoteBooks](https://github.com/jdwittenauer/ipython-notebooks) by John Wittenauer <br>
   * [Scikit-Learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas <br>
   * [Data Science Roadmap](https://github.com/estraviz/data-science-roadmap#4-machine-learning-back-to-top-) by Javier Estraviz <br>
