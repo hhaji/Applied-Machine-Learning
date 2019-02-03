@@ -4,6 +4,7 @@
 * [Distill](https://distill.pub/about/) is an academic journal in machine learning and it was dedicated to clear explanations of machine learning. 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) by Jason Brownlee <br>
+* [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/)
 
 
 ## Metric Learning
