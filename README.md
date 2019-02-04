@@ -70,7 +70,7 @@ Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resourc
 Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
 
 ### A Fascinating Guide For Machine Learning:
-* [Technical Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
+* [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
 
 
 ## Grading:
