@@ -13,6 +13,7 @@ Each student will explain his/her project in a 10–15 minute presentation to th
 ## Datasets:
 The following resources may be helpful for those still undecided about their course projects. 
 * [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 * [CrowdFlower Data for Everyone library](http://www.crowdflower.com/data-for-everyone)
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
