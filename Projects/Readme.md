@@ -56,3 +56,14 @@ Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resou
 * [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
 * Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
 * Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang
+
+Competitions
+
+## Competitions:
+Here are some machine learning and data mining competition platforms:
+- [Kaggle](https://www.kaggle.com/)
+- [DrivenData](https://www.drivendata.org/)
+- [Analytics Vidhya](http://datahack.analyticsvidhya.com/)
+- [The Data Science Game](http://www.datasciencegame.com/)
+- [InnoCentive](https://www.innocentive.com/)
+- [TuneedIT](http://tunedit.org/challenges)
