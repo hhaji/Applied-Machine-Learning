@@ -68,6 +68,9 @@ A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring201
 Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
 Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
 
+* **A Fascinating Guide For Machine Learning:** [Technical Notes On Using Data Science & Artificial Intelligence 
+To Fight For Something That Matters](https://chrisalbon.com)
+
 ## Grading:
 * Projects and Midterm – 50%
 * Endterm – 50%
