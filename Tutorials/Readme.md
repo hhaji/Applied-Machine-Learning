@@ -4,7 +4,9 @@
 * [Distill](https://distill.pub/about/) is an academic journal in machine learning and it was dedicated to clear explanations of machine learning. 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) by Jason Brownlee <br>
-* [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/)
+* [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) BY Geckoboard Company
+  - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/)
+  - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/)
 * [Awesome Data Science:](https://github.com/bulutyazilim/awesome-datascience) An open source Data Science repository to learn and apply towards solving real world problems.
 
 ## General:
