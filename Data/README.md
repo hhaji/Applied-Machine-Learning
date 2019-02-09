@@ -4,12 +4,13 @@
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) BY Geckoboard Company
   - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/)
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) <br>
-  
+  <br>
   
   Common | Data |  Mistakes | to | Avoid
     -------- | ------- | --------| -----------| ----------
   [Cherry Picking](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cherry-picking/) |  [Data Dredging](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/data-dredging/) | [Survivorship Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/survivorship-bias/) | [Cobra Effect](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cobra-effect/) | [False Causality](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/false-causality/)
   [Gerrymandering](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gerrymandering/) | [Sampling Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/sampling-bias/) | [Gambler's Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gamblers-fallacy/) | [Hawthorne Effect](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/hawthorne-effect/) | [Regression Toward the Mean](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/regression-toward-the-mean/)  
+  [Simpson's Paradox](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/simpsons-paradox/) | [McNamara Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/mcnamara-fallacy/) | [Overfitting](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/overfitting/) | [Publication Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/publication-bias/) | [Danger of Summary Metrics](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/danger-of-summary-metrics/)
   
 
 ## Datasets:
