@@ -10,19 +10,6 @@ the student (NameOfData_Familyname). The folder should comprise a Readme.md file
 ### Project Presentation in the Class
 Each student will explain his/her project in a 10–15 minute presentation to the class. Presentations should clearly convey the project ideas, methods, and results, including the question(s) being addressed, the motivation of the analyses being employed, and relevant evaluations, contributions, and discussion questions.
 
-## Datasets:
-The following resources may be helpful for those still undecided about their course projects. 
-* [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-* [CrowdFlower Data for Everyone library](http://www.crowdflower.com/data-for-everyone)
-* [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
-* [Data Science Weekly](https://www.datascienceweekly.org/data-science-resources/data-science-datasets)
-* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience#data-sets)
-
-To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
-* [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
-
 ## Coding:
 Programming assignments will require the use of Python 3.7, as well as additional Python packages as follows. <br>
 * [Python 3.7:](https://www.python.org/downloads/) An interactive, object-oriented, extensible programming language.
