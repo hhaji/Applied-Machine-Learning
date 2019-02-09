@@ -45,4 +45,4 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 
 ### Jupyter NoteBooks:
 * [5-Day Challenge: Data Cleaning](https://www.kaggle.com/getting-started/52652#post300638) by Rachael Tatman
-* [HousePrice - data cleaning & visualization](https://www.kaggle.com/code1110/houseprice-data-cleaning-visualization) by Katsuhisa Kawaguchi
+* [HousePrice - Data Cleaning & Visualization](https://www.kaggle.com/code1110/houseprice-data-cleaning-visualization) by Katsuhisa Kawaguchi
