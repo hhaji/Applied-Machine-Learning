@@ -25,12 +25,13 @@ The following resources may be helpful for those still undecided about their cou
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
 * [Data Science Weekly](https://www.datascienceweekly.org/data-science-resources/data-science-datasets)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience#data-sets)
+* [Kaggle](https://www.kaggle.com/datasets)
 * [Cafebazaar](https://research.cafebazaar.ir/visage/datasets/) 
 
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
 * [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
 
-## Dealing with Data
+## Dealing with Data:
 * [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
 * [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
 * [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
@@ -41,3 +42,7 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 * [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
 * Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
 * Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang
+
+### Jupyter NoteBooks:
+* [5-Day Challenge: Data Cleaning](https://www.kaggle.com/getting-started/52652#post300638) by Rachael Tatman
+* [HousePrice - data cleaning & visualization](https://www.kaggle.com/code1110/houseprice-data-cleaning-visualization) by Katsuhisa Kawaguchi
