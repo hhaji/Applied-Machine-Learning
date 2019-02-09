@@ -1,9 +1,10 @@
-# How to Handle Data
+# Data
 
 ## Blogs: 
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) BY Geckoboard Company
   - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/)
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/)
+  
 
 ## Datasets:
 The following resources may be helpful for those still undecided about their course projects. 
@@ -20,7 +21,12 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 
 ## Dealing with Data
 * [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
+* [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
 * [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
+* [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+* [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
+* [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
 * [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
+* [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
 * Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
 * Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang
