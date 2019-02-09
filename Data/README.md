@@ -5,9 +5,9 @@
   - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/)
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/)
   
-  [Cherry Picking](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cherry-picking/) |  [Data Dredging](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/data-dredging/) | [Survivorship Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/survivorship-bias/) | []() | []()
-  -------------------------------------------------------------------------------------------------------------------------
-  []() | []() | []() | []() | []() 
+  [Cherry Picking](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cherry-picking/) |  [Data Dredging](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/data-dredging/) | [Survivorship Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/survivorship-bias/) | [Cobra Effect](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cobra-effect/) | [False Causality](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/false-causality/)
+  -------------------------------------------------------------------------------------
+  [Gerrymandering](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gerrymandering/) | []() | []() | []() | []() 
   []() | []() | []() | []() | []() 
   
 
