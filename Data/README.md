@@ -1,4 +1,5 @@
 # Data
+Here we introduce several blogs related to data and data handling and also some resources of datasets. 
 
 ## Blogs: 
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) BY Geckoboard Company
