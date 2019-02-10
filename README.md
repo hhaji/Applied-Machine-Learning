@@ -1,5 +1,5 @@
 # Applied Machine Learning 
-[Course: Applied Machine Learning at Shahid Beheshti University](http://facultymembers.sbu.ac.ir/hhaji/machine-learning-2017/) <br>
+Course: Applied Machine Learning at Shahid Beheshti University <br>
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ---
@@ -90,7 +90,7 @@ General mathematical sophistication; and a solid understanding of Algorithms, Li
 - [Statistics and Probability:](https://stattrek.com) This website provides training and tools to help you solve statistics problems quickly, easily, and accurately - without having to ask anyone for help.
 - Jupyter NoteBooks: [Introduction to Statistics](https://github.com/rouseguy/intro2stats) by Bargava
 - Video: Professor John Tsitsiklis's [Video Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/) on Applied Probability.
-- Video: Prof. Krishna Jagannathan's [Video Lectures](https://nptel.ac.in/courses/108106083/) on Probability Theory.
+- Video: Professor Krishna Jagannathan's [Video Lectures](https://nptel.ac.in/courses/108106083/) on Probability Theory.
 
 
 
