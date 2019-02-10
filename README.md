@@ -61,11 +61,10 @@ Recommended Slides & Papers:
 Saturday and Monday 08:00-09:30 AM (Spring 2019), Room 204/1. 
 
 ## Projects:
-```javascript
 Projects are programming assignments that cover the topic of this course. Any project is written by     
 **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as  
 additional Python libraries as follows.  
-```
+
 * [Python 3.7:](https://www.python.org/downloads/) An interactive, object-oriented, extensible programming language. <br>
 * [NumPy:](http://www.numpy.org) A Python package for scientific computing. <br>
 * [Pandas:](https://pandas.pydata.org) A Python package for high-performance, easy-to-use data structures and data analysis tools. <br>
@@ -89,10 +88,9 @@ Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resou
 * Endterm – 50%
 
 ## Prerequisites:
-```javascript
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
 Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
-```
+
 ### Linear Algebra:
 - Video: Professor Gilbert Strang's [Video Lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) on linear algebra.
 
@@ -107,16 +105,22 @@ Probability Theory, at the advanced undergraduate or beginning graduate level, o
 Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford students ([CS224N](http://nlp.stanford.edu/courses/cs224n/2015/), [CS224D](http://cs224d.stanford.edu/reports_2016.html)) to get some general inspiration.
 
 ## Account:
-It is necessary to have a [GitHub](https://github.com/) account to share your projects. It offers plans for both private repositories and free accounts. Github is like the hammer in your toolbox, therefore, you need to have it!
+It is necessary to have a [GitHub](https://github.com/) account to share your projects. It offers 
+plans for both private repositories and free accounts. Github is like the hammer in your toolbox, 
+therefore, you need to have it!
 
 ## Academic Honor Code:
-Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
+```javascript
+Honesty and integrity are vital elements of the academic works. All your submitted assignments must  
+be entirely your own (or your own group's).
 
 We will follow the standard of Department of Mathematical Sciences approach: 
 * You can get help, but you MUST acknowledge the help on the work you hand in
 * Failure to acknowledge your sources is a violation of the Honor Code
 *  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
-* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
+* You should not use code of others or be looking at code of others when you write your own: You  
+can talk to people but have to write your own solution/code
+```
 
 ## Questions?
 I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
