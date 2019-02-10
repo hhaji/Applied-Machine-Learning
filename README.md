@@ -61,8 +61,11 @@ Recommended Slides & Papers:
 Saturday and Monday 08:00-09:30 AM (Spring 2019), Room 204/1. 
 
 ## Projects:
-Projects are programming assignments that cover the topic of this course. Any project is written by  
-**[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries as follows. <br>
+```javascript
+Projects are programming assignments that cover the topic of this course. Any project is written by     
+**[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as  
+additional Python libraries as follows.  
+```
 * [Python 3.7:](https://www.python.org/downloads/) An interactive, object-oriented, extensible programming language. <br>
 * [NumPy:](http://www.numpy.org) A Python package for scientific computing. <br>
 * [Pandas:](https://pandas.pydata.org) A Python package for high-performance, easy-to-use data structures and data analysis tools. <br>
@@ -86,8 +89,10 @@ Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resou
 * Endterm – 50%
 
 ## Prerequisites:
-General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
-
+```javascript
+General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
+Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
+```
 ### Linear Algebra:
 - Video: Professor Gilbert Strang's [Video Lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) on linear algebra.
 
