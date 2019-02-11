@@ -7,6 +7,9 @@
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
   1. [Toolkit Lab](#Toolkit-Lab) 
+  2. [Introduction](#Introduction)
+  3. Lecture 1: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
+  4. Lecture 2: [PAC Learning](#PAC-Learning)
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class time and Location](#Class-time-and-Location)
 - [Projects](#Projects)
@@ -47,6 +50,12 @@ Recommended Slides & Papers:
     **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
     **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
     **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
+2. ### Introduction
+3. ### Empirical Risk Minimization
+    A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization
+    - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz 
+4. ### PAC Learning
+    - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 
 - ### Extra NoteBooks and Slides:
   * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
