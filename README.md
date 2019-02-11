@@ -1,4 +1,4 @@
-# Course: Applied Machine Learning  
+# Course: Applied Machine Learning  (Spring 2019)
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ---
