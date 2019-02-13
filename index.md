@@ -52,6 +52,7 @@ variety of machine learning algorithm with real world data.
 
 Recommended Slides & Papers:
 1. ### <a name="Toolkit-Lab"></a>Toolkit Lab:
+    - [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/)
     - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
     **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
     **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
