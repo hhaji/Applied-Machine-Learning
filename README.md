@@ -11,7 +11,7 @@
   3. Lecture 1: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
   4. Lecture 2: [PAC Learning](#PAC-Learning)
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
-- [Class time and Location](#Class-time-and-Location)
+- [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
 - [Grading](#Grading)
