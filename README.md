@@ -50,7 +50,8 @@ Recommended Slides & Papers:
     **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
     **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
     **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
-2. ### Introduction
+2. ### <a name="Introduction"></a>Introduction
+2. ### Introduction22
 3. ### Empirical Risk Minimization
     A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization
     - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz 
