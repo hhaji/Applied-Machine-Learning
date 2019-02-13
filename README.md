@@ -24,7 +24,7 @@
 - [Questions](#Questions)
 ---
 
-## <a name="Course Overview"></a>Course Overview:
+## <a name="Course-Overview"></a>Course Overview:
 ```javascript
 Learning algorithms are ubiquitous, and are playing an ever increasing role in our daily lives. How  
 are they different from any old algorithm? How can we reason about the ability of an algorithm to  
