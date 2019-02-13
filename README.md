@@ -1,7 +1,10 @@
 # Course: Applied Machine Learning  (Spring 2019)
-[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)
+[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/) <br>
+Lecturer: [Hossein Hajiabolhassan](hhaji.github.io) <br>
+This repository houses the files, slides, and source code of the webpage of this couse at Github: https://hhaji.github.io/Applied-Machine-Learning/
 
 ---
+
 ### **Index:**
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
@@ -26,6 +29,7 @@
   - [Data](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Data)
   - [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects)
   - [Tutorials](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Tutorials) 
+  
 ---
 
 ## <a name="Course-Overview"></a>Course Overview:
