@@ -16,6 +16,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
   - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
+  - [Latex](#Latex)
 - [Grading](#Grading)
 - [Prerequisites](#Prerequisites)
   - [Linear Algebra](#Linear-Algebra)
@@ -90,12 +91,6 @@ additional Python libraries as follows.
 * [SciPy:](https://www.scipy.org) A Python package for mathematics, science, and engineering. <br>
 * [IPython:](https://ipython.org) An architecture for interactive computing with Python. <br>
 
-**Latex:**
-The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
-A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
-Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
-Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
-
 ### <a name="Google-Colab"></a>Google Colab:
 [Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
   - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
@@ -104,6 +99,11 @@ Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resou
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
 * [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
 
+### <a name="Latex"></a>Latex:
+The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
+  - A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
+  - Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
+  - Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
 
 ## <a name="Grading"></a>Grading:
 * Projects and Midterm – 50%
