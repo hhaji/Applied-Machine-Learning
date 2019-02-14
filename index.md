@@ -97,7 +97,7 @@ Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resourc
 Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
 
 ### <a name="Google-Colab"></a>Google Colab:
-**[Google Colab]**(https://colab.research.google.com) is a free cloud service and it supports free GPU! 
+[Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
   - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
   - Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
 
