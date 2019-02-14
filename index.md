@@ -14,6 +14,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
+  - [Google Colab](#Google-Colab)
   - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
 - [Grading](#Grading)
 - [Prerequisites](#Prerequisites)
@@ -94,6 +95,11 @@ The students can include mathematical notation within markdown cells using LaTeX
 A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
 Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
 Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
+
+### <a name="Google-Colab"></a>Google Colab:
+**[Google Colab]**(https://colab.research.google.com) is a free cloud service and it supports free GPU! 
+  - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
+  - Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
 
 ### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
 * [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
