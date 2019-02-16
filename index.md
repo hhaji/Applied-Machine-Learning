@@ -60,9 +60,12 @@ Recommended Slides & Papers:
     **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
     **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
 2. ### <a name="Introduction"></a>Introduction
-3. ### <a name="Empirical-Risk-Minimization"></a>Empirical Risk Minimization
-    A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization
-    - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz 
+3. ### <a name="Empirical-Risk-Minimization"></a>Empirical Risk Minimization 
+    A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization <br>
+   Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+       **Exercises:** 2.1, 2.2, and 2.3 
+    - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz <br>
+    
 4. ### <a name="PAC-Learning"></a>PAC Learning
     - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 
