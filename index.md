@@ -37,8 +37,8 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 Machine learning is an area of artificial intelligence that provides systems the ability to 
 automatically learn. Machine learning allows machines to handle new situations via analysis, 
 self-training, observation and experience. The wonderful success of machine learning has made 
-it the default method of choice for experts. In this course, we review the fundamentals and 
-algorithms of machine learning. 
+it the default method of choice for artificial intelligence experts. In this course, we review 
+the fundamentals and algorithms of machine learning. 
 ```
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
