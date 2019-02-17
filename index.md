@@ -64,7 +64,7 @@ Recommended Slides & Papers:
     - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz <br>
     
 4. ### <a name="PAC-Learning"></a>PAC Learning
-   Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms]
+   Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
     - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
