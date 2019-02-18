@@ -11,6 +11,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   2. [Introduction](#Introduction)
   3. Lecture 1: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
   4. Lecture 2: [PAC Learning](#PAC-Learning)
+  5. Lecture 3: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
@@ -66,6 +67,8 @@ Recommended Slides & Papers:
 4. ### <a name="PAC-Learning"></a>PAC Learning
    Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
     - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
+5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff
+   Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
 
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
