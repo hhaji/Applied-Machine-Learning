@@ -13,7 +13,6 @@
 
 ## Bias-Variance Trade-Off:
 * [Bias and Variance in Machine Learning](https://medium.com/datadriveninvestor/bias-and-variance-in-machine-learning-51fdd38d1f86) by Renu Khandelwal
-* [Bias Versus Variance (Inographic)](https://elitedatascience.com/bias-variance-tradeoff)
 * [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
 * [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
 * [A Visual Introduction to Machine Learning: Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) by Stephanie Yee and Tony Chu
