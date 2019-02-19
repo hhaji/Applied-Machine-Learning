@@ -6,7 +6,7 @@
 * [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) by Jason Brownlee <br>
 * [Awesome Data Science:](https://github.com/bulutyazilim/awesome-datascience) An open source Data Science repository to learn and apply towards solving real world problems. <br>
 * [New to Data School? Start Here!](https://www.dataschool.io/start/) by Data School
-* [R2D3:](http://www.r2d3.us) an experiment in expressing statistical thinking with interactive design.
+* [R2D3:](http://www.r2d3.us) an experiment in expressing statistical thinking with interactive design
 
 ## General:
 * Paper: [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
@@ -16,7 +16,7 @@
 * [Bias Versus Variance (Inographic)](https://elitedatascience.com/bias-variance-tradeoff)
 * [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
 * [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
-* [A Visual Introduction to Machine Learning: Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+* [A Visual Introduction to Machine Learning: Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) by Stephanie Yee and Tony Chu
 
 ## Metric Learning:
 * Paper: [Distance Metric Learning, with Application to Clustering with Side-Information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)
