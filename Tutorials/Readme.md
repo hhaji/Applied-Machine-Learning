@@ -9,8 +9,11 @@
 
 ## General:
 * Paper: [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
+
+### Bias-Variance Trade-Off
 * [Bias and Variance in Machine Learning](https://medium.com/datadriveninvestor/bias-and-variance-in-machine-learning-51fdd38d1f86) by Renu Khandelwal
 * [Bias Versus Variance (Inographic)](https://elitedatascience.com/bias-variance-tradeoff)
+* [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
 
 ## Metric Learning
 * Paper: [Distance Metric Learning, with Application to Clustering with Side-Information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)
