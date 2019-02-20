@@ -6,7 +6,7 @@
 * [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) by Jason Brownlee <br>
 * [Awesome Data Science:](https://github.com/bulutyazilim/awesome-datascience) An open source Data Science repository to learn and apply towards solving real world problems. <br>
 * [New to Data School? Start Here!](https://www.dataschool.io/start/) by Data School
-* [R2D3:](http://www.r2d3.us) an experiment in expressing statistical thinking with interactive design
+* [R2D3:](http://www.r2d3.us) An experiment in expressing statistical thinking with interactive design
 
 ## General:
 * Paper: [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
