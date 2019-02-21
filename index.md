@@ -71,7 +71,7 @@ Recommended Slides & Papers:
     - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff
    Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
-   - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz 
+   - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
 
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
