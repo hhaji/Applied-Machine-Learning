@@ -28,9 +28,9 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 - [Academic Honor Code](#Academic-Honor-Code)
 - [Questions](#Questions)
 - Miscellaneous
-  - [Data](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Data)
-  - [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects)
-  - [Tutorials](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Tutorials) 
+  - [Data](https://github.com/hhaji/Applied-Machine-Learning/Data)
+  - [Projects](https://github.com/hhaji/Applied-Machine-Learning/Projects)
+  - [Tutorials](https://github.com/hhaji/Applied-Machine-Learning/Tutorials) 
   
 ---
 
