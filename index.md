@@ -11,7 +11,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   2. [Introduction](#Introduction)
   3. Lecture 1: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
   4. Lecture 2: [PAC Learning](#PAC-Learning)
-  5. Lecture 3: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)
+  5. Lecture 3: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)  
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
