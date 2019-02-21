@@ -58,7 +58,8 @@ Recommended Slides & Papers:
     **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
     **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
 2. ### <a name="Introduction"></a>Introduction
-    - Slide: [Types of Machine Learning](http://www.lsi.upc.es/~bejar/apren/docum/trans/00-introAprendizaje-eng.pdf) by Javier Bejar  
+    - Slide: [Machine Learning: Types of Machine Learning I](http://www.lsi.upc.es/~bejar/apren/docum/trans/00-introAprendizaje-eng.pdf) by Javier Bejar  
+    - Slide: [Machine Learning: Types of Machine Learning II](http://www.lsi.upc.edu/~bejar/apren/docum/trans/01-apind-eng.pdf) by Javier Bejar  
 3. ### <a name="Empirical-Risk-Minimization"></a>Empirical Risk Minimization 
     A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization <br>
    Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
