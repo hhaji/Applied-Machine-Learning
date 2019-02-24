@@ -12,6 +12,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   3. Lecture 1: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
   4. Lecture 2: [PAC Learning](#PAC-Learning)
   5. Lecture 3: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)  
+  6. Lecture 4: [The VC-Dimension](#The-VC-Dimension)
   
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -76,7 +77,9 @@ Recommended Slides & Papers:
    Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
    - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
    - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
-
+6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension
+     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+     
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
