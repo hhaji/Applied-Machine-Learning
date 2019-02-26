@@ -45,9 +45,13 @@ the fundamentals and algorithms of machine learning.
 ```
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
-* [Hands-On Machine Learning with Scikit-Learn & TensorFlow](http://shop.oreilly.com/product/0636920052289.do) by  Aurélien Géron <br>
-* [Machine Learning: The Art and Science of Algorithms That Make Sense of Data](https://www.cs.bris.ac.uk/~flach/mlbook/) by Peter Flach <br>
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
+    - [Notebooks](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
+* [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) by Andreas Mueller and Sarah Guido
+    - [Notebooks](https://github.com/amueller/introduction_to_ml_with_python) <br>
+* [Hands-On Machine Learning with Scikit-Learn & TensorFlow](http://shop.oreilly.com/product/0636920052289.do) by  Aurélien Géron <br>
+    - [Notebooks](https://github.com/ageron/handson-ml) <br>
+* [Machine Learning: The Art and Science of Algorithms That Make Sense of Data](https://www.cs.bris.ac.uk/~flach/mlbook/) by Peter Flach <br>
 * [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
@@ -85,7 +89,6 @@ Recommended Slides & Papers:
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
      
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
-  * [Notebooks: Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml) <br>
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
   * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
   * [Python code for "An Introduction to Statistical Learning with Applications in R"](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven <br>
