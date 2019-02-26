@@ -46,7 +46,7 @@ the fundamentals and algorithms of machine learning.
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
-    - [Notebooks](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
+    - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
 * [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) by Andreas Mueller and Sarah Guido
     - [Notebooks](https://github.com/amueller/introduction_to_ml_with_python) <br>
 * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](http://shop.oreilly.com/product/0636920052289.do) by  Aurélien Géron <br>
