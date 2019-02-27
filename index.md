@@ -13,6 +13,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   4. Lecture 2: [PAC Learning](#PAC-Learning)
   5. Lecture 3: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)  
   6. Lecture 4: [The VC-Dimension](#The-VC-Dimension)
+  7. Lecture 5: [Linear Predictors](#Linear-Predictors)
   
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -87,6 +88,8 @@ Recommended Slides & Papers:
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension
      - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
+6. ###   <a name="Linear-Predictors"></a>Linear Predictors
+     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
