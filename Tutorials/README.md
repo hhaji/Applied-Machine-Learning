@@ -1,6 +1,7 @@
 # Tutorials:
 
 ## Blogs: 
+* [Machine Learning Crash Course from Google:](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning which covers building deep neural networks with TensorFlow.
 * [Distill](https://distill.pub/about/) is an academic journal in machine learning and it was dedicated to clear explanations of machine learning. 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) by Jason Brownlee <br>
