@@ -61,7 +61,7 @@ the fundamentals and algorithms of machine learning.
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
 Recommended Slides & Papers:
-1. ### Toolkit Lab: <a name="Part-1"></a>Part 1:
+1. ### Toolkit Lab: <a name="Part-1"></a>Part 1
     - [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/)
     - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
     **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
@@ -91,7 +91,7 @@ Recommended Slides & Papers:
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension
      - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
-7. ### Toolkit Lab: <a name="Part-2"></a>Part 2:
+7. ### Toolkit Lab: <a name="Part-2"></a>Part 2
      - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
         - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
      - Data Exploration: <br>
