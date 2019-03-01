@@ -7,13 +7,16 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. [Toolkit Lab](#Toolkit-Lab) 
+  1. [Toolkit Lab 1](#Toolkit-Lab-1) 
   2. [Introduction](#Introduction)
   3. Lecture 1: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
   4. Lecture 2: [PAC Learning](#PAC-Learning)
   5. Lecture 3: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)  
   6. Lecture 4: [The VC-Dimension](#The-VC-Dimension)
-  7. Lecture 5: [Linear Predictors](#Linear-Predictors)
+  7. [Toolkit Lab 2](#Toolkit-Lab-2) 
+  8. Lecture 5: [Linear Predictors](#Linear-Predictors)
+  9. Lecture 6: [Boosting](#Boosting)
+  10. Lecture 7: [Model Selection and Validation](#Model-Selection-and-Validation)
   
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -58,7 +61,7 @@ the fundamentals and algorithms of machine learning.
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
 Recommended Slides & Papers:
-1. ### <a name="Toolkit-Lab"></a>Toolkit Lab:
+1. ### <a name="Toolkit-Lab-1"></a>Toolkit Lab 1:
     - [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/)
     - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
     **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
@@ -88,10 +91,22 @@ Recommended Slides & Papers:
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension
      - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
-7. ###   <a name="Linear-Predictors"></a>Linear Predictors
+7. ### <a name="Toolkit-Lab-2"></a>Toolkit Lab 2
+     - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
+        -[Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
+     - Data Exploration:
+        -NoteBook: [Titanic 1 – Data Exploration](http://stamfordresearch.com/titanic-1-data-exploration/) by John Stamford 
+        -NoteBook: [Kaggle Titanic Supervised Learning Tutorial](https://www.kaggle.com/sashr07/kaggle-titanic-tutorial)
+     - Homework: [Take the 7-Day Machine Learning Challenge:](https://www.kaggle.com/page/machine-learning-course-ads?utm_medium=paid) Machine learning is the hottest field in data science, and this track will get you started quickly.
+8. ### <a name="Linear-Predictors"></a>Linear Predictors
      - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      - Slide: [Tutorial 3: Consistent linear predictors and Linear regression](https://webcourse.cs.technion.ac.il/236756/Spring2014/ho/WCFiles/Tutorial%203.pdf) by Nir Ailon <br>
      - NoteBook: [Perceptron in Scikit](https://github.com/chrisalbon/notes/blob/master/content/machine_learning/basics/perceptron_in_scikit-learn.ipynb) by Chris Albon <br>
+9. ### <a name="Boosting"></a>Boosting
+     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+10. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation
+     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+    
      
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
