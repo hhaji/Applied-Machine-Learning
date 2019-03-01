@@ -124,7 +124,6 @@ additional Python libraries as follows.
 
 ### <a name="Fascinating-Guides-For-Machine-Learning"></a>Fascinating Guides For Machine Learning:
 * [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
-* [Stamford Research: Machine Learning, Data Science, R, Python and Stuff](http://stamfordresearch.com/post/machine-learning/)
 
 ### <a name="Latex"></a>Latex:
 The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
