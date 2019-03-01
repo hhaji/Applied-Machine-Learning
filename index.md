@@ -93,7 +93,7 @@ Recommended Slides & Papers:
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
 7. ### <a name="Toolkit-Lab-2"></a>Toolkit Lab 2
      - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
-        -[Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
+        - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
      - Data Exploration: <br>
         - NoteBook: [Titanic 1 – Data Exploration](http://stamfordresearch.com/titanic-1-data-exploration/) by John Stamford 
         - NoteBook: [Kaggle Titanic Supervised Learning Tutorial](https://www.kaggle.com/sashr07/kaggle-titanic-tutorial)
