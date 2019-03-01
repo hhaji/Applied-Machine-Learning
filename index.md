@@ -88,8 +88,10 @@ Recommended Slides & Papers:
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension
      - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
-6. ###   <a name="Linear-Predictors"></a>Linear Predictors
+7. ###   <a name="Linear-Predictors"></a>Linear Predictors
      - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+     - Slide: [Tutorial 3: Consistent linear predictors and Linear regression](https://webcourse.cs.technion.ac.il/236756/Spring2014/ho/WCFiles/Tutorial%203.pdf) by Nir Ailon <br>
+     - NoteBook: [Perceptron in Scikit](https://chrisalbon.com/machine_learning/basics/perceptron_in_scikit-learn/) by Chris Albon <br>
      
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
