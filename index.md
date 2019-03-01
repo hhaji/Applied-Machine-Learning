@@ -19,7 +19,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
-  - [A Fascinating Guide For Machine Learning](#A-Fascinating-Guide-For-Machine-Learning)
+  - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
   - [Latex](#Latex)
 - [Grading](#Grading)
 - [Prerequisites](#Prerequisites)
@@ -122,8 +122,9 @@ additional Python libraries as follows.
   - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
   - [Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
 
-### <a name="A-Fascinating-Guide-For-Machine-Learning"></a>A Fascinating Guide For Machine Learning:
+### <a name="Fascinating-Guides-For-Machine-Learning"></a>Fascinating Guides For Machine Learning:
 * [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
+* [Stamford Research: Machine Learning, Data Science, R, Python and Stuff](http://stamfordresearch.com/post/machine-learning/)
 
 ### <a name="Latex"></a>Latex:
 The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
