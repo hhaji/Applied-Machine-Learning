@@ -1,7 +1,7 @@
 # Tutorials:
 
 ## Blogs: 
-* [Machine Learning:](https://towardsdatascience.com/machine-learning/home) Towards Data Science provides a platform for thousands of people to exchange ideas and to expand our understanding of data science <br>
+* [Machine Learning:](https://towardsdatascience.com/machine-learning/home) Towards Data Science provides a platform for data scientists to propose up-to-date content, mainly focused on data science, machine learning, artificial intelligence, and ...  <br>
 * [Machine Learning Crash Course from Google:](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning which covers building deep neural networks with TensorFlow.
 * [Distill](https://distill.pub/about/) is an academic journal in machine learning and it was dedicated to clear explanations of machine learning. 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
