@@ -91,7 +91,7 @@ Recommended Slides & Papers:
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension    
  Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
-     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>  
 7. ### Toolkit Lab: <a name="Part-2"></a>Part 2  
      - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
         - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
