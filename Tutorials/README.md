@@ -11,7 +11,9 @@
 * [R2D3:](http://www.r2d3.us) An experiment in expressing statistical thinking with interactive design
 
 ## General:
-* Paper: [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
+* Paper: [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos <br>
+* Paper: [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en/ir/pubs/archive/35179.pdf) by Alon Halevy, Peter Norvig, and Fernando Pereira <br>
+* [The End of Theory: The Data Deluge Makes The Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/) by Chris Anderson <br>
 
 ## Bias-Variance Trade-Off:
 * Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
