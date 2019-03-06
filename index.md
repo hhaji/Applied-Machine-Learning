@@ -88,17 +88,19 @@ Recommended Slides & Papers:
    - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
    - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
    - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
+   
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
  Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
      - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+     
 7. ### Toolkit Lab: <a name="Part-2"></a>Part 2 
 
      - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee <br>
-        - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
+           - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
      - Data Exploration: <br>
-        - NoteBook: [Titanic 1 – Data Exploration](http://stamfordresearch.com/titanic-1-data-exploration/) by John Stamford 
-        - NoteBook: [Kaggle Titanic Supervised Learning Tutorial](https://www.kaggle.com/sashr07/kaggle-titanic-tutorial)
+            - NoteBook: [Titanic 1 – Data Exploration](http://stamfordresearch.com/titanic-1-data-exploration/) by John Stamford 
+           - NoteBook: [Kaggle Titanic Supervised Learning Tutorial](https://www.kaggle.com/sashr07/kaggle-titanic-tutorial)
      - Homework: [Take the 7-Day Machine Learning Challenge of Kaggle:](https://www.kaggle.com/page/machine-learning-course-ads?utm_medium=paid) Machine learning is the hottest field in data science, and this track will get you started quickly. <br> 
      
 8. ### <a name="Linear-Predictors"></a>Linear Predictors 
