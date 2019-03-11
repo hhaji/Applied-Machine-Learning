@@ -31,5 +31,8 @@
 * Install: [Metric-Learn](https://github.com/metric-learn/metric-learn) 
 * Example: [Metric Learning and Plotting](https://github.com/metric-learn/metric-learn/blob/master/examples/metric_plotting.ipynb)
 
+## Cheat Sheets
+* [Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai) by Kailash Ahirwar <br>
+
 ## Videos:
 * [Machine Learning Video Library - Learning From Data](https://work.caltech.edu/library/index.html) by Yaser Abu-Mostafa
