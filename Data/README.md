@@ -27,6 +27,7 @@ The following resources may be helpful for those still undecided about their cou
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience#data-sets)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Cafebazaar](https://research.cafebazaar.ir/visage/datasets/) 
+* [DigiKala](https://www.dataacademy.ir/داده-های-باز-در-دیجی-کالا)
 
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
 * [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
