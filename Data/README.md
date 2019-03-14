@@ -25,12 +25,18 @@ The following resources may be helpful for those still undecided about their cou
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
 * [Data Science Weekly](https://www.datascienceweekly.org/data-science-resources/data-science-datasets)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience#data-sets)
-* [Kaggle](https://www.kaggle.com/datasets)
 * [Cafebazaar](https://research.cafebazaar.ir/visage/datasets/) 
 * [DigiKala](https://www.dataacademy.ir/داده-های-باز-در-دیجی-کالا) (Persian)
 
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
 * [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
+
+### Data Science Competition Platform
+* [Kaggle](https://www.kaggle.com/datasets)
+* [DrivenData](http://www.drivendata.org)
+* [TunedIT](http://www.tunedit.org)
+* [InnoCentive](https://www.innocentive.com)
+* [CrowdAnalytix](http://www.crowdanalytix.com)
 
 ## Dealing with Data:
 * [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
