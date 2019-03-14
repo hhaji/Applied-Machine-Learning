@@ -31,7 +31,7 @@ The following resources may be helpful for those still undecided about their cou
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
 * [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
 
-### Data Science Competition Platform
+### Data Science Competition Platforms:
 * [Kaggle](https://www.kaggle.com/datasets)
 * [DrivenData](http://www.drivendata.org)
 * [TunedIT](http://www.tunedit.org)
