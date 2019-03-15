@@ -28,6 +28,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 - [Prerequisites](#Prerequisites)
   - [Linear Algebra](#Linear-Algebra)
   - [Probability and Statistics](#Probability-and-Statistics)
+  - [Discrete Mathematics](#Discrete-Mathematics)
 - [Topics](#Topics)
 - [Account](#Account)
 - [Academic Honor Code](#Academic-Honor-Code)
@@ -183,6 +184,9 @@ Probability Theory, at the advanced undergraduate or beginning graduate level, o
 - Jupyter NoteBooks: [Introduction to Statistics](https://github.com/rouseguy/intro2stats) by Bargava
 - Video: Professor John Tsitsiklis's [Video Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/) on Applied Probability.
 - Video: Professor Krishna Jagannathan's [Video Lectures](https://nptel.ac.in/courses/108106083/) on Probability Theory.
+
+### <a name="Discrete-Mathematics"></a>Discrete Mathematics:
+Course (Videos, Lectures, Assignments): [Discrete Mathematics](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 
 ## <a name="Topics"></a>Topics:
 Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford students ([CS224N](http://nlp.stanford.edu/courses/cs224n/2015/), [CS224D](http://cs224d.stanford.edu/reports_2016.html)) to get some general inspiration.
