@@ -118,6 +118,8 @@ Recommended Slides & Papers:
     - [DataSets](https://github.com/nborwankar/LearnDataScience/tree/master/datasets) <br>
  
 9. ### <a name="Boosting"></a>Boosting 
+ Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+       **Exercises:** 10.1, 10.3, 10.4, and 10.5 <br>
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
 - Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G􏰀 Dietterich <br>
 - Slide: [Ensemble methods: Bagging and Boosting](https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class23.pdf) by Milos Hauskrecht <br>
