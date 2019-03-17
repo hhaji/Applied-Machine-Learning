@@ -17,6 +17,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   8. Lecture 5: [Linear Predictors](#Linear-Predictors)
   9. Lecture 6: [Boosting](#Boosting)
   10. Lecture 7: [Model Selection and Validation](#Model-Selection-and-Validation)
+  11. Lecture 8: [Decision Trees](#Decision-Trees) 
   
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -130,6 +131,9 @@ Recommended Slides & Papers:
 10. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br> 
 - NoteBook: [Cross Validation](https://www.ritchieng.com/machine-learning-cross-validation/) by Ritchie Ng <br>
+
+11. ### <a name="Decision-Trees"></a>Decision Trees  
+- Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br> 
      
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
