@@ -18,7 +18,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   9. Lecture 6: [Boosting](#Boosting)
   10. Lecture 7: [Model Selection and Validation](#Model-Selection-and-Validation)
   11. Lecture 8: [Decision Trees](#Decision-Trees) 
-  12. Lecture 8: [Neural Networks](#Neural-Networks) 
+  12. Lecture 9: [Neural Networks](#Neural-Networks) 
 
   
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
