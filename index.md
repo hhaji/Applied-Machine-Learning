@@ -18,6 +18,8 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   9. Lecture 6: [Boosting](#Boosting)
   10. Lecture 7: [Model Selection and Validation](#Model-Selection-and-Validation)
   11. Lecture 8: [Decision Trees](#Decision-Trees) 
+  12. Lecture 8: [Neural Networks](#Neural-Networks) 
+
   
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -133,6 +135,9 @@ Recommended Slides & Papers:
 - NoteBook: [Cross Validation](https://www.ritchieng.com/machine-learning-cross-validation/) by Ritchie Ng <br>
 
 11. ### <a name="Decision-Trees"></a>Decision Trees  
+- Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br> 
+
+12. ### <a name="Neural-Networks"></a>Neural Networks   
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br> 
      
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
