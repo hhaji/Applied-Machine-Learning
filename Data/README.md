@@ -25,6 +25,7 @@ The following resources may be helpful for those still undecided about their cou
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
 * [Data Science Weekly](https://www.datascienceweekly.org/data-science-resources/data-science-datasets)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience#data-sets)
+* [Get Financial Data Directly Into R](https://www.quandl.com/tools/r)
 * [Cafebazaar](https://research.cafebazaar.ir/visage/datasets/) 
 * [DigiKala](https://www.dataacademy.ir/داده-های-باز-در-دیجی-کالا) (Persian)
 
