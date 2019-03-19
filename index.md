@@ -18,7 +18,8 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   9. Lecture 6: [Boosting](#Boosting)
   10. Lecture 7: [Model Selection and Validation](#Model-Selection-and-Validation)
   11. Lecture 8: [Decision Trees](#Decision-Trees) 
-  12. Lecture 9: [Neural Networks](#Neural-Networks) 
+  12. Lecture 9: [Neural Networks](#Neural-Networks)    
+  13. Lecture 10: [Support Vector Machines](#Support-Vector-Machines) 
 
   
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
@@ -139,7 +140,10 @@ Recommended Slides & Papers:
 
 12. ### <a name="Neural-Networks"></a>Neural Networks   
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-     
+
+13. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
+ Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+      
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
   * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
