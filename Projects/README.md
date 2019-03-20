@@ -3,9 +3,28 @@ To bring together and apply the various topics covered in this course, you will 
 
 ## َUploading and Presentation of Project 
 ### Uploading Project in GitHub
-Students individually implement given assignments in recommended language. 
-Each Student should create his/her own folder inside of this folder (using pull request) and place his/her files in this folder. The name of each folder starts with the name of data followed by underline and it ends with the familyname of 
-the student (NameOfData_Familyname). The folder should comprise a Readme.md file containing the analysis of the result.
+Students individually implement given assignments in recommended language. Each Student should create his/her own GitHub repository for his/her project. The repository should comprise a Readme.md file containing the analysis of the result. It should include a short write-up including the following components:
+
+- Problem statement and hypothesis
+- Description of your data set and how it was obtained
+- Description of any pre-processing steps you took
+- What you learned from exploring the data, including visualizations
+- How you chose which features to use in your analysis
+- Details of your modeling process, including how you selected your models and validated them
+- Your challenges and successes
+- Possible extensions or business applications of your project
+- Conclusions and key learnings
+
+### Final Project  
+Your project repository on GitHub should contain the following:
+
+- Project paper: any format (PDF, Markdown, etc.)
+- Presentation slides: any format (PDF, PowerPoint, Google Slides, IPython Notebook, etc.)
+- Code: commented Python scripts, and any other code you used in the project
+- Visualizations: integrated into your paper and/or slides
+- Data: data files in "raw" or "processed" format
+- Data dictionary (aka "code book"): description of each variable, including units
+
 
 ### Project Presentation in the Class
 Each student will explain his/her project in a 10–15 minute presentation to the class. Presentations should clearly convey the project ideas, methods, and results, including the question(s) being addressed, the motivation of the analyses being employed, and relevant evaluations, contributions, and discussion questions.
