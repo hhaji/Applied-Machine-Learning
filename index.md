@@ -20,7 +20,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
   11. Lecture 11: [Model Selection and Validation](#Model-Selection-and-Validation)
   12. Lecture 12: [Decision Trees](#Decision-Trees) 
   13. Lecture 13: [Neural Networks](#Neural-Networks)    
-  14. Lecture 114: [Support Vector Machines](#Support-Vector-Machines) 
+  14. Lecture 14: [Support Vector Machines](#Support-Vector-Machines) 
 
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
