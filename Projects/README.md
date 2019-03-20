@@ -18,13 +18,12 @@ Students individually implement given assignments in recommended language. Each 
 ### Final Project  
 Your project repository on GitHub should contain the following:
 
-- Project paper: any format (PDF, Markdown, etc.)
-- Presentation slides: any format (PDF, PowerPoint, Google Slides, IPython Notebook, etc.)
-- Code: commented Python scripts, and any other code you used in the project
-- Visualizations: integrated into your paper and/or slides
-- Data: data files in "raw" or "processed" format
-- Data dictionary (aka "code book"): description of each variable, including units
-
+- Project paper: Any format (PDF, Markdown, etc.)
+- Presentation slides: Any format (PDF, PowerPoint, Google Slides, IPython Notebook, etc.)
+- Code: Commented Jupyter Notebooks, and any other code you used in the project
+- Visualizations: Integrated into your paper and/or slides
+- Data: Data files in "raw" or "processed" format
+- Data dictionary (aka "code book"): Description of each variable, including units
 
 ### Project Presentation in the Class
 Each student will explain his/her project in a 10–15 minute presentation to the class. Presentations should clearly convey the project ideas, methods, and results, including the question(s) being addressed, the motivation of the analyses being employed, and relevant evaluations, contributions, and discussion questions.
