@@ -7,21 +7,21 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. Toolkit Lab: [Part 1](#Part-1) 
-  2. Lecture 0: [Introduction](#Introduction)
-  3. Lecture 1: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
-  4. Lecture 2: [PAC Learning](#PAC-Learning)
-  5. Lecture 3: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)  
-  6. Lecture 4: [The VC-Dimension](#The-VC-Dimension)
-  7. Toolkit Lab: [Part 2](#Part-2) 
-  8. Lecture 5: [Linear Predictors](#Linear-Predictors)
-  9. Lecture 6: [Boosting](#Boosting)
-  10. Lecture 7: [Model Selection and Validation](#Model-Selection-and-Validation)
-  11. Lecture 8: [Decision Trees](#Decision-Trees) 
-  12. Lecture 9: [Neural Networks](#Neural-Networks)    
-  13. Lecture 10: [Support Vector Machines](#Support-Vector-Machines) 
+  1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
+  2. Lecture 2: [Introduction](#Introduction)
+  3. Lecture 3: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
+  4. Lecture 4: [PAC Learning](#PAC-Learning)
+  5. Lecture 5: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)  
+  6. Lecture 6: [The VC-Dimension](#The-VC-Dimension)
+  7. Lecture 7: [Toolkit Lab (Part 2)](#Part-2) 
+  8. Lecture 8: [Linear Predictors](#Linear-Predictors)
+  9. Lecture 9: [Nearest Neighbor](#Nearest-Neighbor) 
+  10. Lecture 10: [Boosting](#Boosting)
+  11. Lecture 11: [Model Selection and Validation](#Model-Selection-and-Validation)
+  12. Lecture 12: [Decision Trees](#Decision-Trees) 
+  13. Lecture 13: [Neural Networks](#Neural-Networks)    
+  14. Lecture 114: [Support Vector Machines](#Support-Vector-Machines) 
 
-  
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
@@ -66,7 +66,7 @@ the fundamentals and algorithms of machine learning.
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
 Recommended Slides & Papers:
-1. ### Toolkit Lab: <a name="Part-1"></a>Part 1
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
 - [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/)
 - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
     **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
@@ -99,7 +99,7 @@ Recommended Slides & Papers:
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      
-7. ### Toolkit Lab: <a name="Part-2"></a>Part 2 
+7. ### <a name="Part-2"></a>Toolkit Lab (Part 2) 
 - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee <br>
   - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
 - Data Exploration: <br>
@@ -120,8 +120,11 @@ Recommended Slides & Papers:
  - Lecture: [Logistic Regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) by Cosma Shalizi <br>
  - NoteBook: [Logistic Regression-Analysis](https://nbviewer.jupyter.org/github/nborwankar/LearnDataScience/blob/master/notebooks/WB3.%20Logistic%20Regression%20-%20Analysis-%20Worksheet.ipynb) by Nitin Borwankar <br>
     - [DataSets](https://github.com/nborwankar/LearnDataScience/tree/master/datasets) <br>
- 
-9. ### <a name="Boosting"></a>Boosting 
+9. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
+ Chapter 19 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+- NoteBook: [Training a Machine Learning Model with Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb) by Kevin Markham <br>
+    - [Video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4)
+10. ### <a name="Boosting"></a>Boosting 
  Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 10.1, 10.3, 10.4, and 10.5 <br>
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
@@ -131,7 +134,7 @@ Recommended Slides & Papers:
 - Slide: [Ensemble Methods](http://users.umiacs.umd.edu/~hcorrada/PracticalML/pdf/lectures/EnsembleMethods.pdf) by Héctor Corrada Bravo (Adapted from slides by Todd Holloway) <br>
 - Slide: [Tutorial 3](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/T3.pdf) by Mark Schmidt <br>
      
-10. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
+11. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - NoteBook: [Cross Validation](https://www.ritchieng.com/machine-learning-cross-validation/) by Ritchie Ng <br>
 - NoteBook: [Cross Validation for Parameter Tuning, Model Selection, and Feature Selection](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
@@ -141,13 +144,13 @@ Recommended Slides & Papers:
 - NoteBook: [Evaluating a Classification Model](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
     - [Video](https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9)
  
-11. ### <a name="Decision-Trees"></a>Decision Trees  
+12. ### <a name="Decision-Trees"></a>Decision Trees  
  Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 
-12. ### <a name="Neural-Networks"></a>Neural Networks   
+13. ### <a name="Neural-Networks"></a>Neural Networks   
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 
-13. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
+14. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
       
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
