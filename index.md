@@ -141,11 +141,11 @@ Recommended Slides & Papers:
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - NoteBook: [Cross Validation](https://www.ritchieng.com/machine-learning-cross-validation/) by Ritchie Ng <br>
 - NoteBook: [Cross Validation for Parameter Tuning, Model Selection, and Feature Selection](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
-    - [Video](https://www.youtube.com/watch?v=6dbrR-WymjI&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=7)
+  - [Video](https://www.youtube.com/watch?v=6dbrR-WymjI&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=7)
 - NoteBook: [Efficiently Searching for Optimal Tuning Parameters](https://github.com/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb) by Kevin Markham <br>
-    - [Video](https://www.youtube.com/watch?v=Gol_qOgRqfA&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=8)
+  - [Video](https://www.youtube.com/watch?v=Gol_qOgRqfA&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=8)
 - NoteBook: [Evaluating a Classification Model](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
-    - [Video](https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9)
+  - [Video](https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9)
  
 12. ### <a name="Decision-Trees"></a>Decision Trees  
  Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
