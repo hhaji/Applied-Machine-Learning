@@ -146,6 +146,7 @@ Recommended Slides & Papers:
   - [Video](https://www.youtube.com/watch?v=Gol_qOgRqfA&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=8)
 - NoteBook: [Evaluating a Classification Model](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9)
+  - Blog: [Random Test/Train Split is not Always Enough](http://www.win-vector.com/blog/2015/01/random-testtrain-split-is-not-always-enough/) by Win-Vector <br>
  
 12. ### <a name="Decision-Trees"></a>Decision Trees  
  Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
