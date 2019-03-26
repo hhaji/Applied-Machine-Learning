@@ -10,6 +10,7 @@
 * [New to Data School? Start Here!](https://www.dataschool.io/start/) by Data School
 * [R2D3:](http://www.r2d3.us) An experiment in expressing statistical thinking with interactive design
 * [Machine Learning Resources](https://www.ritchieng.com/machine-learning-resources/) by Ritchie Ng  
+* [Top 10 Machine Learning Algorithms for Beginners](https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/)
 
 ## General:
 * Paper: [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos <br>
