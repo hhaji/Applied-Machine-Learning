@@ -124,7 +124,7 @@ Recommended Slides & Papers:
     - [DataSets](https://github.com/nborwankar/LearnDataScience/tree/master/datasets) <br>
  - NoteBook: [Logistic Regression](https://github.com/justmarkham/DAT8/blob/master/notebooks/12_logistic_regression.ipynb) by Kevin Markham <br>  
  - Infographic and Code: [Simple Linear Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md) by Avik Jain <br>
- - Infographic: [Multiple Linear Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md) by Avik Jain <br>
+ - Infographic and Code: [Multiple Linear Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md) by Avik Jain <br>
  - Infographic and Code: [Logistic Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md) by Avik Jain <br>
 
 9. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
@@ -158,12 +158,16 @@ Recommended Slides & Papers:
  
 12. ### <a name="Decision-Trees"></a>Decision Trees  
  Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+   - Infographic and Code: [Decision Trees (100 Days Of ML Code)]( https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md) by Avik Jain <br>
 
 13. ### <a name="Neural-Networks"></a>Neural Networks   
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 
 14. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+  - Infographic: [Support Vector Machines (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg) by Avik Jain <br>
+    - [Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md)
+
       
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
