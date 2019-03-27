@@ -61,6 +61,9 @@ the fundamentals and algorithms of machine learning.
 -------|----|----|----|----|----
 a      |  b | c  |   d|  e |  f
 
+![Book 1](/Images/bishop-1x.jpg) ![Book 1](/Images/bishop-1x.jpg) ![Book 1](/Images/bishop-1x.jpg) ![Book 1](/Images/bishop-1x.jpg) ![Book 1](/Images/bishop-1x.jpg)
+
+
 
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
