@@ -54,6 +54,14 @@ it the default method of choice for artificial intelligence experts. In this cou
 the fundamentals and algorithms of machine learning. 
 ```
 ## <a name="Main-TextBooks"></a>Main TextBooks:
+
+
+
+  |   |   |   |   |
+--|---|---|---|---|---
+a  |  b | c  |   d|  e |  f
+
+
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
     - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
