@@ -57,9 +57,9 @@ the fundamentals and algorithms of machine learning.
 
 
 
-  |   |   |   |   |
---|---|---|---|---|---
-a  |  b | c  |   d|  e |  f
+ first |  2 | 3  |  4 |  5 | 6
+-------|----|----|----|----|----
+a      |  b | c  |   d|  e |  f
 
 
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
