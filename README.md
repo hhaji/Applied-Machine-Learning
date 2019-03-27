@@ -61,7 +61,7 @@ the fundamentals and algorithms of machine learning.
     - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
 * [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) by Andreas Mueller and Sarah Guido
     - [Notebooks](https://github.com/amueller/introduction_to_ml_with_python) <br>
-* [Pattern Recognition and Machine Learning](https://research.microsoft.com/en-us/um/people/cmbishop/PRML/) by Christopher Bishop <br>
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2FPRML%2F#!prml-book) by Christopher Bishop <br>
 * [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
