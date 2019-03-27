@@ -54,16 +54,7 @@ it the default method of choice for artificial intelligence experts. In this cou
 the fundamentals and algorithms of machine learning. 
 ```
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-
-
-
- first |  2 | 3  |  4 |  5 | 6
--------|----|----|----|----|----
-a      |  b | c  |   d|  e |  f
-
-![Book 1](/Images/bishop-1x.jpg) ![Book 1](/Images/bishop-1x.jpg) ![Book 1](/Images/bishop-1x.jpg) ![Book 1](/Images/bishop-1x.jpg) ![Book 1](/Images/bishop-1x.jpg)
-
-
+![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/bishop-1x.jpg) ![Book 3](/Images/geron-original.jpg) ![Book 4](/Images/bishop-1x.jpg) ![Book 5](/Images/	james-1x.jpg)
 
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
