@@ -96,7 +96,6 @@ Recommended Slides & Papers:
   - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
   - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
   - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham <br>
-  - NoteBook: [Tutorial: Learning Curves for Machine Learning in Python](https://www.dataquest.io/blog/learning-curves-machine-learning/) by Alex Olteanu <br>
    
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
  Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
@@ -153,6 +152,7 @@ Recommended Slides & Papers:
 - NoteBook: [Cross Validation](https://www.ritchieng.com/machine-learning-cross-validation/) by Ritchie Ng <br>
 - NoteBook: [Cross Validation for Parameter Tuning, Model Selection, and Feature Selection](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=6dbrR-WymjI&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=7)
+- NoteBook: [Tutorial: Learning Curves for Machine Learning in Python](https://www.dataquest.io/blog/learning-curves-machine-learning/) by Alex Olteanu <br>
 - NoteBook: [Efficiently Searching for Optimal Tuning Parameters](https://github.com/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=Gol_qOgRqfA&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=8)
 - NoteBook: [Evaluating a Classification Model](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
