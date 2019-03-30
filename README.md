@@ -29,6 +29,7 @@ The Webpage of the Course: [Applied Machine Learning](https://hhaji.github.io/Ap
   - [Google Colab](#Google-Colab)
   - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
   - [Latex](#Latex)
+  - [Useful NoteBooks](#Useful-NoteBooks)
 - [Grading](#Grading)
 - [Prerequisites](#Prerequisites)
   - [Linear Algebra](#Linear-Algebra)
@@ -144,6 +145,7 @@ Recommended Slides & Papers:
 - Slide: [Ensemble Learning through Diversity Management: Theory, Algorithms, and Applications](http://staff.ustc.edu.cn/~hchen/tutorial/IJCNN2011.pdf) by Huanhuan Chen and Xin Yao <br>
 - Slide: [Ensemble Methods](http://users.umiacs.umd.edu/~hcorrada/PracticalML/pdf/lectures/EnsembleMethods.pdf) by Héctor Corrada Bravo (Adapted from slides by Todd Holloway) <br>
 - Slide: [Tutorial 3](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/T3.pdf) by Mark Schmidt <br>
+- NoteBook: [Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/) by Sebastian Flennerhag <br>
      
 11. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
@@ -206,6 +208,11 @@ The students can include mathematical notation within markdown cells using LaTeX
   - A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
   - Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
   - Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
+
+### <a name="Useful-NoteBooks"></a>Useful NoteBooks:
+* [Preparing and Cleaning Data for Machine Learning](https://www.dataquest.io/blog/machine-learning-preparing-data/) by Josh Devlin
+* [Getting Started with Kaggle: House Prices Competition](https://www.dataquest.io/blog/kaggle-getting-started/) by Adam Massachi 
+* [Scikit-learn Tutorial: Machine Learning in Python](https://www.dataquest.io/blog/sci-kit-learn-tutorial/) by Satyabrata Pal 
 
 ## <a name="Grading"></a>Grading:
 * Projects and Midterm – 50%
