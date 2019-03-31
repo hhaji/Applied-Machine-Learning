@@ -16,10 +16,10 @@ The Webpage of the Course: [Applied Machine Learning](https://hhaji.github.io/Ap
   6. Lecture 6: [The VC-Dimension](#The-VC-Dimension)
   7. Lecture 7: [Toolkit Lab (Part 2)](#Part-2) 
   8. Lecture 8: [Linear Predictors](#Linear-Predictors)
-  9. Lecture 9: [Nearest Neighbor](#Nearest-Neighbor) 
-  10. Lecture 10: [Boosting](#Boosting)
-  11. Lecture 11: [Model Selection and Validation](#Model-Selection-and-Validation)
-  12. Lecture 12: [Decision Trees](#Decision-Trees) 
+  9. Lecture 12: [Decision Trees](#Decision-Trees) 
+  10. Lecture 9: [Nearest Neighbor](#Nearest-Neighbor) 
+  11. Lecture 10: [Boosting](#Boosting)
+  12. Lecture 11: [Model Selection and Validation](#Model-Selection-and-Validation)
   13. Lecture 13: [Neural Networks](#Neural-Networks)    
   14. Lecture 14: [Support Vector Machines](#Support-Vector-Machines) 
 
@@ -128,7 +128,11 @@ Recommended Slides & Papers:
  - Infographic and Code: [Multiple Linear Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md) by Avik Jain <br>
  - Infographic and Code: [Logistic Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md) by Avik Jain <br>
 
-9. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
+9. ### <a name="Decision-Trees"></a>Decision Trees  
+ Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+   - Infographic and Code: [Decision Trees (100 Days Of ML Code)]( https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md) by Avik Jain <br>
+
+10. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
  Chapter 19 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - NoteBook: [Training a Machine Learning Model with Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4) <br>
@@ -136,7 +140,7 @@ Recommended Slides & Papers:
   - [Video](https://www.youtube.com/watch?v=0pP4EwWJgIU&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=5) <br> 
  - Infographic: [K-Nearest Neighbours (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg) by Avik Jain <br>
 
-10. ### <a name="Boosting"></a>Boosting 
+11. ### <a name="Boosting"></a>Boosting 
  Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 10.1, 10.3, 10.4, and 10.5 <br>
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
@@ -146,7 +150,7 @@ Recommended Slides & Papers:
 - Slide: [Ensemble Methods](http://users.umiacs.umd.edu/~hcorrada/PracticalML/pdf/lectures/EnsembleMethods.pdf) by Héctor Corrada Bravo (Adapted from slides by Todd Holloway) <br>
 - NoteBook: [Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/) by Sebastian Flennerhag <br>
      
-11. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
+12. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - NoteBook: [Cross Validation](https://www.ritchieng.com/machine-learning-cross-validation/) by Ritchie Ng <br>
 - NoteBook: [Cross Validation for Parameter Tuning, Model Selection, and Feature Selection](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
@@ -157,10 +161,6 @@ Recommended Slides & Papers:
 - NoteBook: [Evaluating a Classification Model](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9)
 - Blog: [Random Test/Train Split is not Always Enough](http://www.win-vector.com/blog/2015/01/random-testtrain-split-is-not-always-enough/) by Win-Vector <br>
- 
-12. ### <a name="Decision-Trees"></a>Decision Trees  
- Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-   - Infographic and Code: [Decision Trees (100 Days Of ML Code)]( https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md) by Avik Jain <br>
 
 13. ### <a name="Neural-Networks"></a>Neural Networks   
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
