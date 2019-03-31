@@ -130,7 +130,8 @@ Recommended Slides & Papers:
 
 9. ### <a name="Decision-Trees"></a>Decision Trees  
  Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-   - Infographic and Code: [Decision Trees (100 Days Of ML Code)]( https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md) by Avik Jain <br>
+ - Paper: [Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?](http://jmlr.csail.mit.edu/papers/volume15/delgado14a/delgado14a.pdf) by Manuel Fernandez-Delgado, Eva Cernadas, Senen Barro, and Dinani Amorim <br>
+ - Infographic and Code: [Decision Trees (100 Days Of ML Code)]( https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md) by Avik Jain <br>
 
 10. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
  Chapter 19 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
