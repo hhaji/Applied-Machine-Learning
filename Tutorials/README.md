@@ -41,6 +41,7 @@
 * NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham
 
 ## <a name="Feature-Engineering"></a>Feature Engineering: 
+* :sparkles: Blog: [Feature Engineering](https://www.datavedas.com/feature-engineering/) 
 * Blog: [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114) by Emre Rencberoglu
 * Blog: [How to Create Useful Features for Machine Learning](https://www.dataschool.io/introduction-to-feature-engineering/) by Kevin Markham
 * Blog: [Non-Mathematical Feature Engineering Techniques for Data Science](https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/) by Sachin Joglekar
