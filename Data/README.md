@@ -19,8 +19,10 @@ Here we introduce several blogs related to data and data handling and also some 
 ## Datasets:
 The following resources may be helpful for those still undecided about their course projects. 
 * [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Datasets for Machine Learning](https://www.datasetlist.com) 
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [CrowdFlower Data for Everyone library](http://www.crowdflower.com/data-for-everyone)
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
 * [Data Science Weekly](https://www.datascienceweekly.org/data-science-resources/data-science-datasets)
