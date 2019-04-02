@@ -29,8 +29,9 @@
 ## Feature Engineering
 * [How to Create Useful Features for Machine Learning](https://www.dataschool.io/introduction-to-feature-engineering/) by Kevin Markham
 * [Non-Mathematical Feature Engineering Techniques for Data Science](https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/) by Sachin Joglekar
+* Book: [Feature Engineering for Machine Learning and Data Analytics](https://www.crcpress.com/Feature-Engineering-for-Machine-Learning-and-Data-Analytics/Dong-Liu/p/book/9781138744387) by Guozhu Dong and Huan Liu 
+* Book: [Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](http://shop.oreilly.com/product/0636920049081.do) by By Alice Zheng and Amanda Casari
 * Book: [Feature Engineering Made Easy: Identify Unique Features from Your Dataset in Order to Build Powerful Machine Learning Systems ](https://www.amazon.com/Feature-Engineering-Made-Easy-Identify/dp/1787287602/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=dataschool-20&linkId=a8a7e27a1313cd8e4f4ee3c31da79f01&language=en_US) by by Sinan Ozdemir and Divya Susarla
-
 
 ## Metric Learning:
 * Paper: [Distance Metric Learning, with Application to Clustering with Side-Information](https://ai.stanford.edu/~ang/papers/nips02-metric.pdf)
