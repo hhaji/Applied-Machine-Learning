@@ -18,7 +18,7 @@ The Webpage of the Course: [Applied Machine Learning](https://hhaji.github.io/Ap
   8. Lecture 8: [Linear Predictors](#Linear-Predictors)
   9. Lecture 9: [Decision Trees](#Decision-Trees) 
   10. Lecture 10: [Nearest Neighbor](#Nearest-Neighbor) 
-  11. Lecture 11: [Boosting](#Boosting)
+  11. Lecture 11: [Ensemble Methods](#Ensemble-Methods)
   12. Lecture 12: [Model Selection and Validation](#Model-Selection-and-Validation)
   13. Lecture 13: [Neural Networks](#Neural-Networks)    
   14. Lecture 14: [Support Vector Machines](#Support-Vector-Machines) 
@@ -141,11 +141,12 @@ Recommended Slides & Papers:
   - [Video](https://www.youtube.com/watch?v=0pP4EwWJgIU&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=5) <br> 
  - Infographic: [K-Nearest Neighbours (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg) by Avik Jain <br>
 
-11. ### <a name="Boosting"></a>Boosting 
+11. ### <a name="Ensemble-Methods"></a>Ensemble Methods 
  Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 10.1, 10.3, 10.4, and 10.5 <br>
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
 - Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G􏰀 Dietterich <br>
+- Blog: [Ensemble Methods](https://www.datavedas.com/ensemble-methods/) by Rai Kapil <br>
 - Slide: [Ensemble methods: Bagging and Boosting](https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class23.pdf) by Milos Hauskrecht <br>
 - Slide: [Ensemble Learning through Diversity Management: Theory, Algorithms, and Applications](http://staff.ustc.edu.cn/~hchen/tutorial/IJCNN2011.pdf) by Huanhuan Chen and Xin Yao <br>
 - Slide: [Ensemble Methods](http://users.umiacs.umd.edu/~hcorrada/PracticalML/pdf/lectures/EnsembleMethods.pdf) by Héctor Corrada Bravo (Adapted from slides by Todd Holloway) <br>
