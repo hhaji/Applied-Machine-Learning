@@ -27,8 +27,8 @@
 * [Top 10 Machine Learning Algorithms for Beginners](https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/)
 
 ## <a name="Interesting-Papers"></a>Interesting Papers: 
-* Paper: [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos <br>
-* Paper: [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en/ir/pubs/archive/35179.pdf) by Alon Halevy, Peter Norvig, and Fernando Pereira <br>
+* [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos <br>
+* [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en/ir/pubs/archive/35179.pdf) by Alon Halevy, Peter Norvig, and Fernando Pereira <br>
 * [The End of Theory: The Data Deluge Makes The Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/) by Chris Anderson <br>
 
 ## <a name="Bias-Variance-Trade-Off"></a>Bias-Variance Trade-Off: 
