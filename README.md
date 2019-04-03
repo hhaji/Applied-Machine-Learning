@@ -226,6 +226,9 @@ The students can include mathematical notation within markdown cells using LaTeX
 * Projects and Midterm – 50%
 * Endterm – 50%
 
+### Final Exam:
+Final Examination: Saturday 1398/03/25, 08:30-10:30 
+
 ## <a name="Prerequisites"></a>Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
 Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
