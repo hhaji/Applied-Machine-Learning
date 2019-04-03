@@ -151,6 +151,7 @@ Recommended Slides & Papers:
 - Slide: [Ensemble Learning through Diversity Management: Theory, Algorithms, and Applications](http://staff.ustc.edu.cn/~hchen/tutorial/IJCNN2011.pdf) by Huanhuan Chen and Xin Yao <br>
 - Slide: [Ensemble Methods](http://users.umiacs.umd.edu/~hcorrada/PracticalML/pdf/lectures/EnsembleMethods.pdf) by Héctor Corrada Bravo (Adapted from slides by Todd Holloway) <br>
 - Blog: [Boosting, Bagging, and Stacking — Ensemble Methods with sklearn and mlens](https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de) by Robert R.F. DeFilippi <br>
+  - [NoteBook](https://github.com/robertdefilippi/ensemble-bagging-boosting/blob/master/binning-bagging.ipynb)
 - NoteBook: [Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/) by Sebastian Flennerhag <br>
 - [Code (ML-Ensemble):](http://ml-ensemble.com/docs/ensemble.html) Graph handles for deep computational graphs and ready-made ensemble classes for ensemble networks by Sebastian Flennerhag <br>
      
