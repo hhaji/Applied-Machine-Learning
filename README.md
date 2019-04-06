@@ -158,6 +158,7 @@ Recommended Slides & Papers:
 - Slide: [Ensemble methods: Bagging and Boosting](https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class23.pdf) by Milos Hauskrecht <br>
 - Slide: [Ensemble Learning through Diversity Management: Theory, Algorithms, and Applications](http://staff.ustc.edu.cn/~hchen/tutorial/IJCNN2011.pdf) by Huanhuan Chen and Xin Yao <br>
 - Slide: [Ensemble Methods](http://users.umiacs.umd.edu/~hcorrada/PracticalML/pdf/lectures/EnsembleMethods.pdf) by Héctor Corrada Bravo (Adapted from slides by Todd Holloway) <br>
+- NoteBook: :sparkles: [Ensemble Methods](https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/ensemble_methods.ipynb) by Vadim Smolyakov <br>
 - Blog: [Boosting, Bagging, and Stacking — Ensemble Methods with sklearn and mlens](https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de) by Robert R.F. DeFilippi <br>
   - [NoteBook](https://github.com/robertdefilippi/ensemble-bagging-boosting/blob/master/binning-bagging.ipynb)
 - NoteBook: [Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/) by Sebastian Flennerhag <br>
