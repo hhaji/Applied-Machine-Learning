@@ -26,6 +26,7 @@ The Webpage of the Course: [Applied Machine Learning](https://hhaji.github.io/Ap
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
+  - [Practical Guide](#Practical-Guide) 
   - [Google Colab](#Google-Colab)
   - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
   - [Latex](#Latex)
@@ -211,6 +212,9 @@ additional Python libraries as follows.
 * [Matplotlib:](https://matplotlib.org) A Python package for 2D plotting. <br>
 * [SciPy:](https://www.scipy.org) A Python package for mathematics, science, and engineering. <br>
 * [IPython:](https://ipython.org) An architecture for interactive computing with Python. <br>
+
+### <a name="Practical-Guide"></a>Practical Guide:
+* Slide: [Practical Advice for Building Machine Learning Applications](https://svivek.com/teaching/machine-learning/fall2018/slides/practical/advice.pdf) by Vivek Srikumar <br>
 
 ### <a name="Google-Colab"></a>Google Colab:
 [Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
