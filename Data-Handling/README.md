@@ -50,6 +50,7 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 * [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
 * [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
 * [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
+* Slide: [Learning with Missing Labels](https://svivek.com/teaching/machine-learning/fall2018/slides/em/missing-labels.pdf) by Vivek Srikumar
 * Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
 * Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang
 
