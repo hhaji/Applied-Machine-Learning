@@ -41,7 +41,7 @@ The Webpage of the Course: [Applied Machine Learning](https://hhaji.github.io/Ap
 - [Questions](#Questions)
 - Miscellaneous
   - [Tutorials](https://hhaji.github.io/Applied-Machine-Learning/Tutorials) 
-  - [Data](https://hhaji.github.io/Applied-Machine-Learning/Data-Handling)
+  - [Data Handling](https://hhaji.github.io/Applied-Machine-Learning/Data-Handling)
   - [Projects](https://hhaji.github.io/Applied-Machine-Learning/Projects)
   
 ---
