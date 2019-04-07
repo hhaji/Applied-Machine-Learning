@@ -215,7 +215,7 @@ additional Python libraries as follows.
 
 ### <a name="Practical-Guide"></a>Practical Guide:
 * Slide: [Practical Advice for Building Machine Learning Applications](https://svivek.com/teaching/machine-learning/fall2018/slides/practical/advice.pdf) by Vivek Srikumar <br>
-* [Comparison of Machine Learning Models](https://github.com/justmarkham/DAT8/blob/master/other/model_comparison.md) by Kevin Markham <br>
+* Blog: [Comparison of Machine Learning Models](https://github.com/justmarkham/DAT8/blob/master/other/model_comparison.md) by Kevin Markham <br>
 
 ### <a name="Fascinating-Guide-For-Machine-Learning"></a>Fascinating Guide to Use Python Libraries (Machine Learning):
 * [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
