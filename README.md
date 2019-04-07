@@ -26,9 +26,9 @@ The Webpage of the Course: [Applied Machine Learning](https://hhaji.github.io/Ap
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
-  - [Practical Guide](#Practical-Guide) 
+  - [Practical Guide](#Practical-Guide)
+  - [Fascinating Guide to Use Python Libraries (Machine Learning)](#Fascinating-Guide-For-Machine-Learning)
   - [Google Colab](#Google-Colab)
-  - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
   - [Latex](#Latex)
   - [Useful NoteBooks](#Useful-NoteBooks)
 - [Grading](#Grading)
@@ -216,13 +216,13 @@ additional Python libraries as follows.
 ### <a name="Practical-Guide"></a>Practical Guide:
 * Slide: [Practical Advice for Building Machine Learning Applications](https://svivek.com/teaching/machine-learning/fall2018/slides/practical/advice.pdf) by Vivek Srikumar <br>
 
+### <a name="Fascinating-Guide-For-Machine-Learning"></a>Fascinating Guide to Use Python Libraries (Machine Learning):
+* [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
+
 ### <a name="Google-Colab"></a>Google Colab:
 [Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
   - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
   - [Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
-
-### <a name="Fascinating-Guides-For-Machine-Learning"></a>Fascinating Guides For Machine Learning:
-* [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com) by Chris Albon
 
 ### <a name="Latex"></a>Latex:
 The students can include mathematical notation within markdown cells using LaTeX in their **[Jupyter Notebooks](http://jupyter.org)**.<br>
