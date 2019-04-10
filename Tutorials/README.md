@@ -8,7 +8,7 @@
 - [Bias-Variance Trade-Off](#Bias-Variance-Trade-Off)
 - [Feature Engineering](#Feature-Engineering)
 - [Metric Learning](#Metric-Learning)
-- [Statistical Models](#Statistical-models)
+- [Statistical Models for Machine Learning](#Statistical-models)
 - [Cheat Sheets](#Cheat-Sheets)
 - [Videos](#Videos)
 
@@ -57,7 +57,7 @@
 * Install: [Metric-Learn](https://github.com/metric-learn/metric-learn) 
 * Example: [Metric Learning and Plotting](https://github.com/metric-learn/metric-learn/blob/master/examples/metric_plotting.ipynb)
 
-## <a name="Statistical-models"></a>Statistical Models: 
+## <a name="Statistical-models"></a>Statistical Models for Machine Learning: 
 * [Tutorial: Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/) by Hafsa Jabeen 
 
 ## <a name="Cheat-Sheets"></a>Cheat Sheets: 
