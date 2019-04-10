@@ -8,6 +8,7 @@
 - [Bias-Variance Trade-Off](#Bias-Variance-Trade-Off)
 - [Feature Engineering](#Feature-Engineering)
 - [Metric Learning](#Metric-Learning)
+- [Statistics](#Statistics)
 - [Cheat Sheets](#Cheat-Sheets)
 - [Videos](#Videos)
 
@@ -55,6 +56,9 @@
 * Survey: [A Survey on Metric Learning for Feature Vectors and Structured Data](https://arxiv.org/pdf/1306.6709.pdf) by Aurelien Bellet, Amaury Habrard, and Marc Sebban
 * Install: [Metric-Learn](https://github.com/metric-learn/metric-learn) 
 * Example: [Metric Learning and Plotting](https://github.com/metric-learn/metric-learn/blob/master/examples/metric_plotting.ipynb)
+
+## <a name="Statistics"></a>Statistics: 
+* [Tutorial: Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/) by Hafsa Jabeen 
 
 ## <a name="Cheat-Sheets"></a>Cheat Sheets: 
 * [Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai) by Kailash Ahirwar <br>
