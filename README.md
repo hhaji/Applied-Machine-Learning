@@ -57,10 +57,15 @@ the fundamentals and algorithms of machine learning.
 ```
 ## <a name="TextBooks"></a>TextBooks:
 ![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/james-1x.png) ![Book 3](/Images/MachineLearningMastery.png) ![Book 4](/Images/MLWP.jpg) ![Book 5](/Images/bishop-1x.jpg) 
-`Main TextBooks`
+
+```
+Main TextBooks:
+```
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David  <br>
 * [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
-`Useful Books`
+```
+Useful Books:
+```
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
     - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
 * [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) by Andreas Mueller and Sarah Guido
