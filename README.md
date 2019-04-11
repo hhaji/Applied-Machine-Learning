@@ -64,7 +64,7 @@ Main TextBooks:
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David  <br>
 * [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
 ```
-Useful Books:
+Extra Books:
 ```
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
     - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
@@ -103,7 +103,7 @@ Recommended Slides & Papers:
   - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
   - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
 ```
-Useful Resource:
+Extra Resources:
 ```
   - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham <br>
    
@@ -129,7 +129,7 @@ Useful Resource:
  - NoteBook: [Perceptron in Scikit](https://github.com/chrisalbon/notes/blob/master/content/machine_learning/basics/perceptron_in_scikit-learn.ipynb) by Chris Albon <br>
  - Paper: [Perceptron for Imbalanced Classes and Multiclass Classification](https://www.cs.utah.edu/~piyush/teaching/imbalanced_multiclass_perceptron.pdf) by Piyush Rai <br>
  ```
-Useful Resources:
+Extra Resources:
 ```
  - NoteBook: [Linear Regression](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb) by Kevin Markham <br>  
  - Paper: [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf) by Randal J. Barnes <br>
@@ -148,6 +148,9 @@ Useful Resources:
  - Slide: [Representation of Boolean Functions](http://freeusermanuals.com/backend/web/manuals/1522928344lec2.pdf) by Troels Bjerre Sørensen <br>
  - Slide: [Overfitting in Decision Trees](https://www3.nd.edu/~rjohns15/cse40647.sp14/www/content/lectures/24%20-%20Decision%20Trees%203.pdf) by Reid Johnson <br>
  - NoteBook: [Decision Trees](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/Decision-Trees.ipynb) <br>
+```
+Extra Resources:
+```
  - Paper: [Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?](http://jmlr.csail.mit.edu/papers/volume15/delgado14a/delgado14a.pdf) by Manuel Fernandez-Delgado, Eva Cernadas, Senen Barro, and Dinani Amorim <br>
  - Blog: [Random Forest Classifier Example](https://chrisalbon.com/machine_learning/trees_and_forests/random_forest_classifier_example/) by Chris Albon.  This tutorial is based on Yhat’s 2013 tutorial on [Random Forests in Python](http://blog.yhat.com/posts/random-forests-in-python.html). 
    - [NoteBook](https://github.com/chrisalbon/notes/blob/master/docs/machine_learning/trees_and_forests/random_forest_classifier_example.ipynb) <br>
@@ -158,6 +161,9 @@ Useful Resources:
  Chapter 19 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - Slide: [Nearest Neighbor Classification](http://svivek.com/teaching/machine-learning/fall2018/slides/nearest-neighbors/nearest-neighbors.pdf) by Vivek Srikumar <br> 
 - NoteBook: [k-Nearest Neighbors](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/k-Nearest-Neighbors.ipynb) <br>
+```
+Extra Resources:
+```
 - NoteBook: [Training a Machine Learning Model with Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4) <br>
 - NoteBook: [Comparing Machine Learning Models in Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb) by Kevin Markham <br>
