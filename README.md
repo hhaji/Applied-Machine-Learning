@@ -62,8 +62,9 @@ the fundamentals and algorithms of machine learning.
 :eyes: :label: <br>
 
 
+       some code, part of Definition 2, [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
 
-:::
+::: warning
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 This is test
 :::
