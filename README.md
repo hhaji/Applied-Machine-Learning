@@ -6,7 +6,7 @@ The Webpage of the Course: [Applied Machine Learning](https://hhaji.github.io/Ap
 
 ### **Index:**
 - [Course Overview](#Course-Overview)
-- [Main TextBooks](#Main-TextBooks)
+- [TextBooks](#TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
   2. Lecture 2: [Introduction](#Introduction)
@@ -55,56 +55,57 @@ self-training, observation and experience. The wonderful success of machine lear
 it the default method of choice for artificial intelligence experts. In this course, we review 
 the fundamentals and algorithms of machine learning. 
 ```
-## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/MachineLearningMastery.png) ![Book 3](/Images/MLWP.jpg) ![Book 4](/Images/bishop-1x.jpg) ![Book 5](/Images/james-1x.png)
-
-* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David :pushpin: <br>
+## <a name="TextBooks"></a>TextBooks:
+![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/james-1x.png) ![Book 3](/Images/MachineLearningMastery.png) ![Book 4](/Images/MLWP.jpg) ![Book 5](/Images/bishop-1x.jpg) 
+`Main TextBooks`
+* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David  <br>
+* [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
+`Useful Books`
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
     - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
 * [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) by Andreas Mueller and Sarah Guido
     - [Notebooks](https://github.com/amueller/introduction_to_ml_with_python) <br>
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2FPRML%2F#!prml-book) by Christopher Bishop <br>
-* [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
 Recommended Slides & Papers:
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
-- [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) :pushpin:
-- [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) :pushpin: <br>
+- [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
+- [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
     **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
     **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
     **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
 2. ### <a name="Introduction"></a>Introduction
-- Slide: [Machine Learning: Types of Machine Learning I](http://www.lsi.upc.es/~bejar/apren/docum/trans/00-introAprendizaje-eng.pdf) by Javier Bejar  :pushpin: 
-- Slide: [Machine Learning: Types of Machine Learning II](http://www.lsi.upc.edu/~bejar/apren/docum/trans/01-apind-eng.pdf) by Javier Bejar  :pushpin: 
+- Slide: [Machine Learning: Types of Machine Learning I](http://www.lsi.upc.es/~bejar/apren/docum/trans/00-introAprendizaje-eng.pdf) by Javier Bejar 
+- Slide: [Machine Learning: Types of Machine Learning II](http://www.lsi.upc.edu/~bejar/apren/docum/trans/01-apind-eng.pdf) by Javier Bejar 
 3. ### <a name="Empirical-Risk-Minimization"></a>Empirical Risk Minimization 
     A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization <br>
    Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 2.1, 2.2, and 2.3  
-- Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt :pushpin: <br>
-- Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz :pushpin: <br>
+- Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
+- Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz  <br>
     
 4. ### <a name="PAC-Learning"></a>PAC Learning
    Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 3.2, 3.4, 3.5, 3.7, 3.9  
- - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt :pushpin: <br>
- - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz :pushpin:
+ - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
+ - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff  
    Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercise:** 5.2  
-  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt :pushpin: <br>
-  - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz :pushpin: <br>
-  - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas :pushpin: <br>
+  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+  - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
+  - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
   - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham <br>
    
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
  Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
-- Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt :pushpin: <br>
+- Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      
 7. ### <a name="Part-2"></a>Toolkit Lab (Part 2) 
-- [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee :pushpin: <br>
+- [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee  <br>
   - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
 - Data Exploration: <br>
   - NoteBook: [Titanic 1 – Data Exploration](http://stamfordresearch.com/titanic-1-data-exploration/) by John Stamford 
@@ -115,7 +116,7 @@ Recommended Slides & Papers:
 8. ### <a name="Linear-Predictors"></a>Linear Predictors 
  Chapter 9 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 9.1, 9.3, 9.4, and 9.6 <br>
- - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt :pushpin: <br>
+ - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
  - Slide: [Tutorial 3: Consistent linear predictors and Linear regression](https://webcourse.cs.technion.ac.il/236756/Spring2014/ho/WCFiles/Tutorial%203.pdf) by Nir Ailon <br>
  - NoteBook: [Perceptron in Scikit](https://github.com/chrisalbon/notes/blob/master/content/machine_learning/basics/perceptron_in_scikit-learn.ipynb) by Chris Albon <br>
  - Paper: [Perceptron for Imbalanced Classes and Multiclass Classification](https://www.cs.utah.edu/~piyush/teaching/imbalanced_multiclass_perceptron.pdf) by Piyush Rai <br>
