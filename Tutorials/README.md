@@ -9,6 +9,7 @@
 - [Feature Engineering](#Feature-Engineering)
 - [Metric Learning](#Metric-Learning)
 - [Statistical Models for Machine Learning](#Statistical-models)
+- [Time Series](#Time-Series)
 - [Cheat Sheets](#Cheat-Sheets)
 - [Videos](#Videos)
 
@@ -58,7 +59,12 @@
 * Example: [Metric Learning and Plotting](https://github.com/metric-learn/metric-learn/blob/master/examples/metric_plotting.ipynb)
 
 ## <a name="Statistical-models"></a>Statistical Models for Machine Learning: 
-* [Tutorial: Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/) by Hafsa Jabeen 
+* Tutorial: [Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/) by Hafsa Jabeen
+* Blog: [Using Linear Regression for Predictive Modeling in R](https://www.dataquest.io/blog/statistical-learning-for-predictive-modeling-r/) by Rose Martin 
+* Tutorial: [Understanding Regression Error Metrics in Python](https://www.dataquest.io/blog/understanding-regression-error-metrics/) by Christian Pascual
+
+## <a name="Time-Series"></a>Time Series: 
+* Tutorial: [Time Series Analysis with Pandas](https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/) by Jennifer Walker 
 
 ## <a name="Cheat-Sheets"></a>Cheat Sheets: 
 * [Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai) by Kailash Ahirwar <br>
