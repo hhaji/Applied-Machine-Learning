@@ -57,7 +57,7 @@ the fundamentals and algorithms of machine learning.
 ```
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 ![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/MachineLearningMastery.png) ![Book 3](/Images/MLWP.jpg) ![Book 4](/Images/bishop-1x.jpg) ![Book 5](/Images/james-1x.png)
-```
+```markdown
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning),  by Shai Shalev-Shwartz and Shai Ben-David <br> 
 ```
 * [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee<br>
