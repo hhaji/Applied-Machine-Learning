@@ -62,6 +62,7 @@
 * Tutorial: [Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/) by Hafsa Jabeen
 * Blog: [Using Linear Regression for Predictive Modeling in R](https://www.dataquest.io/blog/statistical-learning-for-predictive-modeling-r/) by Rose Martin 
 * Tutorial: [Understanding Regression Error Metrics in Python](https://www.dataquest.io/blog/understanding-regression-error-metrics/) by Christian Pascual
+* Lecture: [Poisson Models for Count Data](https://data.princeton.edu/wws509/notes/c4.pdf) by Germán Rodríguez 
 
 ## <a name="Time-Series"></a>Time Series: 
 * Tutorial: [Time Series Analysis with Pandas](https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/) by Jennifer Walker 
