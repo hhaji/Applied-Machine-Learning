@@ -205,6 +205,7 @@ Extra Resources:
 - NoteBook: [Evaluating a Classification Model](https://github.com/justmarkham/scikit-learn-videos/blob/master/09_classification_metrics.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9)
 - Blog: [Random Test/Train Split is not Always Enough](http://www.win-vector.com/blog/2015/01/random-testtrain-split-is-not-always-enough/) by Win-Vector <br>
+- Slide: [Cross-Validation: What, How and Which?](https://www.humanbrainmapping.org/files/2017/ED%20Courses/Course%20Materials/Crossvalidation_Raamana_PradeepReddy.pdf) by Pradeep Reddy Raamana <br>
 
 13. ### <a name="Neural-Networks"></a>Neural Networks   
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
