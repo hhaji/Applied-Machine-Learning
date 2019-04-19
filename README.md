@@ -188,7 +188,8 @@ Extra Resources:
 - NoteBook: [Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/) by Sebastian Flennerhag <br>
 - [Code (ML-Ensemble):](http://ml-ensemble.com/docs/ensemble.html) Graph handles for deep computational graphs and ready-made ensemble classes for ensemble networks by Sebastian Flennerhag <br>
 - NoteBook: [Ensemble Methods](https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/ensemble_methods.ipynb) by Vadim Smolyakov <br>
-- Paper: [On Agnostic Boosting and Parity Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/2008-On_Agnostic_Boosting-and_Parity_Learning.pdf) by A. T. Kalai, Y. Mansour, and E. Verbin <br>   
+- Paper: [On Agnostic Boosting and Parity Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/2008-On_Agnostic_Boosting-and_Parity_Learning.pdf) by A. T. Kalai, Y. Mansour, and E. Verbin <br>  
+- Slide: [Lecture 13: Boosting](http://web.engr.oregonstate.edu/~xfern/classes/cs434/slides/boosting-13.pdf) by Xiaoli Z. Fern <br>
 12. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 **Exercises:** 11.1 and 11.2 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
