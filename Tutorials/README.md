@@ -35,10 +35,10 @@
 
 ## <a name="Bias-Variance-Trade-Off"></a>Bias-Variance Trade-Off: 
 * Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
+* Blog: [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/) by Satya Mallick <br>
 * Blog: [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * Blog: [Bias and Variance in Machine Learning](https://medium.com/datadriveninvestor/bias-and-variance-in-machine-learning-51fdd38d1f86) by Renu Khandelwal
 * Blog: [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
-* [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
 * Blog: [A Visual Introduction to Machine Learning: Model Tuning and the Bias-Variance Trade Off](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) by Stephanie Yee and Tony Chu
 * Blog: [The Bias-Variance Tradeoff in Statistical Machine Learning - The Regression Setting](https://www.quantstart.com/articles/The-Bias-Variance-Tradeoff-in-Statistical-Machine-Learning-The-Regression-Setting) 
 * NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham
