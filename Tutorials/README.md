@@ -45,7 +45,7 @@
 
 ## <a name="Feature-Engineering"></a>Feature Engineering: 
 * :sparkles: Blog: [Feature Engineering](https://www.datavedas.com/feature-engineering/) 
-* :sparkles: Blog: [Selecting Statistical-Based Features in Machine Learning Application](https://hub.packtpub.com/selecting-statistical-based-features-in-machine-learning-application/) by Pravin Dhandre 
+* :sparkles: Blog: [Selecting Statistical-Based Features in Machine Learning Application](https://hub.packtpub.com/selecting-statistical-based-features-in-machine-learning-application/) by Pravin Dhandre (This article is an excerpt from a book Feature Engineering Made Easy co-authored by Sinan Ozdemir and Divya Susarla)
 * Blog: [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114) by Emre Rencberoglu
 * Blog: [How to Create Useful Features for Machine Learning](https://www.dataschool.io/introduction-to-feature-engineering/) by Kevin Markham
 * Blog: [Non-Mathematical Feature Engineering Techniques for Data Science](https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/) by Sachin Joglekar
