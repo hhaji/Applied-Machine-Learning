@@ -200,6 +200,9 @@ Extra Resources:
 Extra Resources:
 ```
 - Blog: [K-Fold and Other Cross-Validation Techniques](https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniques-6c03a2563f1e) by Renu Khandelwal <br>
+- [Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html)
+  - [Learning Curve](https://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html)
+  - [Validation Curve](https://www.scikit-yb.org/en/latest/api/model_selection/validation_curve.html)
 - NoteBook: [Cross Validation for Parameter Tuning, Model Selection, and Feature Selection](https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=6dbrR-WymjI&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=7)
 - NoteBook: [Efficiently Searching for Optimal Tuning Parameters](https://github.com/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb) by Kevin Markham <br>
