@@ -214,6 +214,7 @@ Extra Resources:
 
 13. ### <a name="Neural-Networks"></a>Neural Networks   
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+ - Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
 
 14. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
