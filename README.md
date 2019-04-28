@@ -194,7 +194,7 @@ Extra Resources:
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 **Exercises:** 11.1 and 11.2 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Tutorial: [Learning Curves for Machine Learning in Python](https://www.dataquest.io/blog/learning-curves-machine-learning/) by Alex Olteanu <br>
- - [Stratified K-Folds Cross-Validator](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html)
+ - Jupyter NoteBook: [Split the Dataset Using Stratified K-Folds Cross-Validator](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/Stratified-K-Folds-Cross-Validator.ipynb)
   - Blog: [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74) by Will Koehrsen 
     - [Jupyter NoteBook](https://github.com/WillKoehrsen/Machine-Learning-Projects/blob/master/random_forest_explained/Improving%20Random%20Forest%20Part%202.ipynb) <br>
  - Blog: [Hyperparameter Optimization: Explanation of Automatized Algorithms](http://dkopczyk.quantee.co.uk/hyperparameter-optimization/#easy-footnote-bottom-1-379) by Dawid Kopczyk <br>
