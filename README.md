@@ -217,6 +217,7 @@ Extra Resources:
 
 14. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+  - Slide: [Support Vector Machines and Kernel Methods](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture8.pdf) by Shai Shalev-Shwartz <br>
   - Infographic: [Support Vector Machines (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg) by Avik Jain <br>
     - [Markdown (NoteBook)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md)
 
