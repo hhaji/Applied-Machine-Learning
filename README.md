@@ -220,6 +220,7 @@ Extra Resources:
 Extra Resources:
 ```
 - Blog: [The Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient) by Khanacademy <br>
+- Blog: [Activation Functions](https://towardsdatascience.com/activation-functions-b63185778794) by Dhaval Dholakia <br>
 
 14. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
