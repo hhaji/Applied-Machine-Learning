@@ -214,7 +214,6 @@ Extra Resources:
 13. ### <a name="Neural-Networks"></a>Neural Networks   
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
- - Slide: [Basics of Neural Networks](http://www.connellybarnes.com/work/class/2016/deep_learning_graphics/03_neural_net_basics.pdf) by Connelly Barnes <br> 
  - Blog: [7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
  - Blog: [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html#id5)
  ```
@@ -222,7 +221,8 @@ Extra Resources:
 ```
 - Blog: [The Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient) by Khanacademy <br>
 - Blog: [Activation Functions](https://towardsdatascience.com/activation-functions-b63185778794) by Dhaval Dholakia <br>
-- Paper: [Why Does Deep & Cheap Learning Work So Well?](https://arxiv.org/pdf/1608.08225.pdf) by Henry W. Lin, Max Tegmark, and David Rolnick
+- Paper: [Why Does Deep & Cheap Learning Work So Well?](https://arxiv.org/pdf/1608.08225.pdf) by Henry W. Lin, Max Tegmark, and David Rolnick <br>
+ - Slide: [Basics of Neural Networks](http://www.connellybarnes.com/work/class/2016/deep_learning_graphics/03_neural_net_basics.pdf) by Connelly Barnes <br> 
 
 14. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
