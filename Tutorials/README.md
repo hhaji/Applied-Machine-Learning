@@ -21,6 +21,7 @@
 * [Distill](https://distill.pub/about/) is an academic journal in machine learning and it was dedicated to clear explanations of machine learning. 
 * The blog of [Dawid Kopczyk:](http://dkopczyk.quantee.co.uk/category/machine_learning/) Fascinating tutorials about machine learning 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
+* [Machine Learning Recipe](https://setscholars.net/category/machine-learning-recipe/)
 * [Data Vedas:](https://www.datavedas.com) This blog was created by Rai Kapil keeping in mind the difficulties faced by people who are new to the field of data science. 
 * [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) by Jason Brownlee <br>
 * [Awesome Data Science:](https://github.com/bulutyazilim/awesome-datascience) An open source Data Science repository to learn and apply towards solving real world problems. <br>
