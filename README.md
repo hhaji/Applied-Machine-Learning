@@ -93,7 +93,7 @@ Recommended Slides & Papers:
     
 4. ### <a name="PAC-Learning"></a>PAC Learning
    Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-       **Exercises:** 3.2, 3.4, 3.5, 3.7, 3.9  
+       **Exercises:** 3.2, 3.3, 3.4, 3.5, 3.6, 3.7
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
  - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff  
