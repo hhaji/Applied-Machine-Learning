@@ -19,6 +19,8 @@
 * [Towards Data Science:](https://towardsdatascience.com/) This is a platform for data scientists to propose up-to-date content, mainly focused on data science, machine learning, artificial intelligence, and ...  <br>
 * [Machine Learning Crash Course from Google:](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning which covers building deep neural networks with TensorFlow.
 * [Distill](https://distill.pub/about/) is an academic journal in machine learning and it was dedicated to clear explanations of machine learning. 
+* [Machine Learning Plus:](https://www.machinelearningplus.com) Simple and straightforward tutorials on machine learning in
+R and Python.
 * The blog of [Dawid Kopczyk:](http://dkopczyk.quantee.co.uk/category/machine_learning/) Fascinating tutorials about machine learning 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Machine Learning Recipe](https://setscholars.net/category/machine-learning-recipe/)
