@@ -22,7 +22,8 @@ The Webpage of the Course: [Applied Machine Learning](https://hhaji.github.io/Ap
   12. Lecture 12: [Model Selection and Validation](#Model-Selection-and-Validation)
   13. Lecture 13: [Neural Networks](#Neural-Networks)    
   14. Lecture 14: [Convex Learning Problems](#CLP) 
-  15. Lecture 15: [Support Vector Machines](#Support-Vector-Machines) 
+  15. Lecture 15: [Regularization and Stability](#Regularization-and-Stability) 
+  16. Lecture 16: [Support Vector Machines](#Support-Vector-Machines) 
 
   - [Extra NoteBooks and Slides](#Extra-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -229,7 +230,12 @@ Extra Resources:
  Chapter 12 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
  
-15. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
+15. ### <a name="Regularization-and-Stability"></a>Regularization and Stability   
+ Chapter 13 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+ - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+ - Blog: [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
+ 
+16. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
   - Slide: [Support Vector Machines and Kernel Methods](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture8.pdf) by Shai Shalev-Shwartz <br>
   - Infographic: [Support Vector Machines (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg) by Avik Jain <br>
