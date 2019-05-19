@@ -238,7 +238,6 @@ Extra Resources:
  Extra Resources:
  ```
  - NoteBook: [Regularization](https://github.com/ethen8181/machine-learning/blob/master/regularization/regularization.ipynb) by Ethen <br>
- - Blog: [Feature Selection – Ten Effective Techniques with Examples (in R)](https://www.machinelearningplus.com/machine-learning/feature-selection/) <br>
  
 16. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
