@@ -8,6 +8,7 @@
 - [Bias-Variance Trade-Off](#Bias-Variance-Trade-Off)
 - [Feature Engineering](#Feature-Engineering)
 - [Metric Learning](#Metric-Learning)
+- [Machine Learning in R](#MLR)
 - [Statistical Models for Machine Learning](#Statistical-models)
 - [Time Series](#Time-Series)
 - [Cheat Sheets](#Cheat-Sheets)
@@ -65,6 +66,9 @@ R and Python.
 * Survey: [A Survey on Metric Learning for Feature Vectors and Structured Data](https://arxiv.org/pdf/1306.6709.pdf) by Aurelien Bellet, Amaury Habrard, and Marc Sebban
 * Install: [Metric-Learn](https://github.com/metric-learn/metric-learn) 
 * Example: [Metric Learning and Plotting](https://github.com/metric-learn/metric-learn/blob/master/examples/metric_plotting.ipynb)
+
+## <a name="MLR"></a>Machine Learning in R: 
+* Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
 
 ## <a name="Statistical-models"></a>Statistical Models for Machine Learning: 
 * Tutorial: [Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/) by Hafsa Jabeen
