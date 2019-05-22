@@ -72,6 +72,7 @@ R and Python.
 * NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R)
 * Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
 * Blog: [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto 
+* Cheat Sheet: [Caret Package](https://ugoproto.github.io/ugo_r_doc/caret.pdf) by Max Kuhn
 
 
 ## <a name="Statistical-models"></a>Statistical Models for Machine Learning: 
