@@ -69,6 +69,7 @@ R and Python.
 
 ## <a name="MLR"></a>Machine Learning in R: 
 * Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
+* Blog: [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto 
 
 ## <a name="Statistical-models"></a>Statistical Models for Machine Learning: 
 * Tutorial: [Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/) by Hafsa Jabeen
