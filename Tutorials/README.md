@@ -68,8 +68,11 @@ R and Python.
 * Example: [Metric Learning and Plotting](https://github.com/metric-learn/metric-learn/blob/master/examples/metric_plotting.ipynb)
 
 ## <a name="MLR"></a>Machine Learning in R: 
+* Blog: [Caret Package](https://topepo.github.io/caret/index.html) by Max Kuhn
+* NoteBook: [Principles of Machine Learning R](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-R)
 * Blog: [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
 * Blog: [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html) Laurent Gatto 
+
 
 ## <a name="Statistical-models"></a>Statistical Models for Machine Learning: 
 * Tutorial: [Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/) by Hafsa Jabeen
