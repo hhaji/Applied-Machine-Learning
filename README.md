@@ -229,6 +229,10 @@ Extra Resources:
 14. ### <a name="CLP"></a>Convex Learning Problems   
  Chapter 12 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
+```
+Extra Resources:
+```
+- Blog: [Escaping from Saddle Points](https://www.offconvex.org/2016/03/22/saddlepoints/) by Rong Ge <br>
  
 15. ### <a name="Regularization-and-Stability"></a>Regularization and Stability   
  Chapter 13 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
