@@ -245,6 +245,9 @@ Extra Resources:
   - Slide: [Support Vector Machines and Kernel Methods](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture8.pdf) by Shai Shalev-Shwartz <br>
   - Blog: [Support Vector Machine (SVM)](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589) by Ajay Yadav <br>
   - Blog: [Support Vector Machine vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f) by Georgios Drakos <br>
+ ```
+ Extra Resources:
+ ```
   - Infographic: [Support Vector Machines (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg) by Avik Jain <br>
     - [Markdown (NoteBook)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md)
       
