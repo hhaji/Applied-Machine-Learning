@@ -24,7 +24,7 @@
 R and Python.
 * The blog of [Dawid Kopczyk:](http://dkopczyk.quantee.co.uk/category/machine_learning/) Fascinating tutorials about machine learning 
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
-* [Machine Learning Recipe](https://setscholars.net/category/machine-learning-recipe/)
+* [Machine Learning Recipe:](https://setscholars.net/category/machine-learning-recipe/) Fascinating tutorials about machine learning
 * [Off the Convex Path:](http://www.offconvex.org)  Understanding non- convex optimization in algorithms, machine learning and nature at large
 * [Data Vedas:](https://www.datavedas.com) This blog was created by Rai Kapil keeping in mind the difficulties faced by people who are new to the field of data science. 
 * [Need Help Getting Started with Applied Machine Learning?](https://machinelearningmastery.com/start-here/) by Jason Brownlee <br>
