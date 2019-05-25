@@ -37,6 +37,7 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 
 ### Data Science Competition Platforms:
 * [Kaggle](https://www.kaggle.com/datasets)
+  * [Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/) 
   * [Kaggle Past Solutions](https://ndres.me/kaggle-past-solutions/) by Eliot Andres 
   * [The Tips and Tricks I Used to Succeed on Kaggle](https://www.dataquest.io/blog/kaggle-tips-tricks/) by Vik Paruchuri 
 * [DrivenData](http://www.drivendata.org)
