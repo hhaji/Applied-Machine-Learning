@@ -8,7 +8,7 @@ Here we introduce several blogs related to data and data handling and also some 
   - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) <br>
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) <br>
   
-  ![Poster](../Images/data-fallacies-to-avoid-1.jpg)   ![Poster](../Images/data-fallacies-to-avoid-2.jpg) <br>
+  ![Poster](../Images/data-fallacies-to-avoid-1.png)   ![Poster](../Images/data-fallacies-to-avoid-2.png) <br>
 
   
   Common | Data |  Mistakes | to | Avoid
