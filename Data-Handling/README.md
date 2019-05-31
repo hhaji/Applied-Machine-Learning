@@ -7,8 +7,8 @@ Here we introduce several blogs related to data and data handling and also some 
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) BY Geckoboard Company <br>
 
 
-  [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) <br>
-  - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) | ![Poster](../Images/data-fallacies-to-avoid.jpg) 
+  [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) 
+  [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) | ![Poster](../Images/data-fallacies-to-avoid.jpg) 
   ----------------- | ----------------------
   
   
