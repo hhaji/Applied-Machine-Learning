@@ -9,6 +9,8 @@ Here we introduce several blogs related to data and data handling and also some 
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) <br>
   
   ![Poster](../Images/data-fallacies-to-avoid-1.png)   ![Poster](../Images/data-fallacies-to-avoid-2.png) <br>
+  
+  ![Poster](../Images/data-fallacies-to-avoid.jpg) ![Poster](../Images/data-fallacies-to-avoid.jpg) <br>
 
   
   Common | Data |  Mistakes | to | Avoid
