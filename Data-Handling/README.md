@@ -4,7 +4,7 @@ Here we introduce several blogs related to data and data handling and also some 
 ## Blogs: 
 * [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) by Jeff Leek <br>
 * [ 10 Statistics Tips (and Why You Should Use Them!)](https://docs.google.com/presentation/d/1VZ_TnmyvC98lwTx5ukZm88y2dcg0S1uOIz5V8kwWSYI/edit?usp=sharing) by Jeff Leek <br>
-* [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) BY Geckoboard Company 
+* [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) BY Geckoboard Company <br>
   ![Poster](../Images/data-fallacies-to-avoid.jpg) <br>
   - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) <br>
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) <br>
