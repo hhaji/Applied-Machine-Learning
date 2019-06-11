@@ -146,9 +146,9 @@ Recommended Slides & Papers:
 R (Programming Language):
  ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
- * [Linear Regression](http://uc-r.github.io/linear_regression) by UC Business Analytics R Programming Guide <br>
- * [Linear Regression with lm()](https://bookdown.org/ndphillips/YaRrr/linear-regression-with-lm.html) by Nathaniel D. Phillips <br>
- * [Logistic Regression](http://uc-r.github.io/logistic_regression) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Linear Regression](http://uc-r.github.io/linear_regression) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Linear Regression with lm()](https://bookdown.org/ndphillips/YaRrr/linear-regression-with-lm.html) by Nathaniel D. Phillips <br>
+ * Blog: [Logistic Regression](http://uc-r.github.io/logistic_regression) by UC Business Analytics R Programming Guide <br>
 
 9. ### <a name="Decision-Trees"></a>Decision Trees  
  Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
@@ -169,7 +169,7 @@ R (Programming Language):
 R (Programming Language):
  ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
- * [Regression Trees](http://uc-r.github.io) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Regression Trees](http://uc-r.github.io) by UC Business Analytics R Programming Guide <br>
 
 10. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
  Chapter 19 (Section 1) of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
@@ -211,7 +211,7 @@ Extra Resources:
 R (Programming Language):
  ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
- * [Random Forests](http://uc-r.github.io/random_forests) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Random Forests](http://uc-r.github.io/random_forests) by UC Business Analytics R Programming Guide <br>
 
 12. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
@@ -238,8 +238,8 @@ Extra Resources:
 R (Programming Language):
  ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
- * [Resampling Methods](http://uc-r.github.io/resampling_methods) by UC Business Analytics R Programming Guide <br>
- * [Linear Model Selection](http://uc-r.github.io/model_selection) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Resampling Methods](http://uc-r.github.io/resampling_methods) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Linear Model Selection](http://uc-r.github.io/model_selection) by UC Business Analytics R Programming Guide <br>
  
 13. ### <a name="Neural-Networks"></a>Neural Networks   
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
@@ -257,7 +257,7 @@ Extra Resources:
   ```
 R (Programming Language):
  ```
- * [Classification Artificial Neural Network](http://uc-r.github.io/ann_classification) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Classification Artificial Neural Network](http://uc-r.github.io/ann_classification) by UC Business Analytics R Programming Guide <br>
  
 14. ### <a name="CLP"></a>Convex Learning Problems   
  Chapter 12 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
@@ -280,7 +280,7 @@ Extra Resources:
 R (Programming Language):
  ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
- * [Regularized Regression](http://uc-r.github.io/regularized_regression) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Regularized Regression](http://uc-r.github.io/regularized_regression) by UC Business Analytics R Programming Guide <br>
  
 16. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
@@ -304,7 +304,7 @@ R (Programming Language):
 R (Programming Language):
  ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br> 
- * [Support Vector Machine](http://uc-r.github.io/svm) by UC Business Analytics R Programming Guide <br>
+ * Blog: [Support Vector Machine](http://uc-r.github.io/svm) by UC Business Analytics R Programming Guide <br>
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Saturday and Monday 08:00-09:30 AM (Spring 2019), Room 204/1. 
