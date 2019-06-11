@@ -158,6 +158,10 @@ Recommended Slides & Papers:
    - [NoteBook](https://github.com/chrisalbon/notes/blob/master/docs/machine_learning/trees_and_forests/random_forest_classifier_example.ipynb) <br>
  - NoteBook: [Titanic Competition with Random Forest](https://github.com/chrisalbon/kaggle/blob/master/titanic/titanic_competition_with_random_forest.ipynb) by Chris Albon <br>
  - Infographic and Code: [Decision Trees (100 Days Of ML Code)]( https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md) by Avik Jain <br>
+ ```
+R (Programming Language):
+ ```
+ * [Regression Trees](http://uc-r.github.io) by UC Business Analytics R Programming Guide <br>
 
 10. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
  Chapter 19 (Section 1) of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
