@@ -301,7 +301,7 @@ R (Programming Language):
 R (Programming Language):
  ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br> 
- * Blog: [Support Vector Machine Classifier implementation in R with caret package](http://dataaspirant.com/2017/01/19/support-vector-machine-classifier-implementation-r-caret-package/) by Rahul Saxena <br>
+ * Blog: [Support Vector Machine Classifier Implementation in R with Caret Package](http://dataaspirant.com/2017/01/19/support-vector-machine-classifier-implementation-r-caret-package/) by Rahul Saxena <br>
  * Blog: [Support Vector Machine](http://uc-r.github.io/svm) by UC Business Analytics R Programming Guide <br>
       
 - ### <a name="Extra-NoteBooks-and-Slides"></a>Extra NoteBooks and Slides:
