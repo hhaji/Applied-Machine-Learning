@@ -19,7 +19,8 @@ Here we introduce several blogs related to data and data handling and also some 
   
 
 ## Datasets:
-The following resources may be helpful for those still undecided about their course projects. 
+The following resources may be helpful for those still undecided about their course projects.
+* [Open Datasets:](https://skymind.ai/wiki/open-datasets) A list of links to publicly available datasets for a variety of domains.
 * [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
 * [Datasets for Machine Learning](https://www.datasetlist.com) 
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
@@ -32,6 +33,7 @@ The following resources may be helpful for those still undecided about their cou
 * [Get Financial Data Directly Into R](https://www.quandl.com/tools/r)
 * [Listen Data from the Green Bank Telescope](http://seti.berkeley.edu/frb-machine/)
 * [Cafebazaar](https://research.cafebazaar.ir/visage/datasets/) 
+* [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/) by Pranav Dar  
 * [DigiKala](https://www.dataacademy.ir/داده-های-باز-در-دیجی-کالا) (Persian)
 
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
