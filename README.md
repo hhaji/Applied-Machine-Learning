@@ -232,9 +232,9 @@ A Formal Model – The Statistical Learning Framework & Empirical Risk Minimizat
   - [Video](https://www.youtube.com/watch?v=0pP4EwWJgIU&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=5) <br> 
  - Infographic: [K-Nearest Neighbours (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg) by Avik Jain <br>
  
-  ```
-  R (Programming Language):
-  ```
+    ```
+    R (Programming Language):
+    ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
  * Blog: [Knn Classifier Implementation in R with Caret Package](http://dataaspirant.com/2017/01/09/knn-implementation-r-using-caret-package/) by Rahul Saxena <br>
 
@@ -295,6 +295,7 @@ A Formal Model – The Statistical Learning Framework & Empirical Risk Minimizat
 - Library: [Yellowbrick (Machine Learning Visualization)](https://www.scikit-yb.org/en/latest/index.html)
   - [Learning Curve](https://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html)
   - [Validation Curve](https://www.scikit-yb.org/en/latest/api/model_selection/validation_curve.html)
+  
   
     ```
     R (Programming Language):
