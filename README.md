@@ -84,14 +84,13 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-- [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
-- [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
-    - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
-    - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
-    - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
-- [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) 
+    - [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
+    - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
+           - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
+           - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
+           - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
+    - [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) 
 
-<!-- -->
 
 2. ### <a name="Introduction"></a>Introduction  
   
