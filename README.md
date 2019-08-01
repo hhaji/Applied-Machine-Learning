@@ -107,9 +107,9 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization <br>
+    - A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization <br>
     Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>  
-            **Exercises:** 2.1, 2.2, and 2.3  
+      - **Exercises:** 2.1, 2.2, and 2.3  
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
     - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz  <br>
     
@@ -119,8 +119,8 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-            **Exercises:** 3.2, 3.3, 3.4, 3.5, 3.6, 3.7
+    - Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+     - **Exercises:** 3.2, 3.3, 3.4, 3.5, 3.6, 3.7
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
     - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff  
@@ -129,8 +129,8 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-           **Exercise:** 5.2  
+    - Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+     - **Exercise:** 5.2  
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
     - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
     - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
@@ -147,8 +147,8 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-             **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
+    - Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+     - **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      
 7. ### <a name="Part-2"></a>Toolkit Lab (Part 2) 
@@ -171,8 +171,8 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 9 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-          **Exercises:** 9.1, 9.3, 9.4, and 9.6 <br>
+    - Chapter 9 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+     - **Exercises:** 9.1, 9.3, 9.4, and 9.6 <br>
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
     - Slide: [Tutorial 3: Consistent linear predictors and Linear regression](https://webcourse.cs.technion.ac.il/236756/Spring2014/ho/WCFiles/Tutorial%203.pdf) by Nir Ailon <br>
           - NoteBook: [Perceptron in Scikit](https://github.com/chrisalbon/notes/blob/master/content/machine_learning/basics/perceptron_in_scikit-learn.ipynb) by Chris Albon <br>
@@ -207,8 +207,8 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-          **Exercise:** 18.2 <br>
+    - Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+     - **Exercise:** 18.2 <br>
     - Slide: [Decision Trees](https://www.utdallas.edu/~nrr150130/cs6375/2015fa/lects/Lecture_6_Decision.pdf) by Nicholas Ruozzi <br>
     - Slide: [Representation of Boolean Functions](http://freeusermanuals.com/backend/web/manuals/1522928344lec2.pdf) by Troels Bjerre Sørensen <br>
     - Slide: [Overfitting in Decision Trees](https://www3.nd.edu/~rjohns15/cse40647.sp14/www/content/lectures/24%20-%20Decision%20Trees%203.pdf) by Reid Johnson <br>
@@ -238,7 +238,7 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 19 (Section 1) of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+    - Chapter 19 (Section 1) of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Slide: [Nearest Neighbor Classification](http://svivek.com/teaching/machine-learning/fall2018/slides/nearest-neighbors/nearest-neighbors.pdf) by Vivek Srikumar <br>
     - NoteBook: [k-Nearest Neighbors](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/k-Nearest-Neighbors.ipynb) <br>
 
@@ -265,8 +265,8 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) and Chapter 8 of [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) <br>
-            **Exercises:** 10.1, 10.3, 10.4, and 10.5 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+    - Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) and Chapter 8 of [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) <br>
+     - **Exercises:** 10.1, 10.3, 10.4, and 10.5 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Slide: [Bagging and Random Forests](https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/9a.bagging-random-forests.pdf) by David Rosenberg <br>
     - Slide: [Ensemble Learning through Diversity Management: Theory, Algorithms, and Applications](http://staff.ustc.edu.cn/~hchen/tutorial/IJCNN2011.pdf) by Huanhuan Chen and Xin Yao <br>
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
@@ -299,8 +299,8 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-            **Exercises:** 11.1 and 11.2 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+    - Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+     - **Exercises:** 11.1 and 11.2 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Tutorial: [Learning Curves for Machine Learning in Python](https://www.dataquest.io/blog/learning-curves-machine-learning/) by Alex Olteanu <br>
     - Blog: [K-Fold and Other Cross-Validation Techniques](https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniques-6c03a2563f1e) by Renu Khandelwal <br>
     - NoteBook: [Split the Dataset Using Stratified K-Folds Cross-Validator](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/Stratified-K-Folds-Cross-Validator.ipynb)
@@ -336,7 +336,7 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+    - Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
     - Blog: [7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/) <br>
     - Blog: [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html#id5)
@@ -363,7 +363,7 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 12 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+    - Chapter 12 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
  
     ```
@@ -377,7 +377,7 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 13 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+    - Chapter 13 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
     - Blog: [L1 and L2 Regularization](https://medium.com/datadriveninvestor/l1-l2-regularization-7f1b4fe948f2) by Renu Khandelwal <br>
     - Blog: [L1 Norm Regularization and Sparsity Explained for Dummies](https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a) by Shi Yan <br>
@@ -401,7 +401,7 @@ Recommended Slides & Papers:
     Required Reading:
     ```
     
-    Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+    - Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Slide: [Support Vector Machines and Kernel Methods](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture8.pdf) by Shai Shalev-Shwartz <br>
     - Blog: [Support Vector Machine (SVM)](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589) by Ajay Yadav <br>
     - Blog: [Support Vector Machine vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f) by Georgios Drakos <br>
