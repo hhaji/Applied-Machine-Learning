@@ -79,9 +79,9 @@ Additional Books:
 Recommended Slides & Papers:
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)  
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
 - [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
 - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
     - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
@@ -91,17 +91,17 @@ Recommended Slides & Papers:
  
 2. ### <a name="Introduction"></a>Introduction  
   
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
 - Slide: [Machine Learning: Types of Machine Learning I](http://www.lsi.upc.es/~bejar/apren/docum/trans/00-introAprendizaje-eng.pdf) by Javier Bejar 
 - Slide: [Machine Learning: Types of Machine Learning II](http://www.lsi.upc.edu/~bejar/apren/docum/trans/01-apind-eng.pdf) by Javier Bejar 
 
 3. ### <a name="Empirical-Risk-Minimization"></a>Empirical Risk Minimization  
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
 A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization <br>
    Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 2.1, 2.2, and 2.3  
@@ -110,42 +110,42 @@ A Formal Model – The Statistical Learning Framework & Empirical Risk Minimizat
     
 4. ### <a name="PAC-Learning"></a>PAC Learning 
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
    Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 3.2, 3.3, 3.4, 3.5, 3.6, 3.7
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
  - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff  
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
    Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercise:** 5.2  
   - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
   - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
   - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
-  ```
-  Additional Reading:
-  ```
+    ```
+    Additional Reading:
+    ```
   - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham <br>
    
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      
 7. ### <a name="Part-2"></a>Toolkit Lab (Part 2) 
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
 - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee  <br>
   - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
 - Data Exploration: <br>
@@ -156,18 +156,19 @@ A Formal Model – The Statistical Learning Framework & Empirical Risk Minimizat
      
 8. ### <a name="Linear-Predictors"></a>Linear Predictors 
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 9 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 9.1, 9.3, 9.4, and 9.6 <br>
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
  - Slide: [Tutorial 3: Consistent linear predictors and Linear regression](https://webcourse.cs.technion.ac.il/236756/Spring2014/ho/WCFiles/Tutorial%203.pdf) by Nir Ailon <br>
  - NoteBook: [Perceptron in Scikit](https://github.com/chrisalbon/notes/blob/master/content/machine_learning/basics/perceptron_in_scikit-learn.ipynb) by Chris Albon <br>
  - Paper: [Perceptron for Imbalanced Classes and Multiclass Classification](https://www.cs.utah.edu/~piyush/teaching/imbalanced_multiclass_perceptron.pdf) by Piyush Rai <br>
- ```
+ 
+   ```
    Additional Reading:
- ```
+   ```
  - NoteBook: [Linear Regression](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb) by Kevin Markham <br>  
  - Paper: [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf) by Randal J. Barnes <br>
  - Lecture: [Logistic Regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) by Cosma Shalizi <br>
@@ -177,9 +178,9 @@ A Formal Model – The Statistical Learning Framework & Empirical Risk Minimizat
  - Infographic and Code: [Simple Linear Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md) by Avik Jain <br>
  - Infographic and Code: [Multiple Linear Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md) by Avik Jain <br>
  - Infographic and Code: [Logistic Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md) by Avik Jain <br>
- ```
-R (Programming Language):
- ```
+   ```
+   R (Programming Language):
+   ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
  * Blog: [Linear Regression](http://uc-r.github.io/linear_regression) by UC Business Analytics R Programming Guide <br>
  * Blog: [Linear Regression with lm()](https://bookdown.org/ndphillips/YaRrr/linear-regression-with-lm.html) by Nathaniel D. Phillips <br>
@@ -187,57 +188,61 @@ R (Programming Language):
 
 9. ### <a name="Decision-Trees"></a>Decision Trees  
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
         **Exercise:** 18.2 <br>
  - Slide: [Decision Trees](https://www.utdallas.edu/~nrr150130/cs6375/2015fa/lects/Lecture_6_Decision.pdf) by Nicholas Ruozzi <br>
  - Slide: [Representation of Boolean Functions](http://freeusermanuals.com/backend/web/manuals/1522928344lec2.pdf) by Troels Bjerre Sørensen <br>
  - Slide: [Overfitting in Decision Trees](https://www3.nd.edu/~rjohns15/cse40647.sp14/www/content/lectures/24%20-%20Decision%20Trees%203.pdf) by Reid Johnson <br>
  - NoteBook: [Decision Trees](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/Decision-Trees.ipynb) <br>
- ```
-  Additional Reading:
- ```
+ 
+   ```
+    Additional Reading:
+   ```
  - Paper: [Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?](http://jmlr.csail.mit.edu/papers/volume15/delgado14a/delgado14a.pdf) by Manuel Fernandez-Delgado, Eva Cernadas, Senen Barro, and Dinani Amorim <br>
  - Blog: [Random Forest Classifier Example](https://chrisalbon.com/machine_learning/trees_and_forests/random_forest_classifier_example/) by Chris Albon.  This tutorial is based on Yhat’s 2013 tutorial on [Random Forests in Python](http://blog.yhat.com/posts/random-forests-in-python.html). 
    - [NoteBook](https://github.com/chrisalbon/notes/blob/master/docs/machine_learning/trees_and_forests/random_forest_classifier_example.ipynb) <br>
  - NoteBook: [Titanic Competition with Random Forest](https://github.com/chrisalbon/kaggle/blob/master/titanic/titanic_competition_with_random_forest.ipynb) by Chris Albon <br>
  - Infographic and Code: [Decision Trees (100 Days Of ML Code)]( https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md) by Avik Jain <br>
- ```
-R (Programming Language):
- ```
+ 
+   ```
+   R (Programming Language):
+   ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
  * Blog: [Decision Tree Classifier Implementation in R](http://dataaspirant.com/2017/02/03/decision-tree-classifier-implementation-in-r/) by Rahul Saxena <br>
  * Blog: [Regression Trees](http://uc-r.github.io) by UC Business Analytics R Programming Guide <br>
 
 10. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 19 (Section 1) of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - Slide: [Nearest Neighbor Classification](http://svivek.com/teaching/machine-learning/fall2018/slides/nearest-neighbors/nearest-neighbors.pdf) by Vivek Srikumar <br> 
 - NoteBook: [k-Nearest Neighbors](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/k-Nearest-Neighbors.ipynb) <br>
-```
-Additional Reading:
-```
+
+  ```
+  Additional Reading:
+  ```
 - NoteBook: [Training a Machine Learning Model with Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4) <br>
 - NoteBook: [Comparing Machine Learning Models in Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb) by Kevin Markham <br>
   - [Video](https://www.youtube.com/watch?v=0pP4EwWJgIU&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=5) <br> 
  - Infographic: [K-Nearest Neighbours (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg) by Avik Jain <br>
- ```
-R (Programming Language):
- ```
+ 
+  ```
+  R (Programming Language):
+  ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
  * Blog: [Knn Classifier Implementation in R with Caret Package](http://dataaspirant.com/2017/01/09/knn-implementation-r-using-caret-package/) by Rahul Saxena <br>
 
 11. ### <a name="Ensemble-Methods"></a>Ensemble Methods 
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) and Chapter 8 of [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) <br>
        **Exercises:** 10.1, 10.3, 10.4, and 10.5 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - Slide: [Bagging and Random Forests](https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/9a.bagging-random-forests.pdf) by David Rosenberg <br>
@@ -246,9 +251,10 @@ R (Programming Language):
 - Slide: [Introduction to Machine Learning (Boosting)](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture4.pdf) by Shai Shalev-Shwartz <br>
 - Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G. Dietterich <br>
 - NoteBook: [AdaBoost](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/AdaBoost.ipynb) <br>
-```
-Additional Reading:
-```
+
+  ```
+  Additional Reading:
+  ```
 - Blog: [Ensemble Methods](https://www.datavedas.com/ensemble-methods/) by Rai Kapil <br>
 - Blog: [Boosting, Bagging, and Stacking — Ensemble Methods with sklearn and mlens](https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de) by Robert R.F. DeFilippi <br>
   - [NoteBook](https://github.com/robertdefilippi/ensemble-bagging-boosting/blob/master/binning-bagging.ipynb)
@@ -256,17 +262,18 @@ Additional Reading:
 - [Library (ML-Ensemble):](http://ml-ensemble.com/docs/ensemble.html) Graph handles for deep computational graphs and ready-made ensemble classes for ensemble networks by Sebastian Flennerhag <br>
 - NoteBook: [Ensemble Methods](https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/ensemble_methods.ipynb) by Vadim Smolyakov <br>
 - Paper: [On Agnostic Boosting and Parity Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/2008-On_Agnostic_Boosting-and_Parity_Learning.pdf) by A. T. Kalai, Y. Mansour, and E. Verbin <br>  
- ```
-R (Programming Language):
- ```
+
+    ```
+    R (Programming Language):
+    ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
  * Blog: [Random Forests](http://uc-r.github.io/random_forests) by UC Business Analytics R Programming Guide <br>
 
 12. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 **Exercises:** 11.1 and 11.2 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Tutorial: [Learning Curves for Machine Learning in Python](https://www.dataquest.io/blog/learning-curves-machine-learning/) by Alex Olteanu <br>
@@ -276,9 +283,10 @@ R (Programming Language):
     - [Jupyter NoteBook](https://github.com/WillKoehrsen/Machine-Learning-Projects/blob/master/random_forest_explained/Improving%20Random%20Forest%20Part%202.ipynb) <br>
  - Blog: [Hyperparameter Optimization: Explanation of Automatized Algorithms](http://dkopczyk.quantee.co.uk/hyperparameter-optimization/#easy-footnote-bottom-1-379) by Dawid Kopczyk <br>
     - [Code (Python):](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)
-```
-Additional Reading:
-```
+    
+    ```
+    Additional Reading:
+    ```
 - NoteBook: [Cross Validation](https://www.ritchieng.com/machine-learning-cross-validation/) by Ritchie Ng <br>
 - NoteBook: [Cross Validation With Parameter Tuning Using Grid Search](https://chrisalbon.com/machine_learning/model_evaluation/cross_validation_parameter_tuning_grid_search/) by Chris Albon<br>
 - Blog: [Random Test/Train Split is not Always Enough](http://www.win-vector.com/blog/2015/01/random-testtrain-split-is-not-always-enough/) by Win-Vector <br>
@@ -287,83 +295,91 @@ Additional Reading:
 - Library: [Yellowbrick (Machine Learning Visualization)](https://www.scikit-yb.org/en/latest/index.html)
   - [Learning Curve](https://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html)
   - [Validation Curve](https://www.scikit-yb.org/en/latest/api/model_selection/validation_curve.html)
- ```
-R (Programming Language):
- ```
+  
+    ```
+    R (Programming Language):
+    ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
  * Blog: [Resampling Methods](http://uc-r.github.io/resampling_methods) by UC Business Analytics R Programming Guide <br>
  * Blog: [Linear Model Selection](http://uc-r.github.io/model_selection) by UC Business Analytics R Programming Guide <br>
  
 13. ### <a name="Neural-Networks"></a>Neural Networks   
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
  - Blog: [7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/) <br>
  - Blog: [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html#id5)
  - Blog: [Back-Propagation, an Introduction](https://www.offconvex.org/2016/12/20/backprop/) by Sanjeev Arora and Tengyu Ma <br>
-```
-Additional Reading:
-```
+ 
+    ```
+    Additional Reading:
+    ```
 - Blog: [The Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient) by Khanacademy <br>
 - Blog: [Activation Functions](https://towardsdatascience.com/activation-functions-b63185778794) by Dhaval Dholakia <br>
 - Paper: [Why Does Deep & Cheap Learning Work So Well?](https://arxiv.org/pdf/1608.08225.pdf) by Henry W. Lin, Max Tegmark, and David Rolnick <br>
  - Slide: [Basics of Neural Networks](http://www.connellybarnes.com/work/class/2016/deep_learning_graphics/03_neural_net_basics.pdf) by Connelly Barnes <br> 
-  ```
-R (Programming Language):
- ```
+ 
+    ```
+    R (Programming Language):
+    ```
  * Blog: [Classification Artificial Neural Network](http://uc-r.github.io/ann_classification) by UC Business Analytics R Programming Guide <br>
  
 14. ### <a name="CLP"></a>Convex Learning Problems   
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 12 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
-```
-Additional Reading:
-```
+ 
+    ```
+    Additional Reading:
+    ```
 - Blog: [Escaping from Saddle Points](https://www.offconvex.org/2016/03/22/saddlepoints/) by Rong Ge <br>
  
 15. ### <a name="Regularization-and-Stability"></a>Regularization and Stability   
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 13 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
  - Blog: [L1 and L2 Regularization](https://medium.com/datadriveninvestor/l1-l2-regularization-7f1b4fe948f2) by Renu Khandelwal <br>
  - Blog: [L1 Norm Regularization and Sparsity Explained for Dummies](https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a) by Shi Yan <br>
- ```
- Extra Resources:
- ```
+ 
+    ```
+    Extra Resources:
+    ```
  - NoteBook: [Regularization](https://github.com/ethen8181/machine-learning/blob/master/regularization/regularization.ipynb) by Ethen <br>
- ```
-R (Programming Language):
- ```
+ 
+    ```
+    R (Programming Language):
+    ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
  * Blog: [Regularized Regression](http://uc-r.github.io/regularized_regression) by UC Business Analytics R Programming Guide <br>
  
 16. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
 
-  ```
-  Required Reading:
-  ```
+    ```
+    Required Reading:
+    ```
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
   - Slide: [Support Vector Machines and Kernel Methods](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture8.pdf) by Shai Shalev-Shwartz <br>
   - Blog: [Support Vector Machine (SVM)](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589) by Ajay Yadav <br>
   - Blog: [Support Vector Machine vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f) by Georgios Drakos <br>
- ```
-Additional Reading:
- ```
+  
+    ```
+    Additional Reading:
+    ```
   - Infographic: [Support Vector Machines (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg) by Avik Jain <br>
     - [Markdown (NoteBook)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md)
- ```
-R (Programming Language):
- ```
+     
+    ```
+    R (Programming Language):
+    ```
  * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br> 
  * Blog: [Support Vector Machine Classifier Implementation in R with Caret Package](http://dataaspirant.com/2017/01/19/support-vector-machine-classifier-implementation-r-caret-package/) by Rahul Saxena <br>
  * Blog: [Support Vector Machine](http://uc-r.github.io/svm) by UC Business Analytics R Programming Guide <br>
