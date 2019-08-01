@@ -158,7 +158,7 @@ Recommended Slides & Papers:
     ```
     
     - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee  <br>
-          - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
+     - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
     - Data Exploration:
      - NoteBook: [Titanic 1 – Data Exploration](http://stamfordresearch.com/titanic-1-data-exploration/) by John Stamford 
      - NoteBook: [Kaggle Titanic Supervised Learning Tutorial](https://www.kaggle.com/sashr07/kaggle-titanic-tutorial)
