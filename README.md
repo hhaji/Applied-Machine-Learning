@@ -77,7 +77,11 @@ Additional Books:
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
 Recommended Slides & Papers:
-1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)  
+
+  ```
+  Required Reading:
+  ```
 - [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
 - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
     - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
@@ -85,23 +89,39 @@ Recommended Slides & Papers:
     - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
 - [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html)
  
-2. ### <a name="Introduction"></a>Introduction
+2. ### <a name="Introduction"></a>Introduction  
+
+  ```
+  Required Reading:
+  ```
 - Slide: [Machine Learning: Types of Machine Learning I](http://www.lsi.upc.es/~bejar/apren/docum/trans/00-introAprendizaje-eng.pdf) by Javier Bejar 
 - Slide: [Machine Learning: Types of Machine Learning II](http://www.lsi.upc.edu/~bejar/apren/docum/trans/01-apind-eng.pdf) by Javier Bejar 
 
-3. ### <a name="Empirical-Risk-Minimization"></a>Empirical Risk Minimization 
+3. ### <a name="Empirical-Risk-Minimization"></a>Empirical Risk Minimization  
+
+  ```
+  Required Reading:
+  ```
     A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization <br>
    Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 2.1, 2.2, and 2.3  
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
 - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz  <br>
     
-4. ### <a name="PAC-Learning"></a>PAC Learning
+4. ### <a name="PAC-Learning"></a>PAC Learning 
+
+  ```
+  Required Reading:
+  ```
    Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 3.2, 3.3, 3.4, 3.5, 3.6, 3.7
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
  - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff  
+
+  ```
+  Required Reading:
+  ```
    Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercise:** 5.2  
   - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
@@ -113,11 +133,19 @@ Recommended Slides & Papers:
   - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham <br>
    
 6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
+
+  ```
+  Required Reading:
+  ```
  Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
         **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
 - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      
 7. ### <a name="Part-2"></a>Toolkit Lab (Part 2) 
+
+  ```
+  Required Reading:
+  ```
 - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee  <br>
   - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
 - Data Exploration: <br>
@@ -127,6 +155,10 @@ Recommended Slides & Papers:
 - Homework: [Take the 7-Day Machine Learning Challenge of Kaggle:](https://www.kaggle.com/page/machine-learning-course-ads?utm_medium=paid) Machine learning is the hottest field in data science, and this track will get you started quickly. <br> 
      
 8. ### <a name="Linear-Predictors"></a>Linear Predictors 
+
+  ```
+  Required Reading:
+  ```
  Chapter 9 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
        **Exercises:** 9.1, 9.3, 9.4, and 9.6 <br>
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
@@ -154,6 +186,10 @@ R (Programming Language):
  * Blog: [Logistic Regression](http://uc-r.github.io/logistic_regression) by UC Business Analytics R Programming Guide <br>
 
 9. ### <a name="Decision-Trees"></a>Decision Trees  
+
+  ```
+  Required Reading:
+  ```
  Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
         **Exercise:** 18.2 <br>
  - Slide: [Decision Trees](https://www.utdallas.edu/~nrr150130/cs6375/2015fa/lects/Lecture_6_Decision.pdf) by Nicholas Ruozzi <br>
@@ -176,6 +212,10 @@ R (Programming Language):
  * Blog: [Regression Trees](http://uc-r.github.io) by UC Business Analytics R Programming Guide <br>
 
 10. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
+
+  ```
+  Required Reading:
+  ```
  Chapter 19 (Section 1) of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - Slide: [Nearest Neighbor Classification](http://svivek.com/teaching/machine-learning/fall2018/slides/nearest-neighbors/nearest-neighbors.pdf) by Vivek Srikumar <br> 
 - NoteBook: [k-Nearest Neighbors](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/k-Nearest-Neighbors.ipynb) <br>
@@ -194,6 +234,10 @@ R (Programming Language):
  * Blog: [Knn Classifier Implementation in R with Caret Package](http://dataaspirant.com/2017/01/09/knn-implementation-r-using-caret-package/) by Rahul Saxena <br>
 
 11. ### <a name="Ensemble-Methods"></a>Ensemble Methods 
+
+  ```
+  Required Reading:
+  ```
  Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) and Chapter 8 of [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) <br>
        **Exercises:** 10.1, 10.3, 10.4, and 10.5 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 - Slide: [Bagging and Random Forests](https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/9a.bagging-random-forests.pdf) by David Rosenberg <br>
@@ -219,6 +263,10 @@ R (Programming Language):
  * Blog: [Random Forests](http://uc-r.github.io/random_forests) by UC Business Analytics R Programming Guide <br>
 
 12. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
+
+  ```
+  Required Reading:
+  ```
  Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 **Exercises:** 11.1 and 11.2 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Tutorial: [Learning Curves for Machine Learning in Python](https://www.dataquest.io/blog/learning-curves-machine-learning/) by Alex Olteanu <br>
@@ -247,6 +295,10 @@ R (Programming Language):
  * Blog: [Linear Model Selection](http://uc-r.github.io/model_selection) by UC Business Analytics R Programming Guide <br>
  
 13. ### <a name="Neural-Networks"></a>Neural Networks   
+
+  ```
+  Required Reading:
+  ```
  Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
  - Blog: [7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/) <br>
@@ -265,6 +317,10 @@ R (Programming Language):
  * Blog: [Classification Artificial Neural Network](http://uc-r.github.io/ann_classification) by UC Business Analytics R Programming Guide <br>
  
 14. ### <a name="CLP"></a>Convex Learning Problems   
+
+  ```
+  Required Reading:
+  ```
  Chapter 12 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
 ```
@@ -273,6 +329,10 @@ Additional Reading:
 - Blog: [Escaping from Saddle Points](https://www.offconvex.org/2016/03/22/saddlepoints/) by Rong Ge <br>
  
 15. ### <a name="Regularization-and-Stability"></a>Regularization and Stability   
+
+  ```
+  Required Reading:
+  ```
  Chapter 13 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
  - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
  - Blog: [L1 and L2 Regularization](https://medium.com/datadriveninvestor/l1-l2-regularization-7f1b4fe948f2) by Renu Khandelwal <br>
@@ -288,6 +348,10 @@ R (Programming Language):
  * Blog: [Regularized Regression](http://uc-r.github.io/regularized_regression) by UC Business Analytics R Programming Guide <br>
  
 16. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
+
+  ```
+  Required Reading:
+  ```
  Chapter 15 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
   - Slide: [Support Vector Machines and Kernel Methods](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture8.pdf) by Shai Shalev-Shwartz <br>
   - Blog: [Support Vector Machine (SVM)](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589) by Ajay Yadav <br>
