@@ -295,8 +295,7 @@ A Formal Model – The Statistical Learning Framework & Empirical Risk Minimizat
 - Library: [Yellowbrick (Machine Learning Visualization)](https://www.scikit-yb.org/en/latest/index.html)
   - [Learning Curve](https://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html)
   - [Validation Curve](https://www.scikit-yb.org/en/latest/api/model_selection/validation_curve.html)
-  
-  
+-  
     ```
     R (Programming Language):
     ```
