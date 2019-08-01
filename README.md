@@ -89,8 +89,9 @@ Recommended Slides & Papers:
     - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
     - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
     - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
-- [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) <p/>
- 
+- [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) 
+
+<p/>   
 2. ### <a name="Introduction"></a>Introduction  
   
     ```
