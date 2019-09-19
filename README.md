@@ -424,7 +424,8 @@ Recommended Slides & Papers:
     * Blog: [Support Vector Machine Classifier Implementation in R with Caret Package](http://dataaspirant.com/2017/01/19/support-vector-machine-classifier-implementation-r-caret-package/) by Rahul Saxena <br>
     * Blog: [Support Vector Machine](http://uc-r.github.io/svm) by UC Business Analytics R Programming Guide <br>
       
-- ### <a name="Additional-NoteBooks-and-Slides"></a>Additional NoteBooks and Slides:
+- ### <a name="Additional-NoteBooks-and-Slides"></a>Additional NoteBooks and Slides: 
+  * [Fondations of Machine Learning](https://bloomberg.github.io/foml/#home) by David S. Rosenberg <br>
   * [Python Machine Learning Book Code Repository](https://github.com/rasbt/python-machine-learning-book) <br>
   * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) <br>
   * [Python code for "An Introduction to Statistical Learning with Applications in R"](https://github.com/JWarmenhoven/ISLR-python) by Jordi Warmenhoven <br>
