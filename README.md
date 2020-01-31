@@ -59,7 +59,7 @@ it the default method of choice for artificial intelligence experts. In this cou
 the fundamentals and algorithms of machine learning. 
 ```
 ## <a name="TextBooks"></a>TextBooks:
-![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/james-1x.png) ![Book 3](/Images/Hands-On-ML.jpg) ![Book 4](/Images/bishop-1x.jpg) ![Book 5](/Images/MachineLearningMastery.png)   
+![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/james-1x.png) ![Book 3](/Images/Hands-On-ML.jpg) ![Book 3-1](/Images/R.jpg) ![Book 4](/Images/bishop-1x.jpg) ![Book 5](/Images/MachineLearningMastery.png)   
 
 ```
 Main TextBooks:
