@@ -1,7 +1,7 @@
 Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)  
 The Webpage of the Course: [Applied Machine Learning 2020](https://hhaji.github.io/Applied-Machine-Learning/)   
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)   
-Teaching Assistants: 
+Teaching Assistants:   
     - [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)  
     - [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami)  
     - [Mostafa Khodayari](https://github.com/MSTF4)  
