@@ -80,23 +80,38 @@ Additional TextBooks:
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
 Recommended Slides & Papers:
-1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)  
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1: Google Colab and Anaconda)  
 
-    ```
-    Required Reading:
-    ```
-    
-    - [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
+```
+Required Reading:
+```
+Google Colab and Anaconda:  
+  * Blog: [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) by Fuat <br>
+  * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
+  * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
+  * Install: [TensorFlow 2.0 RC is Available](https://www.tensorflow.org/install)    
+  * Homeworks: [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
         - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
         - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
         - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
  
-    ```
-    Additional Reading:
-    ```
-    
-    - [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
-    - [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) 
+```
+Suggested Reading:
+```
+ 
+ * Blog: [Stop Installing Tensorflow Using pip for Performance Sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c) by Michael Nguyen <br> 
+ * Blog: [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus <br> 
+ * Blog: [How to Import Dataset to Google Colab Notebook?](https://mc.ai/how-to-import-dataset-to-google-colab-notebook/) 
+ * Blog: [How to Upload Large Files to Google Colab and Remote Jupyter Notebooks ](https://www.freecodecamp.org/news/how-to-transfer-large-files-to-google-colab-and-remote-jupyter-notebooks-26ca252892fa/)(For Linux Operating System) by Bharath Raj  
+ * [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
+ * [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) 
+
+```
+Additional Resources:
+```
+  * PDF: [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/1f5ecf5a87b1c1a8aaf5a7ab8a7a0ff7/conda-cheatsheet.pdf) 
+  * Blog: [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY <br>  
+  * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha   
 
 2. ### <a name="Introduction"></a>Introduction  
   
