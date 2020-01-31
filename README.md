@@ -74,7 +74,7 @@ Additional TextBooks:
 ```
 
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2FPRML%2F#!prml-book) by Christopher Bishop <br>
-* [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee<br>
+* [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee<br>
     - [R Codes](https://github.com/rupskygill/ML-mastery/tree/master/machine_learning_mastery_with_r_code) <br>
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
