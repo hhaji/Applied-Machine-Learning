@@ -1,12 +1,33 @@
-Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)  
-The Webpage of the Course: [Applied Machine Learning 2020](https://hhaji.github.io/Applied-Machine-Learning/)   
-[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)   
-Teaching Assistants: 
+<table class="tg">
+  <tr>
+    <th class="tg-cly1" colspan="2">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
+    <th class="tg-cly1" colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="4">Teaching Assistants:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
+    <td class="tg-0lax"><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
+    <td class="tg-0lax"><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
+    <td class="tg-0lax"><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src=".\Images\Y.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src=".\Images\R.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src=".\Images\K.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax">    </td>
+  </tr>
+</table>
+
+
+
+
 
 <table class="tg">
   <tr>
-    <th class="tg-0pky">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a><br><br>Teaching Assistants:</th>
-    <th class="tg-0pky" colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
+    <th class="tg-0pky"><br><br>Teaching Assistants:</th>
+    <th class="tg-0pky" colspan="2"></th>
   </tr>
 </table>
 <table class="tg">
