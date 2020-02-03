@@ -20,36 +20,6 @@
   </tr>
 </table>
 
-
-
-
-
-<table class="tg">
-  <tr>
-    <th class="tg-0pky"><br><br>Teaching Assistants:</th>
-    <th class="tg-0pky" colspan="2"></th>
-  </tr>
-</table>
-<table class="tg">
-  <tr>
- <th class="tg-0lax">Teaching Assistants:</th>
-  </tr>
-  <tr>
-    <th class="tg-0lax"><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></th>
-    <th class="tg-0lax"><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></th>
-    <th class="tg-0lax"><a href="https://github.com/MSTF4">Mostafa Khodayari</a></th>
-    <th class="tg-0lax"><a href="https://github.com/E008001">Esmail Mafakheri</a></th>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src=".\Images\Y.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src=".\Images\R.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src=".\Images\K.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"> </td>
-  </tr>
-</table>
-
-
-
 ### **Index:**
 - [Course Overview](#Course-Overview)
 - [TextBooks](#TextBooks)
