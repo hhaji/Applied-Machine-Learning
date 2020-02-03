@@ -11,7 +11,7 @@ Teaching Assistants:
     <th class="tg-0lax"><a href="https://github.com/E008001">Esmail Mafakheri</a></th>
   </tr>
   <tr>
-    <td class="tg-0lax">aaaaa</td>
+    <td class="tg-0lax">![Book 1](/Images/shalev-shwartz-1x.jpg)</td>
     <td class="tg-0lax"><img src=".\Images/R.jpeg" alt="" border=3 height=85 width=85></img></td>
     <td class="tg-0lax">ccccc</td>
     <td class="tg-0lax">ddddd</td>
