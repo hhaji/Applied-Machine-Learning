@@ -1,9 +1,22 @@
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"> Lecturer:<a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a></th>
+    <th class="tg-0pky" colspan="2">      </th>
+  </tr>
+</table>
+
+
+
 Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)  
 The Webpage of the Course: [Applied Machine Learning 2020](https://hhaji.github.io/Applied-Machine-Learning/)   
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)   
 Teaching Assistants: 
 
 <table class="tg">
+  <tr>
+    <th class="tg-0pky">Lecturer: Hossein Hajiabolhassan<br><br>The Webpage of the Course: Applied Machine Learning 2020<br><br>Data Science Center, Shahid Beheshti University<br><br>Teaching Assistants:</th>
+    <th class="tg-0pky" colspan="2">mmm</th>
+  </tr>
   <tr>
     <th class="tg-0lax"><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></th>
     <th class="tg-0lax"><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></th>
