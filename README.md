@@ -3,6 +3,8 @@ The Webpage of the Course: [Applied Machine Learning 2020](https://hhaji.github.
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)   
 Teaching Assistants: 
 
+
+
 <table class="tg">
   <tr>
     <th class="tg-0lax"><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></th>
@@ -11,8 +13,8 @@ Teaching Assistants:
     <th class="tg-0lax"><a href="https://github.com/E008001">Esmail Mafakheri</a></th>
   </tr>
   <tr>
-    <td class="tg-0lax">![Book 1](/Images/shalev-shwartz-1x.jpg)</td>
-    <td class="tg-0lax"><img src=".\Images/R.jpeg" alt="" border=3 height=85 width=85></img></td>
+    <td class="tg-0lax">aaaaa</td>
+    <td class="tg-0lax"><img src=".\Images\R.jpg" alt="" border='3' height='100' width='100' /></td>
     <td class="tg-0lax">ccccc</td>
     <td class="tg-0lax">ddddd</td>
   </tr>
