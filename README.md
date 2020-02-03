@@ -4,7 +4,7 @@
     <th class="tg-cly1" colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="4">Teaching Assistants:</td>
+    <td class="tg-0lax" colspan="4"><b>Teaching Assistants:<b></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
