@@ -74,7 +74,7 @@ it the default method of choice for artificial intelligence experts. In this cou
 the fundamentals and algorithms of machine learning. 
 ```
 ## <a name="TextBooks"></a>TextBooks:
-![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/james-1x.png) ![Book 3](/Images/Hands-On-ML.jpg) ![Book 4](/Images/bishop-1x.jpg) ![Book 5](/Images/RM.jpg)   
+![Book 1](/Images/shalev-shwartz-1x.jpg) ![Book 2](/Images/james-1x.png) ![Book 3](/Images/Hands-On-ML.jpg) ![Book 4](/Images/bishop-1x.jpg) ![Book 5](/Images/homl-cover.jpg)   
 
 ```
 Main TextBooks:
@@ -89,8 +89,7 @@ Additional TextBooks:
 ```
 
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2FPRML%2F#!prml-book) by Christopher Bishop <br>
-* [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee<br>
-    - [R Codes](https://github.com/rupskygill/ML-mastery/tree/master/machine_learning_mastery_with_r_code) <br>
+* [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell   
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
