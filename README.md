@@ -1,8 +1,7 @@
 Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)  
 The Webpage of the Course: [Applied Machine Learning 2020](https://hhaji.github.io/Applied-Machine-Learning/)   
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)   
-Teaching Assistants: [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh), [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami), [Mostafa Khodayari](https://github.com/MSTF4), [Esmail Mafakheri](https://github.com/E008001)   
-
+Teaching Assistants: 
 
 <table class="tg">
   <tr>
@@ -13,7 +12,7 @@ Teaching Assistants: [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh), [E
   </tr>
   <tr>
     <td class="tg-0lax">aaaaa</td>
-    <td class="tg-0lax">bbbbb</td>
+    <td class="tg-0lax"><img src=".\Images/R.jpeg" alt="" border=3 height=85 width=85></img></td>
     <td class="tg-0lax">ccccc</td>
     <td class="tg-0lax">ddddd</td>
   </tr>
