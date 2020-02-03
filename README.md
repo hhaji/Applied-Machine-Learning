@@ -1,12 +1,3 @@
-<table class="tg">
-  <tr>
-    <th class="tg-0pky"> Lecturer:<a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a></th>
-    <th class="tg-0pky" colspan="2">      </th>
-  </tr>
-</table>
-
-
-
 Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)  
 The Webpage of the Course: [Applied Machine Learning 2020](https://hhaji.github.io/Applied-Machine-Learning/)   
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)   
@@ -15,10 +6,13 @@ Teaching Assistants:
 <table class="tg">
   <tr>
     <th class="tg-0pky">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a><br><br>Teaching Assistants:</th>
-    <th class="tg-0pky" colspan="2">mmm</th>
+    <th class="tg-0pky" colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
   </tr>
 </table>
 <table class="tg">
+  <tr>
+ <th class="tg-0lax">Teaching Assistants:</th>
+  </tr>
   <tr>
     <th class="tg-0lax"><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></th>
     <th class="tg-0lax"><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></th>
