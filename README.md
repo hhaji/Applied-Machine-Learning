@@ -14,7 +14,7 @@ Teaching Assistants:
   </tr>
   <tr>
     <td class="tg-0lax">aaaaa</td>
-    <td class="tg-0lax"><img src=".\Images\R.jpg" alt="" border='3' height='100' width='100' /></td>
+    <td class="tg-0lax"><img src=".\Images\R.jpg" alt="" border='3' height='140' width='140' /></td>
     <td class="tg-0lax">ccccc</td>
     <td class="tg-0lax">ddddd</td>
   </tr>
