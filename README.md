@@ -4,7 +4,6 @@
         color: #257f96;
     }
 </style>
-
 <div class="something" markdown="1">    
     <table>
         <tbody>
