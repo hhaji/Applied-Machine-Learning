@@ -1,6 +1,6 @@
 
-
 <table>
+ <body>
   <tr>
     <th colspan="2">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
     <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
@@ -20,8 +20,8 @@
     <td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
     <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
   </tr>
-</table>
-    
+ </body>
+</table>    
     
 ### **Index:**
 - [Course Overview](#Course-Overview)
