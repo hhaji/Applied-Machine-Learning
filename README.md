@@ -1,6 +1,5 @@
-<div>  
- 
-/***
+
+```html  
 <table>
     <body>
         <tr>
@@ -23,8 +22,8 @@
             <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
         </tr>
     </body>
-</table>    
-***/  
+</table> 
+```
     
 ### **Index:**
 - [Course Overview](#Course-Overview)
