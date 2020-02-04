@@ -22,7 +22,6 @@
         </tr>
     </body>
 </table> 
-```
     
 ### **Index:**
 - [Course Overview](#Course-Overview)
