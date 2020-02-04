@@ -14,10 +14,10 @@
     <td class="tg-0lax"><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src=".\Images\Y.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src=".\Images\R.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src=".\Images\K.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
+    <td class="tg-0lax"><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
+    <td class="tg-0lax"><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
+    <td class="tg-0lax"><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
   </tr>
 </table>
 </html>
