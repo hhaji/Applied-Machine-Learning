@@ -22,7 +22,7 @@
 
 
 
-### **Index:**
+## **Index:**
 - [Course Overview](#Course-Overview)
 - [TextBooks](#TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
