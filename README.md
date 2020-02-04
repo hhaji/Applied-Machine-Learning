@@ -22,7 +22,7 @@
     </table>
 </div>
 
-<div class="gallery" markdown=1>
+<div markdown=1>
 ### **Index:**
 - [Course Overview](#Course-Overview)
 - [TextBooks](#TextBooks)
