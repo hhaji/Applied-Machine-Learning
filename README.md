@@ -5,7 +5,7 @@
         <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
       </tr>
       <tr>
-        <td colspan="4"><b>Teaching Assistants:<b></td>
+        <td><b>Teaching Assistants:<b></td>
       </tr>
       <tr>
         <td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
