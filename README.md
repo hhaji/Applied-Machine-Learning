@@ -17,7 +17,7 @@
         <td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
         <td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
         <td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
-        <td"><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
+        <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
       </tr>
     </table>
 </html>
