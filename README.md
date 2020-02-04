@@ -1,9 +1,3 @@
-<style>
-    .bold-list + ol {
-        font-weight: 900;
-        color: #257f96;
-    }
-</style>
 <div class="something" markdown="1">    
     <table>
         <tbody>
