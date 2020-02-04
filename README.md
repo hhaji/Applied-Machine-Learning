@@ -1,26 +1,25 @@
-<div class="something" markdown="5">    
-<section>
-    <table>
-      <tr>
-        <th colspan="2">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
-        <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
-      </tr>
-      <tr>
-        <td colspan="4"><b>Teaching Assistants:<b></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
-        <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
-        <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
-        <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
-      </tr>
-      <tr>
-        <td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
-        <td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
-        <td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
-        <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
-      </tr>
-    </table>
+<div class="something" markdown="1">    
+<table>
+  <tr>
+    <th colspan="2">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
+    <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
+  </tr>
+  <tr>
+    <td colspan="4"><b>Teaching Assistants:<b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
+    <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
+    <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
+    <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
+  </tr>
+  <tr>
+    <td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
+    <td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
+    <td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
+    <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
+  </tr>
+</table>
 
 ### **Index:**
 - [Course Overview](#Course-Overview)
@@ -556,6 +555,4 @@ We will follow the standard of Department of Mathematical Sciences approach:
 ## <a name="Questions"></a>Questions?
 I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class. 
 
-</section>
 </div>
-
