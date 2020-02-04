@@ -23,8 +23,6 @@
           </tr>
         </tbody>
     </table>
-</div>
-{::options parse_block_html="false" /}
     
 ### **Index:**
 - [Course Overview](#Course-Overview)
@@ -559,3 +557,6 @@ We will follow the standard of Department of Mathematical Sciences approach:
 
 ## <a name="Questions"></a>Questions?
 I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class. 
+
+</div>
+{::options parse_block_html="false" /}
