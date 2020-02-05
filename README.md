@@ -1,29 +1,3 @@
-
-<div class="something" markdown="1">
-<table>
-<tr>
-<th colspan="2">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
-<th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
-</tr>
-<tr>
-<td colspan="4"><b>Teaching Assistants:<b></td>
-</tr>
-<tr>
-<td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
-<td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
-<td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
-<td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
-</tr>
-<tr>
-<td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
-</tr>
-</table> 
-</div>
-
-    
 ### **Index:**
 - [Course Overview](#Course-Overview)
 - [TextBooks](#TextBooks)
@@ -166,7 +140,7 @@ Additional Resources:
     ```
     
     - Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)  <br>  
-        - **Exercises:** 3.2, 3.3, 3.4, 3.5, 3.6, 3.7  
+          - **Exercises:** 3.2, 3.3, 3.4, 3.5, 3.6, 3.7  
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
     - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
 5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff  
@@ -176,7 +150,7 @@ Additional Resources:
     ```
     
     - Chapter 5 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-        - **Exercise:** 5.2  
+          - **Exercise:** 5.2  
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
     - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
     - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas <br>
@@ -194,7 +168,7 @@ Additional Resources:
     ```
     
     - Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-        - **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
+          - **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      
 7. ### <a name="Part-2"></a>Toolkit Lab (Part 2) 
@@ -204,11 +178,11 @@ Additional Resources:
     ```
     
     - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/) by Jason Brownlee  <br>
-        - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
+          - [Python Codes](https://github.com/rupskygill/ML-mastery/tree/master/ml_with_python_code) <br>
     - Data Exploration:
-        - NoteBook: [Titanic 1 – Data Exploration](http://stamfordresearch.com/titanic-1-data-exploration/) by John Stamford 
-        - NoteBook: [Kaggle Titanic Supervised Learning Tutorial](https://www.kaggle.com/sashr07/kaggle-titanic-tutorial)
-        - NoteBook: [An Example Machine Learning Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by  Randal S. Olson <br>
+          - NoteBook: [Titanic 1 – Data Exploration](http://stamfordresearch.com/titanic-1-data-exploration/) by John Stamford 
+          - NoteBook: [Kaggle Titanic Supervised Learning Tutorial](https://www.kaggle.com/sashr07/kaggle-titanic-tutorial)
+          - NoteBook: [An Example Machine Learning Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by  Randal S. Olson <br>
     - Homework: [Take the 7-Day Machine Learning Challenge of Kaggle:](https://www.kaggle.com/page/machine-learning-course-ads?utm_medium=paid) Machine learning is the hottest field in data science, and this track will get you started quickly. <br> 
      
 8. ### <a name="Linear-Predictors"></a>Linear Predictors 
@@ -232,7 +206,7 @@ Additional Resources:
     - Paper: [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf) by Randal J. Barnes <br>
     - Lecture: [Logistic Regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) by Cosma Shalizi <br>
     - NoteBook: [Logistic Regression-Analysis](https://nbviewer.jupyter.org/github/nborwankar/LearnDataScience/blob/master/notebooks/WB3.%20Logistic%20Regression%20-%20Analysis-%20Worksheet.ipynb) by Nitin Borwankar <br>
-        - [DataSets](https://github.com/nborwankar/LearnDataScience/tree/master/datasets) <br>
+          - [DataSets](https://github.com/nborwankar/LearnDataScience/tree/master/datasets) <br>
     - NoteBook: [Logistic Regression](https://github.com/justmarkham/DAT8/blob/master/notebooks/12_logistic_regression.ipynb) by Kevin Markham <br>  
     - Infographic and Code: [Simple Linear Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md) by Avik Jain <br>
     - Infographic and Code: [Multiple Linear Regression (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md) by Avik Jain <br>
@@ -266,7 +240,7 @@ Additional Resources:
 
     - Paper: [Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?](http://jmlr.csail.mit.edu/papers/volume15/delgado14a/delgado14a.pdf) by Manuel Fernandez-Delgado, Eva Cernadas, Senen Barro, and Dinani Amorim <br>
     - Blog: [Random Forest Classifier Example](https://chrisalbon.com/machine_learning/trees_and_forests/random_forest_classifier_example/) by Chris Albon.  This tutorial is based on Yhat’s 2013 tutorial on [Random Forests in Python](http://blog.yhat.com/posts/random-forests-in-python.html). 
-        - [NoteBook](https://github.com/chrisalbon/notes/blob/master/docs/machine_learning/trees_and_forests/random_forest_classifier_example.ipynb) <br>
+          - [NoteBook](https://github.com/chrisalbon/notes/blob/master/docs/machine_learning/trees_and_forests/random_forest_classifier_example.ipynb) <br>
     - NoteBook: [Titanic Competition with Random Forest](https://github.com/chrisalbon/kaggle/blob/master/titanic/titanic_competition_with_random_forest.ipynb) by Chris Albon <br>
     - Infographic and Code: [Decision Trees (100 Days Of ML Code)]( https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md) by Avik Jain <br>
  
@@ -293,9 +267,9 @@ Additional Resources:
     ```
   
     - NoteBook: [Training a Machine Learning Model with Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb) by Kevin Markham <br>
-        - [Video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4) <br>
+          - [Video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4) <br>
     - NoteBook: [Comparing Machine Learning Models in Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb) by Kevin Markham <br>
-        - [Video](https://www.youtube.com/watch?v=0pP4EwWJgIU&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=5) <br> 
+          - [Video](https://www.youtube.com/watch?v=0pP4EwWJgIU&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=5) <br> 
     - Infographic: [K-Nearest Neighbours (100 Days Of ML Code)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg) by Avik Jain <br>
  
     ```
@@ -312,7 +286,7 @@ Additional Resources:
     ```
     
     - Chapter 10 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) and Chapter 8 of [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) <br>
-        - **Exercises:** 10.1, 10.3, 10.4, and 10.5 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+          - **Exercises:** 10.1, 10.3, 10.4, and 10.5 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Slide: [Bagging and Random Forests](https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/9a.bagging-random-forests.pdf) by David Rosenberg <br>
     - Slide: [Ensemble Learning through Diversity Management: Theory, Algorithms, and Applications](http://staff.ustc.edu.cn/~hchen/tutorial/IJCNN2011.pdf) by Huanhuan Chen and Xin Yao <br>
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
@@ -326,7 +300,7 @@ Additional Resources:
 
     - Blog: [Ensemble Methods](https://www.datavedas.com/ensemble-methods/) by Rai Kapil <br>
     - Blog: [Boosting, Bagging, and Stacking — Ensemble Methods with sklearn and mlens](https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de) by Robert R.F. DeFilippi <br>
-        - [NoteBook](https://github.com/robertdefilippi/ensemble-bagging-boosting/blob/master/binning-bagging.ipynb)
+          - [NoteBook](https://github.com/robertdefilippi/ensemble-bagging-boosting/blob/master/binning-bagging.ipynb)
     - NoteBook: [Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/) by Sebastian Flennerhag <br>
     - [Library (ML-Ensemble):](http://ml-ensemble.com/docs/ensemble.html) Graph handles for deep computational graphs and ready-made ensemble classes for ensemble networks by Sebastian Flennerhag <br>
     - NoteBook: [Ensemble Methods](https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/ensemble_methods.ipynb) by Vadim Smolyakov <br>
@@ -346,14 +320,14 @@ Additional Resources:
     ```
     
     - Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-        - **Exercises:** 11.1 and 11.2 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+          - **Exercises:** 11.1 and 11.2 from [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
     - Tutorial: [Learning Curves for Machine Learning in Python](https://www.dataquest.io/blog/learning-curves-machine-learning/) by Alex Olteanu <br>
     - Blog: [K-Fold and Other Cross-Validation Techniques](https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniques-6c03a2563f1e) by Renu Khandelwal <br>
     - NoteBook: [Split the Dataset Using Stratified K-Folds Cross-Validator](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/Stratified-K-Folds-Cross-Validator.ipynb)
     - Blog: [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74) by Will Koehrsen 
-        - [Jupyter NoteBook](https://github.com/WillKoehrsen/Machine-Learning-Projects/blob/master/random_forest_explained/Improving%20Random%20Forest%20Part%202.ipynb) <br>
+          - [Jupyter NoteBook](https://github.com/WillKoehrsen/Machine-Learning-Projects/blob/master/random_forest_explained/Improving%20Random%20Forest%20Part%202.ipynb) <br>
     - Blog: [Hyperparameter Optimization: Explanation of Automatized Algorithms](http://dkopczyk.quantee.co.uk/hyperparameter-optimization/#easy-footnote-bottom-1-379) by Dawid Kopczyk <br>
-        - [Code (Python):](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)
+          - [Code (Python):](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)
     
     ```
     Additional Reading:
@@ -365,8 +339,8 @@ Additional Resources:
     - Slide: [Cross-Validation: What, How and Which?](https://www.humanbrainmapping.org/files/2017/ED%20Courses/Course%20Materials/Crossvalidation_Raamana_PradeepReddy.pdf) by Pradeep Reddy Raamana <br>
     - Paper: [Algorithms for Hyper-Parameter Optimization (NIPS 2011)](http://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf) by J. Bergstra, R. Bardenet,Y. Bengio, and B. Kégl <br>
     - Library: [Yellowbrick (Machine Learning Visualization)](https://www.scikit-yb.org/en/latest/index.html)
-        - [Learning Curve](https://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html)
-        - [Validation Curve](https://www.scikit-yb.org/en/latest/api/model_selection/validation_curve.html)
+          - [Learning Curve](https://www.scikit-yb.org/en/latest/api/model_selection/learning_curve.html)
+          - [Validation Curve](https://www.scikit-yb.org/en/latest/api/model_selection/validation_curve.html)
       
     ```
     R (Programming Language):
