@@ -1,4 +1,3 @@
-<html>
 <div class="something" markdown="1">
 <table>
 <tr>
