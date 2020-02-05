@@ -1,27 +1,30 @@
-
-<div class="something" markdown="1">
-<table>
-<tr>
-<th colspan="2">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
-<th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
+<table style="height: 251px; width: 359px;">
+<tbody>
+<tr style="height: 331px;">
+<td style="width: 138px; height: 331px;" colspan="2">
+<p>Lecturer: &lt;a href="http://facultymembers.sbu.ac.ir/hhaji/"&gt;Hossein Hajiabolhassan&nbsp;</p>
+<p>The Webpage of the Course: &lt;a href="https://hhaji.github.io/Applied-Machine-Learning/"&gt;Applied Machine Learning 2020 &nbsp;</p>
+<p>&lt;a href="http://ds.sbu.ac.ir/"&gt;Data Science Center&lt;/a&gt;, &lt;a href="http://en.sbu.ac.ir/"&gt;Shahid Beheshti University&lt;/a&gt; &nbsp;</p>
+</td>
+<td style="width: 138px; height: 331px;" colspan="2">&lt;img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /&gt;</td>
 </tr>
-<tr>
-<td colspan="4"><b>Teaching Assistants:<b></td>
+<tr style="height: 21.5px;">
+<td style="width: 276px; height: 21.5px;" colspan="4">Teaching Assistants:</td>
 </tr>
-<tr>
-<td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
-<td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
-<td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
-<td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
+<tr style="height: 21px;">
+<td style="width: 69px; height: 21px;">&lt;a href="https://github.com/YavarYeganeh"&gt;Yavar Taheri Yeganeh&lt;/a&gt;</td>
+<td style="width: 69px; height: 21px;">&lt;a href="https://github.com/Erfaan-Rostami"&gt;Erfaan Rostami Amraei&lt;/a&gt;</td>
+<td style="width: 69.34375px; height: 21px;">&lt;a href="https://github.com/MSTF4"&gt;Mostafa Khodayari&lt;/a&gt;</td>
+<td style="width: 68.65625px; height: 21px;">&lt;a href="https://github.com/E008001"&gt;Esmail Mafakheri&lt;/a&gt;</td>
 </tr>
-<tr>
-<td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
+<tr style="height: 21px;">
+<td style="width: 69px; height: 21px;">&lt;img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /&gt;</td>
+<td style="width: 69px; height: 21px;">&lt;img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /&gt;</td>
+<td style="width: 69.34375px; height: 21px;">&lt;img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /&gt;</td>
+<td style="width: 68.65625px; height: 21px;">&lt;img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /&gt;</td>
 </tr>
-</table> 
-</div>
+</tbody>
+</table>
 
 ### **Index:**
 - [Course Overview](#Course-Overview)
