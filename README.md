@@ -1,3 +1,17 @@
+# test
+<table>
+<tr>
+<td>2017 Software Carpentry Steering Committee (all elected)</td>
+<td>2017 Data Carpentry Steering Committee (all appointed)</td>
+<td>2018 Carpentries Board of Directors (5 appointed, 4 elected)</td>
+</tr>
+<tr>
+<td><ul><li>Rayna Harris<sup>M</sup></li><li>Kate Hertweck<sup>M</sup></li><li>Christina Koch</li><li>Mateusz Kuzak</li><li>Karin Lagesen</li><li>Sue McClatchy</li></ul><td>
+<td><ul><li>Karen Cranston<sup>M</sup></li><li>Hilmar Lapp<sup>M</sup></li><li>Aleksandra Pawlik</li><li>Karthik Ram</li><li>Ethan White</li></ul></td>
+<td><ul><li>Karen Cranston</li><li>Kate Hertweck</li><li>Mateusz Kuzak</li><li>Sue McClatchy</li><li>Ethan White</li><li>*to be elected*</li><li>*to be elected*</li><li>*to be elected*</li><li>*to be elected*</li></ul></td>
+</tr>
+</table>
+
 <div>  
 <table>
     <body>
