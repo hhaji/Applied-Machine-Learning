@@ -1,40 +1,24 @@
-# test
-<table>
-<tr>
-<td>2017 Software Carpentry Steering Committee (all elected)</td>
-<td>2017 Data Carpentry Steering Committee (all appointed)</td>
-<td>2018 Carpentries Board of Directors (5 appointed, 4 elected)</td>
-</tr>
-<tr>
-<td><ul><li>Rayna Harris<sup>M</sup></li><li>Kate Hertweck<sup>M</sup></li><li>Christina Koch</li><li>Mateusz Kuzak</li><li>Karin Lagesen</li><li>Sue McClatchy</li></ul><td>
-<td><ul><li>Karen Cranston<sup>M</sup></li><li>Hilmar Lapp<sup>M</sup></li><li>Aleksandra Pawlik</li><li>Karthik Ram</li><li>Ethan White</li></ul></td>
-<td><ul><li>Karen Cranston</li><li>Kate Hertweck</li><li>Mateusz Kuzak</li><li>Sue McClatchy</li><li>Ethan White</li><li>*to be elected*</li><li>*to be elected*</li><li>*to be elected*</li><li>*to be elected*</li></ul></td>
-</tr>
-</table>
 
-<div>  
 <table>
-    <body>
-        <tr>
-            <th colspan="2">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
-            <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
-        </tr>
-        <tr>
-            <td colspan="4"><b>Teaching Assistants:<b></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
-            <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
-            <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
-            <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
-        </tr>
-        <tr>
-            <td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
-            <td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
-            <td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
-            <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
-        </tr>
-    </body>
+<tr>
+<th colspan="2">Lecturer: <a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br>The Webpage of the Course: <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
+<th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
+</tr>
+<tr>
+<td colspan="4"><b>Teaching Assistants:<b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
+<td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
+<td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
+<td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
+</tr>
+<tr>
+<td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
+<td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
+<td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
+<td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
+</tr>
 </table> 
     
 ### **Index:**
@@ -571,4 +555,3 @@ We will follow the standard of Department of Mathematical Sciences approach:
 
 ## <a name="Questions"></a>Questions?
 I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class. 
-</div>  
