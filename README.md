@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><span style="font-weight:bold">The Webpage of the Course:</span> <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a> <br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
+    <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><span style="font-weight:bold">Webpage:</span> <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a> <br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a> <br><br><a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
     <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='120' width='120' /></th>
   </tr>
   <tr>
