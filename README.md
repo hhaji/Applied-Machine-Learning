@@ -2,7 +2,7 @@
 <table>
   <tr>
     <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><span style="font-weight:bold">The Webpage of the Course:</span> <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a> <br><br><a href="https://hhaji.github.io/Applied-Machine-Learning/">http://ds.sbu.ac.ir/</a>, <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
-    <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='160' width='170' /></th>
+    <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140' /></th>
   </tr>
   <tr>
     <td colspan="4"><span style="font-weight:bold">Teaching Assistants:</span></td>
@@ -14,10 +14,10 @@
     <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
   </tr>
   <tr>
-    <td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='130' /></td>
-    <td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='130' /></td>
-    <td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='130' /></td>
-    <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='130' /></td>
+    <td><img src=".\Images\Y.jpg" alt="" border='3' height='125' width='125' /></td>
+    <td><img src=".\Images\R.jpg" alt="" border='3' height='125' width='125' /></td>
+    <td><img src=".\Images\K.jpg" alt="" border='3' height='125' width='125' /></td>
+    <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='125' width='125' /></td>
   </tr>
 </table>
 
