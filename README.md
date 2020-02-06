@@ -7,22 +7,11 @@
 <tr>
 <td colspan="4"><b>Teaching Assistants:<b></td>
 </tr>
-</table>
-  
- ### Test
-  
-<table>
 <tr>
 <td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
 <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
 <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
 <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
-</tr>
-<tr>
-<td><img src=".\Images\Y.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\R.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\K.jpg" alt="" border='3' height='150' width='160' /></td>
-<td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='150' width='160' /></td>
 </tr>
 </table> 
 
