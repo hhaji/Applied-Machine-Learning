@@ -114,7 +114,7 @@ Required Reading:
 Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab:  
   * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)   
   * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)   
-  * Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter    
+  * Slide: [Practical Data Science: Jupyter NoteBook Lab](http://www.datasciencecourse.org/slides/jupyter.pdf) by Zico Kolter    
   * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
   * Blog: [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
   * Slide: [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino   
