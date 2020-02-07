@@ -25,7 +25,7 @@
 - [Course Overview](#Course-Overview)
 - [TextBooks](#TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. Lecture 1: [Toolkit Lab (Part 1: Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab)](#Part-1) 
+  1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
   2. Lecture 2: [Introduction](#Introduction)
   3. Lecture 3: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
   4. Lecture 4: [PAC Learning](#PAC-Learning)
@@ -140,7 +140,8 @@ Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab:
     <th><a href="http://www.scipy-lectures.org/index.html">Scipy Lecture Notes</a></th>
     <th colspan="2"><a href="https://github.com/donnemartin/data-science-ipython-notebooks">Data Science iPython Notebooks</a></th>
   </tr>
-</table>
+</table>  
+
 
   * Homeworks: [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
         - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
@@ -246,8 +247,8 @@ Additional Resources:
     Required Reading:
     ```
     
-    - Chapter 9 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-        - **Exercises:** 9.1, 9.3, 9.4, and 9.6 <br>
+    - Chapter 9 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
+          - **Exercises:** 9.1, 9.3, 9.4, and 9.6   
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
     - Slide: [Tutorial 3: Consistent linear predictors and Linear regression](https://webcourse.cs.technion.ac.il/236756/Spring2014/ho/WCFiles/Tutorial%203.pdf) by Nir Ailon <br>
     - NoteBook: [Perceptron in Scikit](https://github.com/chrisalbon/notes/blob/master/content/machine_learning/basics/perceptron_in_scikit-learn.ipynb) by Chris Albon <br>
@@ -282,9 +283,9 @@ Additional Resources:
     Required Reading:
     ```
     
-    - Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-        - **Exercise:** 18.2 <br>
-    - Slide: [Decision Trees](https://www.utdallas.edu/~nrr150130/cs6375/2015fa/lects/Lecture_6_Decision.pdf) by Nicholas Ruozzi <br>
+    - Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
+          - **Exercise:** 18.2   
+    - Slide: [Decision Trees](https://www.utdallas.edu/~nrr150130/cs6375/2015fa/lects/Lecture_6_Decision.pdf) by Nicholas Ruozzi   
     - Slide: [Representation of Boolean Functions](http://freeusermanuals.com/backend/web/manuals/1522928344lec2.pdf) by Troels Bjerre Sørensen <br>
     - Slide: [Overfitting in Decision Trees](https://www3.nd.edu/~rjohns15/cse40647.sp14/www/content/lectures/24%20-%20Decision%20Trees%203.pdf) by Reid Johnson <br>
     - NoteBook: [Decision Trees](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/Decision-Trees.ipynb) <br>
