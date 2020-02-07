@@ -137,8 +137,8 @@ Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab:
     <td colspan="3">Resources:</td>
   </tr>
   <tr>
-    <td><a href="http://www.scipy-lectures.org/index.html">Scipy Lecture Notes</a></td>
-    <td colspan="2"><a href="https://github.com/donnemartin/data-science-ipython-notebooks">Data Science iPython Notebooks</a></td>
+    <th><a href="http://www.scipy-lectures.org/index.html">Scipy Lecture Notes</a></th>
+    <th colspan="2"><a href="https://github.com/donnemartin/data-science-ipython-notebooks">Data Science iPython Notebooks</a></th>
   </tr>
 </table>
 
