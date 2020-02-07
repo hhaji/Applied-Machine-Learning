@@ -129,9 +129,9 @@ Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab:
     <td colspan="3">Python continues to take leading positions in solving data science tasks and challenges.  <br>Here are three of the most important of libraries.</td>
   </tr>
   <tr>
-    <td><a href="http://www.numpy.org/">Numpy</a> is the fundamental package <br>for scientific computing with Python.</td>
+    <td><a href="http://www.numpy.org/">Numpy</a> is the fundamental<br>package for scientific <br>computing with Python.</td>
     <td><a href="https://pandas.pydata.org/">Pandas</a> is an easy-to-use data <br>structures and data analysis tools</td>
-    <td><a href="https://matplotlib.org/">Matplotlib</a> is a Python 2D <br>plotting library</td>
+    <td><a href="https://matplotlib.org/">Matplotlib</a> is a Python <br>2D plotting library</td>
   </tr>
   <tr>
     <td colspan="3">Resources:</td>
