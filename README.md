@@ -25,7 +25,7 @@
 - [Course Overview](#Course-Overview)
 - [TextBooks](#TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
+  1. Lecture 1: [Toolkit Lab (Part 1: Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab)](#Part-1) 
   2. Lecture 2: [Introduction](#Introduction)
   3. Lecture 3: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
   4. Lecture 4: [PAC Learning](#PAC-Learning)
@@ -105,15 +105,20 @@ Additional TextBooks:
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
 Recommended Slides & Papers:
-1. ### <a name="Part-1"></a>Toolkit Lab (Part 1: Google Colab and Anaconda)  
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1: Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab)  
 
 ```
 Required Reading:
 ```
-Google Colab and Anaconda:  
-  * Blog: [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) by Fuat <br>
-  * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
-  * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
+Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab:  
+  * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments)   
+  * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)   
+  * Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter    
+  * [Awesome JupyterLab](https://github.com/mauhai/awesome-jupyterlab) by Hai Nguyen Mau
+  * Blog: [Learn Markdown Online](https://commonmark.org/help/tutorial/) 
+  * Slide: [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino   
+  * Slide: [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire  
+  * Blog: [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) by Fuat   
   * Homeworks: [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
         - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
         - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
@@ -123,10 +128,13 @@ Google Colab and Anaconda:
 Suggested Reading:
 ```
  
- * Blog: [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus <br> 
+ * [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
+ * Blog: [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus  
+ * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) by Josh Devlin  
+ * Cheat Sheet: [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+ * [Git Cheat Sheet](https://github.com/hhaji/Tools-in-Data-Science/blob/master/Cheat%20Sheets/Git%20Cheat%20Sheet.md) 
  * Blog: [How to Import Dataset to Google Colab Notebook?](https://mc.ai/how-to-import-dataset-to-google-colab-notebook/) 
  * Blog: [How to Upload Large Files to Google Colab and Remote Jupyter Notebooks ](https://www.freecodecamp.org/news/how-to-transfer-large-files-to-google-colab-and-remote-jupyter-notebooks-26ca252892fa/)(For Linux Operating System) by Bharath Raj  
- * [Tools in Data Science](https://hhaji.github.io/Tools-in-Data-Science/) 
  * [R Tutorial for Beginners: Learning R Programming](https://www.guru99.com/r-tutorial.html) 
 
 ```
