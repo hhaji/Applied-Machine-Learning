@@ -123,7 +123,7 @@ Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab:
 
 <table>
   <tr>
-    <th colspan="3">Teaching Assitants Class:</th>
+    <th colspan="3">Teaching Assitant Class:</th>
   </tr>
   <tr>
     <td colspan="3">Python continues to take leading positions in solving data science tasks and challenges.  <br>Here are three of the most important of libraries.</td>
