@@ -44,6 +44,7 @@
 
   - [Additional NoteBooks and Slides](#Additional-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
+  - [Meet with TA](#MTA)  
 - [Projects](#Projects)
   - [Practical Guide](#Practical-Guide)
   - [Fascinating Guide to Use Python Libraries (Machine Learning)](#Fascinating-Guide-For-Machine-Learning)
@@ -483,6 +484,9 @@ Additional Resources:
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 13:00-14:30 PM (Spring 2020), Room  
+
+### <a name="MTA"></a>Meet with TA:
+Tuesday 11:30-12:30 PM (Spring 2020), Room  
 
 ## <a name="Projects"></a>Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by     
