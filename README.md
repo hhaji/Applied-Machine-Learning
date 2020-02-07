@@ -51,6 +51,7 @@
   - [Latex](#Latex)
   - [Useful NoteBooks](#Useful-NoteBooks)
 - [Grading](#Grading)
+  - [Two Written Exams](#Two-Written-Exams)
 - [Prerequisites](#Prerequisites)
   - [Linear Algebra](#Linear-Algebra)
   - [Probability and Statistics](#Probability-and-Statistics)
@@ -473,7 +474,7 @@ Additional Resources:
   * [Data Science Roadmap](https://github.com/estraviz/data-science-roadmap#4-machine-learning-back-to-top-) by Javier Estraviz <br>
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
-Saturday and Monday 08:00-09:30 AM (Spring 2019), Room 204/1. 
+Sunday and Tuesday 13:00-14:30 PM (Spring 2020), Room  
 
 ## <a name="Projects"></a>Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by     
@@ -513,11 +514,14 @@ The students can include mathematical notation within markdown cells using LaTeX
 * [Scikit-learn Tutorial: Machine Learning in Python](https://www.dataquest.io/blog/sci-kit-learn-tutorial/) by Satyabrata Pal 
 
 ## <a name="Grading"></a>Grading:
-* Projects and Midterm – 50%
+* Homework – 30% <br>
+— Will consist of mathematical problems and/or programming assignments.
+* Midterm – 20%
 * Endterm – 50%
 
-### Final Exam:
-Final Examination: Saturday 1398/03/25, 08:30-10:30 
+### <a name="Two-Written-Exams"></a>Two Written Exams:
+Midterm Examination: Tuesday 1399/02/16, 13:00-14:30 <br>
+Final Examination: Tuesday 1399/03/27, 11:00-13:00 <br>
 
 ## <a name="Prerequisites"></a>Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
