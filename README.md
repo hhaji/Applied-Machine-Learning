@@ -120,6 +120,28 @@ Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab:
   * Slide: [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino   
   * Slide: [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire  
   * Blog: [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) by Fuat   
+
+<table>
+  <tr>
+    <th colspan="3">Teaching Assitants Class:</th>
+  </tr>
+  <tr>
+    <td colspan="3">Python continues to take leading positions in solving data science tasks and challenges.  <br>Here are three of the most important of libraries.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.numpy.org/">Numpy</a> is the fundamental package <br>for scientific computing with Python.</td>
+    <td><a href="https://pandas.pydata.org/">Pandas</a> is an easy-to-use data <br>structures and data analysis tools</td>
+    <td><a href="https://matplotlib.org/">Matplotlib</a> is a Python 2D <br>plotting library</td>
+  </tr>
+  <tr>
+    <td colspan="3">Resources:</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.scipy-lectures.org/index.html">Scipy Lecture Notes</a></td>
+    <td colspan="2"><a href="https://github.com/donnemartin/data-science-ipython-notebooks">Data Science iPython Notebooks</a></td>
+  </tr>
+</table>
+
   * Homeworks: [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
         - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
         - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
