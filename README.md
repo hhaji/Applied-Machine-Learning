@@ -348,7 +348,8 @@ Additional Resources:
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
     - Slide: [Introduction to Machine Learning (Boosting)](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture4.pdf) by Shai Shalev-Shwartz <br>
     - Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G. Dietterich <br>
-    - NoteBook: [AdaBoost](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/AdaBoost.ipynb) <br>
+    - NoteBook: [AdaBoost](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/AdaBoost.ipynb)  
+    - Question: [Adaboost with a Weak Versus a Strong Learner](https://stats.stackexchange.com/questions/246820/adaboost-with-a-weak-versus-a-strong-learner)   
 
     ```
     Additional Reading:
