@@ -86,6 +86,10 @@ R and Python.
 ## <a name="Time-Series"></a>Time Series: 
 * Tutorial: [Time Series Analysis with Pandas](https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/) by Jennifer Walker 
 
+## <a name="Interpretability"></a>Interpretability:  
+* Book: [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar  
+
+
 ## <a name="Cheat-Sheets"></a>Cheat Sheets: 
 * [Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai) by Kailash Ahirwar <br>
 
