@@ -10,7 +10,8 @@
 - [Metric Learning](#Metric-Learning)
 - [Machine Learning in R](#MLR)
 - [Statistical Models for Machine Learning](#Statistical-models)
-- [Time Series](#Time-Series)
+- [Time Series](#Time-Series)  
+- [Interpretability](#Interpretability)
 - [Cheat Sheets](#Cheat-Sheets)
 - [Videos](#Videos)
 
