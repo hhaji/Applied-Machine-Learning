@@ -507,7 +507,7 @@ Sunday and Tuesday 13:00-14:30 PM (Spring 2020), Room
 
 ### <a name="MTA"></a>Recitation and Assignments:
 Tuesday 11:30-12:30 PM (Spring 2020), Room      
-Refer to the follwoing [link!](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Recitation-Assignments) to check the assignments.    
+Refer to the following [link](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Recitation-Assignments) to check the assignments.    
 
 ## <a name="Projects"></a>Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by     
