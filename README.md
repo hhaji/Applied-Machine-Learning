@@ -503,10 +503,10 @@ Additional Resources:
   * [Data Science Roadmap](https://github.com/estraviz/data-science-roadmap#4-machine-learning-back-to-top-) by Javier Estraviz <br>
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
-Sunday and Tuesday 13:00-14:30 PM (Spring 2020), Room  
+Sunday and Tuesday 13:00-14:30 PM (Spring 2020), Room 210  
 
 ### <a name="MTA"></a>Recitation and Assignments:
-Tuesday 11:30-12:30 PM (Spring 2020), Room      
+Sunday 11:30-12:30 PM (Spring 2020), Room 210   
 Refer to the following [link](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Recitation-Assignments) to check the assignments.    
 
 ## <a name="Projects"></a>Projects:
