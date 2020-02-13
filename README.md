@@ -170,9 +170,9 @@ Additional Resources:
     ```
     Required Reading:
     ```
-    
-    - Slide: [Machine Learning: Types of Machine Learning I](http://www.lsi.upc.es/~bejar/apren/docum/trans/00-introAprendizaje-eng.pdf) by Javier Bejar 
-    - Slide: [Machine Learning: Types of Machine Learning II](http://www.lsi.upc.edu/~bejar/apren/docum/trans/01-apind-eng.pdf) by Javier Bejar 
+ 
+    - Introduction  
+    Chapter 1 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
 
 3. ### <a name="Empirical-Risk-Minimization"></a>Empirical Risk Minimization  
 
@@ -180,7 +180,7 @@ Additional Resources:
     Required Reading:
     ```
     
-    - A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization <br>
+    - A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization   
     Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
         - **Exercises:** 2.1, 2.2, and 2.3  
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
