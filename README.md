@@ -164,6 +164,21 @@ Additional Resources:
   * Blog: [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY <br>  
   * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha   
   * Paper: [Machine Learning in Python: Main Developments and Technology Trends in Data Science, Machine Learning, and Artificial Intelligence](https://arxiv.org/pdf/2002.04803.pdf) by Sebastian Raschka, Joshua Patterson, and Corey Nolet   
+  
+  
+  <table>
+  <tr>
+    <th>Python Overview Doc<br><br><br>Python Tutorial [<a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/python_intro.pdf">PDF</a>]  [<a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/python_tutorial2.pdf">Code</a>]</th>
+    <th>Numpy [<a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/python_tutorial2.pdf">PDF</a>] [<a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/Kling_Python%20Scripts/numpy_tutorial.py">Code</a>]<br>User Guide [<a href="https://docs.scipy.org/doc/numpy-1.15.0/index.html">Link</a>]<br>Quickstart [<a href="https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html">Link</a>]<br>Reference [<a href="https://docs.scipy.org/doc/numpy-1.15.0/reference/index.html">Link</a>]<br>Cheatsheet [<a href="http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf">Link</a>]<br></th>
+    <th>Matplotlib [<a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/python_tutorial2.pdf">PDF</a>][<a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/Kling_Python%20Scripts/matplotlib_tutorial.py">Code</a>]<br>Example [<a href="https://matplotlib.org/gallery/index.html#">Link</a>]<br>Tutorials [<a href="https://matplotlib.org/tutorials/index.html">Link</a>]<br>Reference [<a href="https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html">Link</a>]<br>Cheatsheet [<a href="http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf">Link</a>]</th>
+  </tr>
+  <tr>
+    <td>Pandas [<a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/Pandas_tutorial.py">Code</a>]<br>10 Min to Pandas [<a href="https://pandas.pydata.org/pandas-docs/stable/10min.html">Link</a>]<br>Cookbook [<a href="https://pandas.pydata.org/pandas-docs/stable/cookbook.html">Link</a>]<br>Tutorials [<a href="https://pandas.pydata.org/pandas-docs/stable/tutorials.html">Link</a>]<br>Reference [<a href="https://pandas.pydata.org/pandas-docs/stable/">Link</a>]<br>Cheatsheet [<a href="http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf">Link</a>]</td>
+    <td>Seaborn: Stat data <br>Visulization [<a href="https://seaborn.pydata.org/">Link</a>]<br>Example [<a href="https://seaborn.pydata.org/examples/index.html">Link</a>]<br>Tutorials [<a href="https://seaborn.pydata.org/tutorial.html">Link</a>]<br>Reference [<a href="https://seaborn.pydata.org/api.html#api-ref">Link</a>]<br>Cheatsheet [<a href="http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf">Link</a>]</td>
+    <td>Scikit Learn [<a href="https://scikit-learn.org/stable/?fbclid=IwAR0DE6Q4LLO48d226SwF8j6TbUoqjBw769bNEcOBF9ohBW8Wgz9WscvgzEw">Link</a>] <br>Scikit Image [<a href="http://scikit-image.org/docs/dev/auto_examples/?fbclid=IwAR3v-V5IlW1Jjz-NcSbGuDFJ71KUFRk5KmPoFRCD8LuuAyTzUF8v0N4nwUU">Link</a>]<br><a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/Kling_Python%20Scripts/scikit_tutorial.py">Scikit Tutorial #1 code</a><br><a href="http://people.uncw.edu/chenc/STT592_Deep%20Learning/Python/Kling_Python%20Scripts/scikit_tutorial2.py">Scikit Tutorial #2 code</a></td>
+  </tr>
+</table>
+
 
 2. ### <a name="Introduction"></a>Introduction  
   
