@@ -163,6 +163,7 @@ Additional Resources:
   * PDF: [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/1f5ecf5a87b1c1a8aaf5a7ab8a7a0ff7/conda-cheatsheet.pdf) 
   * Blog: [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY <br>  
   * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha   
+  * Paper: [Machine Learning in Python: Main Developments and Technology Trends in Data Science, Machine Learning, and Artificial Intelligence](https://arxiv.org/pdf/2002.04803.pdf) by Sebastian Raschka, Joshua Patterson, and Corey Nolet   
 
 2. ### <a name="Introduction"></a>Introduction  
   
