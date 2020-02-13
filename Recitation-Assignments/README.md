@@ -7,3 +7,6 @@
 * Create a GitHub Account    
 * Create a Repository for this Course in your GitHub  
 * Use Markdown to Prepare a Readme file for your Repository   
+
+-> Deadline: Saturday Bahman 26, 23:59 
+* Submission Instruction will be post here (a single jupyter-notebook inside your repository in Github).
