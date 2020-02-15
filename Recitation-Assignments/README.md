@@ -6,11 +6,11 @@
 * Install Python Packages (Pandas, Scikit-Learn, Matplotlib) and Jupyter Lab in your new Environment    
 * Create a GitHub Account    
 * Create a Repository for this Course in your GitHub  
-* Use Markdown to Prepare a Readme file for your Repository   
+* Use Markdown to Prepare a Readme file for your Repository 
+* <span style="color:blue">some **Modify (at least enter your name) and Run the [Sample](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/assignments-1_sample.ipynb) in your Environment, then Upload it in your Github Repository ** text</span> 
 
--> Deadline: Saturday Bahman 26, 23:59 
+-> Deadline: <span style="color:red">some **Saturday Bahman 26, 23:59** text</span>  
 
-&diams; Submission Instruction will be Posted here (a single Jupyter-Notebook inside your repository in Github).
 
 # Submission Instruction 
 
