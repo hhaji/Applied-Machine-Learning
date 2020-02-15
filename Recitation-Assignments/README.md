@@ -9,7 +9,7 @@
 * Use Markdown to Prepare a Readme file for your Repository 
 * Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/assignments-1_sample.ipynb) in your Environment, then Upload it in your Github Repository
 
--> Deadline: <span style="color:red"> **Saturday Bahman 26, 23:59** </span>  
+-> Deadline: <span style="color:red"> **Saturday Bahman 26, 23:59 (Advantage) - Extended to Sunday Bahman 27, 12:59** </span>  
 
 
 # Submission Instruction 
