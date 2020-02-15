@@ -1,6 +1,6 @@
 # Recitation and Assignments 
 
-## Week 1 (Lab Assignment)  
+## Assignment Set 1  
 
 * Install Anaconda and Create an Environment    
 * Install Python Packages (Pandas, Scikit-Learn, Matplotlib) and Jupyter Lab in your new Environment    
