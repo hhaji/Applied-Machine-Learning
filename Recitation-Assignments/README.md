@@ -7,9 +7,9 @@
 * Create a GitHub Account    
 * Create a Repository for this Course in your GitHub  
 * Use Markdown to Prepare a Readme file for your Repository 
-* <span style="color:blue"> **Modify (at least enter your name) and Run the [Sample](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/assignments-1_sample.ipynb) in your Environment, then Upload it in your Github Repository ** </span> 
+* <span style="color:red"> **Modify (at least enter your name) and Run the [Sample](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/assignments-1_sample.ipynb) in your Environment, then Upload it in your Github Repository ** </span> 
 
--> Deadline: <span style="color:red"> **Saturday Bahman 26, 23:59** </span>  
+-> Deadline: <span style="color:red"> Saturday Bahman 26, 23:59 </span>  
 
 
 # Submission Instruction 
