@@ -1,8 +1,10 @@
-# Recitation and Assignments 
+# Recitation
 
-## Recitation Classes
+## Class
 
-* Next Class will be at Sunday Esfand 4, 11:30 - 12:30, Room 210 
+* Next Class will be at Sunday, Esfand 4, 11:30 - 12:30, Room 210 
+
+# Assignments 
 
 ## Assignment Set 1  
 
@@ -12,9 +14,12 @@
 * Create a Repository for this Course in your GitHub  
 * Use Markdown to Prepare a Readme file for your Repository 
 * Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/assignments-1_sample.ipynb) in your Environment, then Upload it in your Github Repository
+-> Deadline: <span style="color:red"> **Saturday, Bahman 26, 23:59 (Advantage) - Extended to Sunday Bahman 27, 12:59** </span>  
 
--> Deadline: <span style="color:red"> **Saturday Bahman 26, 23:59 (Advantage) - Extended to Sunday Bahman 27, 12:59** </span>  
+## Assignment Set 2
 
+*  Python and Scientific Libraries: Will be anounced by Sunday, Esfand 4 
+-> Deadline: Saturday, Esfand 10, 23:59
 
 # Submission Instruction 
 
