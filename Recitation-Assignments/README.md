@@ -19,7 +19,7 @@
 
 ## Assignment Set 2
 
-*  Python and Scientific Libraries: Will be anounced by Sunday, Esfand 4 
+*  Python and Scientific Libraries: Will be announced by Sunday, Esfand 4 
 
 -> Deadline: Saturday, Esfand 10, 23:59
 
