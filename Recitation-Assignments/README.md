@@ -20,15 +20,15 @@
 ## Assignment Set 2
 
 *  Python and Scientific Libraries:
-  - Exercises: Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) 
-  - Exercises: Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)   
-  - Exercises: Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)   
+    - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) 
+    - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)   
+    - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)   
 
 * A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization   
   Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
     - **Exercises:** 2.1, 2.2, and 2.3  
 
--> Deadline: Saturday, Esfand 10, 23:59
+-> Deadline: **Saturday, Esfand 10, 23:59**
 
 # Submission Instruction 
 
