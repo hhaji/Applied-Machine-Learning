@@ -37,3 +37,7 @@
 * Please review [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions 
 * After completing all tasks of every assignment set upload a single jupyter notebook, for instance assignments-1.ipynb for the first set
 
+# Scores
+
+* Please visit the [link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores.
+  -  Each assignment set is scored from 100 as well as extra rewards.Therfore, the total score of each set can be more than 100.
