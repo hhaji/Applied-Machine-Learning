@@ -2,7 +2,7 @@
 
 ## Class
 
-* Next Class will be at Sunday, Esfand 4, 11:30 - 12:30, Room 210 
+* Next Class will be at Sunday, Esfand 11, 11:30 - 12:30, Room 210 
 
 # Assignments 
 
