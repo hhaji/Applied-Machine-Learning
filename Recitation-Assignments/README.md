@@ -43,4 +43,4 @@
 
 <!--* A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization   
   Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
-    - **Exercises:** 2.1, 2.2, and 2.3  --!>
+    - **Exercises:** 2.1, 2.2, and 2.3  -->
