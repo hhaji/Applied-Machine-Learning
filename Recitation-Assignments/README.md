@@ -26,7 +26,7 @@
     - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
     - **Then**: Push/Upload each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!) 
 
--> Deadline: **Saturday, Esfand 10, 23:59**
+-> Deadline: Saturday, Esfand 10, 23:59 **(Advantage)**
 
 # Submission Instruction 
 
