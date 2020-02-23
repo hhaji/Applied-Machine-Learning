@@ -23,11 +23,7 @@
     - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) 
     - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)   
     - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
-    - **Then**: Push each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!) 
-
-<!--* A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization   
-  Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
-    - **Exercises:** 2.1, 2.2, and 2.3  --!>
+    - **Then**: Push/Upload each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!) 
 
 -> Deadline: **Saturday, Esfand 10, 23:59**
 
@@ -43,3 +39,7 @@
 * Please visit the [link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores.
 
   -  Each assignment set is scored from 100 as well as extra rewards.Therfore, the total score of each set can be more than 100.
+
+<!--* A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization   
+  Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
+    - **Exercises:** 2.1, 2.2, and 2.3  --!>
