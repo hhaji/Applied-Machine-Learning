@@ -20,6 +20,7 @@
 ## Assignment Set 2
 
 *  Python and Scientific Libraries:
+
     - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) 
     - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)   
     - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
