@@ -34,6 +34,7 @@
 * Create a repository inside your github account with the exact name "Applied_Machine_Learning_S20_Assignments" (Rename it if already created)
 * Please review [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions 
 * After completing all tasks of every assignment set upload a single jupyter notebook, for instance assignments-1.ipynb for the first set
+* Please review the tutorial video for submiting the assignment set 2.
 
 # Scores
 
