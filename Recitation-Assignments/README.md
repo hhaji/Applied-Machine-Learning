@@ -21,10 +21,12 @@
 
 *  Python and Scientific Libraries:
 
-    - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) 
-    - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)   
-    - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
-    - **Then**: Push/Upload each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!) 
+    - Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) 
+    - Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)   
+    - Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
+    - Then Push/Upload each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!)
+
+..* **Please Note:** In the Labex exercieses, each empty cell must be different (modified) from the sample one. Therfore, the completed notbook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submiting the assignment set 2.
 
 -> Deadline: Saturday, Esfand 10, 23:59 **(Advantage)**
 
@@ -34,7 +36,6 @@
 * Create a repository inside your github account with the exact name "Applied_Machine_Learning_S20_Assignments" (Rename it if already created)
 * Please review [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions 
 * After completing all tasks of every assignment set upload a single jupyter notebook, for instance assignments-1.ipynb for the first set
-* Please review the tutorial video for submiting the assignment set 2.
 
 # Scores
 
