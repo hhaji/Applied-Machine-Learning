@@ -26,7 +26,7 @@
     - Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
     - Then Push/Upload each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!)
 
-..* **Please Note:** In the Labex exercieses, each empty cell must be different (modified) from the sample one. Therfore, the completed notbook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submiting the assignment set 2.
+**Please Note:** In the Labex exercieses, each empty cell must be different (modified) from the sample one. Therfore, the completed notbook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submiting the assignment set 2.
 
 -> Deadline: Saturday, Esfand 10, 23:59 **(Advantage)**
 
