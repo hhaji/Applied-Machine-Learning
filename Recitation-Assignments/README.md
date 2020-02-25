@@ -3,7 +3,7 @@
 ## Class
 
 * Next Class will be at Wednesday, Esfand 7, 12 - 13,  **Skype** 
- - Plese join the meeting atleast 5 minutes earlier.
+  - Plese join the meeting atleast 5 minutes earlier.
 
 * We will have a Class at Sunday, Esfand 11, 11:30 -12:30, Room 210, **(TBC)**
 
