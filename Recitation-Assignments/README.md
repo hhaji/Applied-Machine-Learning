@@ -3,6 +3,7 @@
 ## Class
 
 * Next Class will be at Wendsday, Esfand 7, 12 - 13,  **Skype** 
+* We will have a Class at Sunday, Esfand 11, 11:30 -12:30, Room 210, **(TBC)**
 
 # Assignments 
 
