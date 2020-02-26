@@ -2,7 +2,7 @@
 
 ## Class
 
-* Next Class will be at Sunday, Esfand 11, 12 - 13 **(TBC)**
+* Next Class will be at Sunday, Esfand 11, 11:30 - 12:30 **(TBC)**
 
 # Assignments 
 
