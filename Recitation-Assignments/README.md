@@ -2,10 +2,7 @@
 
 ## Class
 
-* Next Class will be at Wednesday, Esfand 7, 12 - 13,  **Skype** 
-  - Plese join the meeting atleast 5 minutes earlier.
-
-* We will have a Class at Sunday, Esfand 11, 11:30 -12:30, Room 210, **(TBC)**
+* Next Class will be at Sunday, Esfand 11, 12 - 13 **(TBC)**
 
 # Assignments 
 
@@ -31,7 +28,7 @@
 
 **Please Note:** In the Labex exercieses, each empty cell must be different (modified) from the sample one. Therfore, the completed notbook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submiting the assignment set 2.
 
--> Deadline: Saturday, Esfand 10, 23:59 **(Advantage)**
+-> Deadline: Saturday, Esfand 10, 23:59 **(Advantage)** - Extended to Wednesday, Esfand 14, 23:59
 
 # Submission Instruction 
 
