@@ -34,7 +34,7 @@
 ## Assignment Set 3
 
 * Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
-    - **Exercises:** 2.1, 2.2, and 2.3 
+    - Exercises: 2.1, 2.2, and 2.3 
 * Python Programming: will be announced!
 * Machine Learning with Scikit-Learn: will be announced!
 
@@ -54,6 +54,3 @@
 
   -  Each assignment set is scored from 100 points as well as extra rewards.Therfore, the total score of each set can be more than 100.
 
-<!--* A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization   
-  Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
-    - **Exercises:** 2.1, 2.2, and 2.3  -->
