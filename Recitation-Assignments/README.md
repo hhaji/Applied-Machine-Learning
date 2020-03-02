@@ -42,7 +42,7 @@
 
 * Please visit the [link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores.
 
-  -  Each assignment set is scored from 100 as well as extra rewards.Therfore, the total score of each set can be more than 100.
+  -  Each assignment set is scored from 100 points as well as extra rewards.Therfore, the total score of each set can be more than 100.
 
 <!--* A Formal Model – The Statistical Learning Framework & Empirical Risk Minimization   
   Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
