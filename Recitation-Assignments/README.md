@@ -2,7 +2,7 @@
 
 ## Class
 
-* Next Class will be at Tuesday, Esfand 13, 18:00, via LMS Class Room for Applied Machine Learning Course
+* Next Class will be at Tuesday, Esfand 13, 18:00 via LMS Class Room for Applied Machine Learning Course
 <!--at Sunday, Esfand 11, 11:30 - 12:30 **(TBC)**-->
 
 # Assignments 
