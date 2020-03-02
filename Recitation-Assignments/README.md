@@ -29,14 +29,17 @@
 
 **Please Note:** In the Labex exercieses, each empty cell must be different (modified) from the sample one. Therfore, the completed notbook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submiting the assignment set 2.
 
--> Deadline: Saturday, Esfand 10, 23:59 (Advantage ~ 10 Points) - Extended to Wednesday, Esfand 14, 23:59
+-> Deadline: Saturday, Esfand 10, 23:59 (Advantage ~ 5 Points) - Extended to Wednesday, Esfand 14, 23:59
 
 ## Assignment Set 3
 
-* Chapter 2 of Understanding Machine Learning: From Theory to Algorithms
-* Exercises: 2.1, 2.2, and 2.3
+* Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
+    - **Exercises:** 2.1, 2.2, and 2.3 
+* Python Programming: will be announced!
+* Machine Learning with Scikit-Learn: will be announced!
 
--> Deadline: Monday, Esfand 19, 23:59 (Advantage ~ 10 Points) 
+-> Deadline: Monday, Esfand 19, 23:59 
+<!--(Advantage ~ 10 Points)--> 
 
 # Submission Instruction 
 
