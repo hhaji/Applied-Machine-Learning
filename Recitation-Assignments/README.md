@@ -29,7 +29,7 @@
 
 **Please Note:** In the Labex exercieses, each empty cell must be different (modified) from the sample one. Therfore, the completed notbook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submiting the assignment set 2.
 
--> Deadline: **Saturday, Esfand 10, 23:59 (Advantage ~ 10 Points)** - Extended to Wednesday, Esfand 14, 23:59
+-> Deadline: Saturday, Esfand 10, 23:59 (Advantage ~ 10 Points) - Extended to Wednesday, Esfand 14, 23:59
 
 # Submission Instruction 
 
