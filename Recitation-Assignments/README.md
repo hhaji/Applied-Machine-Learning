@@ -31,6 +31,13 @@
 
 -> Deadline: Saturday, Esfand 10, 23:59 (Advantage ~ 10 Points) - Extended to Wednesday, Esfand 14, 23:59
 
+## Assignment Set 3
+
+* Chapter 2 of Understanding Machine Learning: From Theory to Algorithms
+* Exercises: 2.1, 2.2, and 2.3
+
+-> Deadline: Monday, Esfand 19, 23:59 (Advantage ~ 10 Points) 
+
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
