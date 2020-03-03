@@ -2,8 +2,8 @@
 
 ## Class
 
-* Next Class will be at Tuesday, Esfand 13, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course
-<!--at Sunday, Esfand 11, 11:30 - 12:30 **(TBC)**-->
+* Next Class will be at Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course.
+   - Machine Learning with Scikit-Learn
 
 # Assignments 
 
