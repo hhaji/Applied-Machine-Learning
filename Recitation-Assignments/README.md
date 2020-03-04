@@ -2,7 +2,7 @@
 
 ## Sessions
 
-* **Next Session** will be at Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course.
+* **Next Session** will be on Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course.
 
    - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 2.
@@ -42,7 +42,7 @@
     - Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
     - Then Push/Upload each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!)
 
-**Please Note:** In the Labex exercies, each empty cell must be different (modified) from the sample one. Therefore, the completed notebook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submitting the assignment set 2.
+**Please Note:** In the Labex exercises, each empty cell must be different (modified) from the sample one. Therefore, the completed notebook will have at least 200 outputs. Furthermore, please review the tutorial video for submitting the assignment set 2.
 
 -> Deadline: Saturday, Esfand 10, 23:59 (Advantage ~ 5 Points) - Extended to Wednesday, Esfand 14, 23:59
 
@@ -76,7 +76,7 @@
 # Scores
 
 * Please visit the [link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores.
-* Each assignment set is scored from 100 points as well as extra rewards.Therefore, the total score of each set can be more than 100.
+* Each assignment set is scored from 100 points as well as extra rewards. Therefore, the total score of each set can be more than 100.
 * Submission after the deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. 
 * Failure to comply [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
 
