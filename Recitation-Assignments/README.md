@@ -57,5 +57,5 @@
 * Please visit the [link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores.
 * Each assignment set is scored from 100 points as well as extra rewards.Therfore, the total score of each set can be more than 100.
 * Sumbmission after deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. 
-* Failture to obey with [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will results in ZERO score in each set and may have additional consequences!
+* Failure to comply [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will results in ZERO score in each set and may have additional consequences!
 
