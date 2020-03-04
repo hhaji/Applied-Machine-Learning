@@ -55,6 +55,6 @@
 # Scores
 
 * Please visit the [link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores.
-
-  -  Each assignment set is scored from 100 points as well as extra rewards.Therfore, the total score of each set can be more than 100.
+* Each assignment set is scored from 100 points as well as extra rewards.Therfore, the total score of each set can be more than 100.
+* Sumbmission after deadline is subjected to a penalty, which 20 points submission within week after the date and 30 points after that. 
 
