@@ -1,8 +1,8 @@
 # Recitation
 
-## Classes
+## Sessions
 
-* Next Class will be at Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course.
+* Next Session will be at Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course.
 
    - Machine Learning with Scikit-Learn.
    - End-to-End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
