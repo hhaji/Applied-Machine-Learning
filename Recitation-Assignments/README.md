@@ -8,7 +8,7 @@
    - Machine Learning with Scikit-Learn Part 2.
 
 * **Session one** by [Erfan Rostami](https://github.com/Erfaan-Rostami)
-   - Introduction on Python Tutorial
+   - Introduction to Python
 
 * **Session Two** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
    - Python Libraries Tutorial
