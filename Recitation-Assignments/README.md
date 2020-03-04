@@ -62,7 +62,7 @@
     - Visualize both approaches for every model.
     - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
      
-**Please Note:** Solutions must be included in your notebook, therefore you could write your answers in Markdown/LaTex (Advantage ~ 10 Points), otherwise images of your hand writing could be added, which is not recomanded!    
+**Please Note:** Solutions of the exercises must be included in your notebook, therefore you could write them in Markdown/LaTex (Advantage ~ 10 Points), otherwise images of your hand writing could be added, which is not recomanded!    
     
 -> Deadline: Monday, Esfand 19, 23:59 - **Won't be Extended!** 
 
