@@ -59,7 +59,7 @@
     - Visualize every model and predict the total infected and death cases in the future.
     - Split data into a train and a test set, then repeat steps 2 to 4 using train data.
     - Evaluate your model predictions by comparing them to the test data.
-    - Visualize both approaches for every model.
+    - Visualize both approaches (full and train data) for every model.
     - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
      
 **Please Note:** Solutions of the exercises must be included in your notebook, therefore you could write them in Markdown/LaTex (Advantage ~ 10 Points), otherwise images of your handwriting could be added, which is not recommended!    
