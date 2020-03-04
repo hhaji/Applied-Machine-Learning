@@ -60,7 +60,7 @@
     - Split data into a train and a test set, then repeat steps 2 to 4 using train data.
     - Evaluate your model predictions by comparing them to the test data.
     - Visualize both approaches for every model.
-    - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   best prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
+    - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
     
 -> Deadline: Monday, Esfand 19, 23:59 - **Won't be Extended!** 
 
