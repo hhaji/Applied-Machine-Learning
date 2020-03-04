@@ -7,6 +7,19 @@
    - Machine Learning with Scikit-Learn.
    - End-to-End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 
+
+* Session one by [Erfan Rostami](https://github.com/Erfaan-Rostami)
+   - Introduction on Python Tutorial
+
+* Session Three by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
+   - Python Libraries Tutorial
+   - Notebook: [Colab](https://colab.research.google.com/drive/1pIxeznCzX16uI_ONooD644G2kwTrAFUJ)
+   
+* Session Three: Machine Learning With 
+   - The Machine Learning Landscape of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+   - Machine Learning with Scikit-Learn.
+   - Notebook: [Colab](https://colab.research.google.com/drive/1e_5IjXWMeJ0pq2UXneKCaT6GVfczJAoN)
+
 # Assignments 
 
 ## Assignment Set 1  
