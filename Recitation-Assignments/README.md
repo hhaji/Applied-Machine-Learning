@@ -57,10 +57,10 @@
     - Perform regressions on the data based on Scikit-learn's Linear Models: Linear and Polynomial (with different degrees) as well as at least one more method.
     - Fit a gaussian function to the data.
     - Visualize evey model and predict the total infected and death cases in future.
-    - Split data into a train and a test set, then repeat steps 2 to 4 only by means of train data.
+    - Split data into a train and a test set, then repeat steps 2 to 4 by means of train data.
     - Evaluate your model predictions by comparing them to the test data.
-    - Visulize both approaches for every model
-    - **Finally**: employ everything you know about machine learning to develop a model based on the data, capbale of offering   best prediction on the totall infected and death cases in the Worl and Iran as well as viualization over time. (Try to be creative!)
+    - Visulize both approaches for every model.
+    - **Finally**: employ everything you know about machine learning to develop a model based on the data, capbale of offering   best prediction on the totall infected and death cases in the World and Iran as well as viualization over time. (Try to be creative!)
     
 -> Deadline: Monday, Esfand 19, 23:59 - **Won't be Extended!** 
 
