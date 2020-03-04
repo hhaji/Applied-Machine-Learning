@@ -52,11 +52,12 @@
 
     - Exercises: 2.1, 2.2, and 2.3 
     
-* Python Programming: will be announced!
-* Machine Learning with Scikit-Learn: will be announced!
-
--> Deadline: Monday, Esfand 19, 23:59 
-<!--(Advantage ~ 10 Points)--> 
+* Machine Learning with Scikit-Learn: Perform a Machine Learning Task on the [CoronaVirus/Covid-19](https://github.com/CSSEGISandData/COVID-19) Data.
+    - Visualize total infected and death cases in the World and Iran in the course of time (You can only use [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)) 
+    - Perform regressions on the data based on Scikit-learn's Linear Models: Linear and Polynomial (with different degrees) as well as at least one more method.
+    - TBC
+    
+-> Deadline: Monday, Esfand 19, 23:59; won't be extended! 
 
 # Submission Instruction 
 
