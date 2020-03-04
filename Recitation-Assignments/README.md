@@ -51,6 +51,8 @@
 * Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)  
 
     - Exercises: 2.1, 2.2, and 2.3 
+ 
+**Please Note:** Solutions must be included in your notebook, therefore you could write your answers in Markdown/LaTex (Advantage ~ 10 Points), otherwise images of your hand writing could be added. (which is not recomanded!)  
     
 * Machine Learning with Scikit-Learn: Perform a basic Machine Learning Task on the [Coronavirus/Covid-19](https://github.com/CSSEGISandData/COVID-19) Data (infected and death cases in the World and Iran).
     - Visualize total infected and death cases in the World and Iran over time. (Use only [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports).) 
