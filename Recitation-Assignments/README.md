@@ -42,7 +42,7 @@
     - Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
     - Then Push/Upload each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!)
 
-**Please Note:** In the Labex exercieses, each empty cell must be different (modified) from the sample one. Therfore, the completed notbook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submiting the assignment set 2.
+**Please Note:** In the Labex exercies, each empty cell must be different (modified) from the sample one. Therefore, the completed notebook will have atleast 200 outputs. Furtheremore, please review the tutorial video for submitting the assignment set 2.
 
 -> Deadline: Saturday, Esfand 10, 23:59 (Advantage ~ 5 Points) - Extended to Wednesday, Esfand 14, 23:59
 
@@ -62,7 +62,7 @@
     - Visualize both approaches for every model.
     - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
      
-**Please Note:** Solutions of the exercises must be included in your notebook, therefore you could write them in Markdown/LaTex (Advantage ~ 10 Points), otherwise images of your hand writing could be added, which is not recomanded!    
+**Please Note:** Solutions of the exercises must be included in your notebook, therefore you could write them in Markdown/LaTex (Advantage ~ 10 Points), otherwise images of your handwriting could be added, which is not recommended!    
     
 -> Deadline: Monday, Esfand 19, 23:59 - **Won't be Extended!** 
 
@@ -71,12 +71,12 @@
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
 * Create a repository inside your github account with the exact name "Applied_Machine_Learning_S20_Assignments". (Rename it if already created.)
 * Please review [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions.
-* After completing all tasks of every assignment set upload related jupyter notebooks, for instance assignments-1.ipynb for the first set.
+* After completing all tasks of every assignment set upload related jupyter notebooks, for instance, assignments-1.ipynb for the first set.
 
 # Scores
 
 * Please visit the [link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores.
-* Each assignment set is scored from 100 points as well as extra rewards.Therfore, the total score of each set can be more than 100.
-* Sumbmission after deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. 
-* Failure to comply [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will results in ZERO score in each set and may have additional consequences!
+* Each assignment set is scored from 100 points as well as extra rewards.Therefore, the total score of each set can be more than 100.
+* Submission after the deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. 
+* Failure to comply [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
 
