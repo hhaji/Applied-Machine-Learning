@@ -10,7 +10,7 @@
 * **Session one** by [Erfan Rostami](https://github.com/Erfaan-Rostami)
    - Introduction on Python Tutorial
 
-* **Session Three** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
+* **Session Two** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
    - Python Libraries Tutorial
    - Notebook: [Colab](https://colab.research.google.com/drive/1pIxeznCzX16uI_ONooD644G2kwTrAFUJ)
    
