@@ -2,22 +2,21 @@
 
 ## Sessions
 
-* Next Session will be at Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course.
+* **Next Session** will be at Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course.
 
-   - Machine Learning with Scikit-Learn.
-   - End-to-End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+   - Machine Learning with Scikit-Learn Part 2.
 
-
-* Session one by [Erfan Rostami](https://github.com/Erfaan-Rostami)
+* **Session one** by [Erfan Rostami](https://github.com/Erfaan-Rostami)
    - Introduction on Python Tutorial
 
-* Session Three by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
+* **Session Three** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
    - Python Libraries Tutorial
    - Notebook: [Colab](https://colab.research.google.com/drive/1pIxeznCzX16uI_ONooD644G2kwTrAFUJ)
    
-* Session Three: Machine Learning With 
+* **Session Three** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
    - The Machine Learning Landscape of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-   - Machine Learning with Scikit-Learn.
+   - Machine Learning with Scikit-Learn Part 1.
    - Notebook: [Colab](https://colab.research.google.com/drive/1e_5IjXWMeJ0pq2UXneKCaT6GVfczJAoN)
 
 # Assignments 
