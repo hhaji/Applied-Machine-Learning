@@ -44,7 +44,7 @@
 
 **Please Note:** In the Labex exercises, each empty cell must be different (modified) from the sample one. Therefore, the completed notebook will have at least 200 outputs. Furthermore, please review the tutorial video for submitting the assignment set 2.
 
--> Deadline: Saturday, Esfand 10, 23:59 (Advantage ~ 5 Points) - Extended Again to Saturday, Esfand 17, 23:59
+-> Deadline: Saturday, Esfand 10, 23:59 (Advantage ~ 5 Points) - **Extended Again to Saturday, Esfand 17, 23:59**
 
 ## Assignment Set 3
 
