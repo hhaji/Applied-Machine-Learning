@@ -68,7 +68,7 @@
     - Visualize both approaches (full and train data) for every model.
     - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
  
- * Machine Learning with Scikit-Learn: TBC
+ * Machine Learning with Scikit-Learn: Will be Announced!
 
 -> Deadline: Wednesday, Esfand 28, 23:59 - **Won't be Extended!**
 
