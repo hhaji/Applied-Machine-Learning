@@ -4,7 +4,7 @@
 
 * **Next Session** will be on Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91) for Applied Machine Learning Course.
 
-   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
+   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 2.
 
 * **Session One** by [Erfan Rostami](https://github.com/Erfaan-Rostami) was on Wednesday, Esfand 7 
