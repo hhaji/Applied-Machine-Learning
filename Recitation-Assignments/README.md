@@ -52,13 +52,13 @@
 
     - Exercises: 2.1, 2.2, and 2.3 
      
-**Please Note:** Solutions of the exercises must be included in your notebook, therefore you could write them in Markdown/LaTex (Advantage ~ 10 Points), otherwise images of your handwriting could be added, which is not recommended!    
+**Please Note:** Solutions of the exercises can be written in Latex (Advantage ~ 10 Points), therefore you could add a notebook or pdf in your repository. MS Office or other softwares could also be used (Advantage ~ 5 Points), otherwise images of your handwriting should be included in the pdf or notebook, which is not recommended!    
     
 -> Deadline: Monday, Esfand 19, 23:59 - **Won't be Extended!** 
 
 ## Assignment Set 4
 
-* Machine Learning with Scikit-Learn: Perform a basic Machine Learning Task on the [Coronavirus/Covid-19](https://github.com/CSSEGISandData/COVID-19) Data (infected and death cases in the World and Iran).
+* Part One - Machine Learning with Scikit-Learn: Perform a basic Machine Learning Task on the [Coronavirus/Covid-19](https://github.com/CSSEGISandData/COVID-19) Data (infected and death cases in the World and Iran).
     - Visualize total infected and death cases in the World and Iran over time. (Use only [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)) 
     - Perform regressions on the data based on Scikit-learn's Linear Models: Linear and Polynomial (with different degrees) as well as at least one more method.
     - Fit a gaussian function to the data.
@@ -68,7 +68,7 @@
     - Visualize both approaches (full and train data) for every model.
     - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
  
- * Machine Learning with Scikit-Learn: Will be Announced!
+ * Part Two - Machine Learning with Scikit-Learn: Will be Announced!
 
 -> Deadline: Wednesday, Esfand 28, 23:59 (Announced at Esfand 14) - **Won't be Extended!**
 
