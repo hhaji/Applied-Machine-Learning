@@ -52,7 +52,7 @@
 
     - Exercises: 2.1, 2.2, and 2.3 
      
-**Please Note:** Solutions of the exercises can be written in Latex (Advantage ~ 10 Points), therefore you could add a notebook or pdf in your repository. MS Office or other softwares could also be used (Advantage ~ 5 Points), otherwise images of your handwriting should be included in the pdf or notebook, which is not recommended!    
+**Please Note:** Solutions of the exercises can be written in [Latex](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), therefore you could add a notebook or pdf in your repository. MS Office or other softwares could also be used (Advantage ~ 5 Points), otherwise images of your handwriting should be included in the pdf or notebook, which is not recommended!    
     
 -> Deadline: Monday, Esfand 19, 23:59 (Announced at Esfand 12) - **Won't be Extended!** 
 
