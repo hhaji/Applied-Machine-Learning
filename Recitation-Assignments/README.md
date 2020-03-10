@@ -24,6 +24,7 @@
    - Reviewing Session Three
    - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 2.
+   - Notebook: [Colab](https://colab.research.google.com/drive/15pmReFGAfmULTQb6RyZur9n0NCX6n8Tl) (Will be Modified!)
 
 # Assignments 
 
