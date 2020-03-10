@@ -90,7 +90,7 @@
 
 * Machine Learning with Scikit-Learn: Will be Announced!
 
--> Deadline: Saturday, Farvardin 16, 23:59 (Announced at Esfand 20) - **Won't be Extended!**
+-> Deadline: Saturday, Farvardin 16, 23:59<!--(Announced at Esfand 20)--> - **Won't be Extended!**
 
 
 # Submission Instruction 
