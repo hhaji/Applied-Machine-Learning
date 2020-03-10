@@ -64,7 +64,7 @@
 
 ## Assignment Set 4
 
-* Part One - Machine Learning with Scikit-Learn: Perform a basic Machine Learning Task on the [Coronavirus/Covid-19](https://github.com/CSSEGISandData/COVID-19) Data (infected and death cases in the World and Iran).
+* Machine Learning with Scikit-Learn: Perform a basic Machine Learning Task on the [Coronavirus/Covid-19](https://github.com/CSSEGISandData/COVID-19) Data (infected and death cases in the World and Iran).
     - Visualize total infected and death cases in the World and Iran over time. (Use only [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)) 
     - Perform regressions on the data based on Scikit-learn's Linear Models: Linear and Polynomial (with different degrees) as well as at least one more method.
     - Fit a gaussian function to the data.
@@ -74,7 +74,7 @@
     - Visualize both approaches (full and train data) for every model.
     - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
  
- * Part Two <!--- Machine Learning with Scikit-Learn-->: Will be Announced!
+ <!--* Part Two: Machine Learning with Scikit-Learn: Will be Announced!-->
 
 -> Deadline: Wednesday, Esfand 28, 23:59 (Announced at Esfand 14) - **Won't be Extended!**
 
