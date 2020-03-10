@@ -78,7 +78,7 @@
 
 -> Deadline: Wednesday, Esfand 28, 23:59 (Announced at Esfand 14) - **Won't be Extended!**
 
-## Assignment Set 4
+## Assignment Set 5
 
 * Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)  
 
