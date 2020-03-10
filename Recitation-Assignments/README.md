@@ -82,11 +82,16 @@
 
 * Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)  
 
-    - Exercises: Will be Announced!
+    - Exercises: 3.2, 3.3, 3.4, 3.5, 3.6, 3.7
+
+-> Deadline: Saturday, Farvardin 9, 23:59 (Announced at Esfand 20) - **Won't be Extended!**
+
+## Assignment Set 6
 
 * Machine Learning with Scikit-Learn: Will be Announced!
 
--> Deadline: Saturday, Farvardin 16, 23:59 
+-> Deadline: Saturday, Farvardin 16, 23:59 (Announced at Esfand 20) - **Won't be Extended!**
+
 
 # Submission Instruction 
 
