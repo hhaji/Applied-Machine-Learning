@@ -2,10 +2,10 @@
 
 ## Sessions
 
-* **Next Session** will be on Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91). **(TBC)**
+* **Next Session** will be on Saturday, Esfand 25, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91).
 
    - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-   - Machine Learning with Scikit-Learn Part 2.
+   - Machine Learning with Scikit-Learn Part 3.
 
 * **Session One** by [Erfan Rostami](https://github.com/Erfaan-Rostami) was on Wednesday, Esfand 7 
    - Introduction to Python
@@ -19,6 +19,12 @@
    - The Machine Learning Landscape of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 1.
    - Notebook: [Colab](https://colab.research.google.com/drive/1e_5IjXWMeJ0pq2UXneKCaT6GVfczJAoN)
+
+<!--* * **Next Session** will be on Tuesday, Esfand 20, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91). **(TBC)**-->
+<!--
+   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+   - Machine Learning with Scikit-Learn Part 2.
+-->
 
 # Assignments 
 
