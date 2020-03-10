@@ -60,7 +60,7 @@
      
 **Please Note:** Solutions of the exercises can be written in [Latex](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), therefore you could add a notebook or pdf in your repository. MS Office or other softwares could also be used (Advantage ~ 5 Points), otherwise images of your handwriting should be included in the pdf or notebook, which is not recommended!    
     
--> Deadline: Monday, Esfand 19, 23:59 (Announced at Esfand 12) - **Won't be Extended!** 
+-> Deadline: Monday, Esfand 19, 23:59 (Announced at Esfand 12) 
 
 ## Assignment Set 4
 
@@ -77,6 +77,16 @@
  <!--* Part Two: Machine Learning with Scikit-Learn: Will be Announced!-->
 
 -> Deadline: Wednesday, Esfand 28, 23:59 (Announced at Esfand 14) - **Won't be Extended!**
+
+## Assignment Set 4
+
+* Chapter 3 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)  
+
+    - Exercises: Will be Announced!
+
+* Machine Learning with Scikit-Learn: Will be Announced!
+
+-> Deadline: Saturday, Farvardin 16, 23:59 
 
 # Submission Instruction 
 
