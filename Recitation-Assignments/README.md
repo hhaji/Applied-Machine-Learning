@@ -20,7 +20,7 @@
    - Machine Learning with Scikit-Learn Part 1
    - Notebook: [Colab](https://colab.research.google.com/drive/1e_5IjXWMeJ0pq2UXneKCaT6GVfczJAoN)
 
-*  **Session Four** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Esfand 20.
+*  **Session Four** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Esfand 20
    - Reviewing Session Three
    - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 2
