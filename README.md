@@ -30,17 +30,18 @@
   3. Lecture 3: [Empirical Risk Minimization](#Empirical-Risk-Minimization)
   4. Lecture 4: [PAC Learning](#PAC-Learning)
   5. Lecture 5: [The Bias-Complexity Tradeoff](#The-Bias-Complexity-Tradeoff)  
-  6. Lecture 6: [The VC-Dimension](#The-VC-Dimension)
-  7. Lecture 7: [Toolkit Lab (Part 2)](#Part-2) 
-  8. Lecture 8: [Linear Predictors](#Linear-Predictors)
-  9. Lecture 9: [Decision Trees](#Decision-Trees) 
-  10. Lecture 10: [Nearest Neighbor](#Nearest-Neighbor) 
-  11. Lecture 11: [Ensemble Methods](#Ensemble-Methods)
-  12. Lecture 12: [Model Selection and Validation](#Model-Selection-and-Validation)
-  13. Lecture 13: [Neural Networks](#Neural-Networks)    
-  14. Lecture 14: [Convex Learning Problems](#CLP) 
-  15. Lecture 15: [Regularization and Stability](#Regularization-and-Stability) 
-  16. Lecture 16: [Support Vector Machines](#Support-Vector-Machines) 
+  6. Lecture 6: [Learning via Uniform Convergence](#LUC)
+  7. Lecture 7: [The VC-Dimension](#The-VC-Dimension)
+  8. Lecture 8: [Toolkit Lab (Part 2)](#Part-2) 
+  9. Lecture 9: [Linear Predictors](#Linear-Predictors)
+  10. Lecture 10: [Decision Trees](#Decision-Trees) 
+  11. Lecture 11: [Nearest Neighbor](#Nearest-Neighbor) 
+  12. Lecture 12: [Ensemble Methods](#Ensemble-Methods)
+  13. Lecture 13: [Model Selection and Validation](#Model-Selection-and-Validation)
+  14. Lecture 14: [Neural Networks](#Neural-Networks)    
+  15. Lecture 15: [Convex Learning Problems](#CLP) 
+  16. Lecture 16: [Regularization and Stability](#Regularization-and-Stability) 
+  17. Lecture 17: [Support Vector Machines](#Support-Vector-Machines) 
 
   - [Additional NoteBooks and Slides](#Additional-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -210,7 +211,17 @@ Additional Resources:
           - **Exercises:** 3.2, 3.3, 3.4, 3.5, 3.6, 3.7  
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
     - Slide: [Lecture 2](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture2.pdf) by Shai Shalev-Shwartz 
-5. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff  
+    
+5.  ### <a name="LUC"></a>Learning via Uniform Convergence 
+
+    ```
+    Required Reading:
+    ```
+     - Chapter 4 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+
+    - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt    
+    
+6. ### <a name="The-Bias-Complexity-Tradeoff"></a>The Bias-Complexity Tradeoff  
 
     ```
     Required Reading:
@@ -228,7 +239,7 @@ Additional Resources:
     
     - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham <br>
    
-6. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
+7. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
 
     ```
     Required Reading:
@@ -238,7 +249,7 @@ Additional Resources:
           - **Exercises:** 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 <br>
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
      
-7. ### <a name="Part-2"></a>Toolkit Lab (Part 2) 
+8. ### <a name="Part-2"></a>Toolkit Lab (Part 2) 
 
     ```
     Required Reading:
@@ -252,7 +263,7 @@ Additional Resources:
           - NoteBook: [An Example Machine Learning Notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by  Randal S. Olson <br>
     - Homework: [Take the 7-Day Machine Learning Challenge of Kaggle:](https://www.kaggle.com/page/machine-learning-course-ads?utm_medium=paid) Machine learning is the hottest field in data science, and this track will get you started quickly. <br> 
      
-8. ### <a name="Linear-Predictors"></a>Linear Predictors 
+9. ### <a name="Linear-Predictors"></a>Linear Predictors 
 
     ```
     Required Reading:
@@ -288,7 +299,7 @@ Additional Resources:
     * Blog: [Linear Regression with lm()](https://bookdown.org/ndphillips/YaRrr/linear-regression-with-lm.html) by Nathaniel D. Phillips <br>
     * Blog: [Logistic Regression](http://uc-r.github.io/logistic_regression) by UC Business Analytics R Programming Guide <br>
 
-9. ### <a name="Decision-Trees"></a>Decision Trees  
+10. ### <a name="Decision-Trees"></a>Decision Trees  
 
     ```
     Required Reading:
@@ -319,7 +330,7 @@ Additional Resources:
     * Blog: [Decision Tree Classifier Implementation in R](http://dataaspirant.com/2017/02/03/decision-tree-classifier-implementation-in-r/) by Rahul Saxena <br>
     * Blog: [Regression Trees](http://uc-r.github.io) by UC Business Analytics R Programming Guide <br>
 
-10. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
+11. ### <a name="Nearest-Neighbor"></a>Nearest Neighbor   
 
     ```
     Required Reading:
@@ -346,7 +357,7 @@ Additional Resources:
     * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
     * Blog: [Knn Classifier Implementation in R with Caret Package](http://dataaspirant.com/2017/01/09/knn-implementation-r-using-caret-package/) by Rahul Saxena <br>
 
-11. ### <a name="Ensemble-Methods"></a>Ensemble Methods 
+12. ### <a name="Ensemble-Methods"></a>Ensemble Methods 
 
     ```
     Required Reading:
@@ -381,7 +392,7 @@ Additional Resources:
     * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
     * Blog: [Random Forests](http://uc-r.github.io/random_forests) by UC Business Analytics R Programming Guide <br>
 
-12. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
+13. ### <a name="Model-Selection-and-Validation"></a>Model Selection and Validation  
 
     ```
     Required Reading:
@@ -418,7 +429,7 @@ Additional Resources:
     * Blog: [Resampling Methods](http://uc-r.github.io/resampling_methods) by UC Business Analytics R Programming Guide <br>
     * Blog: [Linear Model Selection](http://uc-r.github.io/model_selection) by UC Business Analytics R Programming Guide <br>
  
-13. ### <a name="Neural-Networks"></a>Neural Networks   
+14. ### <a name="Neural-Networks"></a>Neural Networks   
 
     ```
     Required Reading:
@@ -445,7 +456,7 @@ Additional Resources:
     
     * Blog: [Classification Artificial Neural Network](http://uc-r.github.io/ann_classification) by UC Business Analytics R Programming Guide <br>
  
-14. ### <a name="CLP"></a>Convex Learning Problems   
+15. ### <a name="CLP"></a>Convex Learning Problems   
 
     ```
     Required Reading:
@@ -459,7 +470,7 @@ Additional Resources:
     ```
     - Blog: [Escaping from Saddle Points](https://www.offconvex.org/2016/03/22/saddlepoints/) by Rong Ge <br>
  
-15. ### <a name="Regularization-and-Stability"></a>Regularization and Stability   
+16. ### <a name="Regularization-and-Stability"></a>Regularization and Stability   
 
     ```
     Required Reading:
@@ -483,7 +494,7 @@ Additional Resources:
     * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
     * Blog: [Regularized Regression](http://uc-r.github.io/regularized_regression) by UC Business Analytics R Programming Guide <br>
  
-16. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
+17. ### <a name="Support-Vector-Machines"></a>Support Vector Machines   
 
     ```
     Required Reading:
