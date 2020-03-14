@@ -143,10 +143,10 @@ Anaconda, Jupyter Lab, Markdown, Git, GitHub, and Google Colab:
 </table>  
 
 
-  * Homeworks: [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science) <br>
-        - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
-        - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
-        - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
+  * Homeworks: [Python Libraries for Data Science](https://github.com/hhaji/Tools-in-Data-Science#Python-Libraries-for-Data-Science)
+    - **Exercises:** Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) <br>
+    - **Exercises:** Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises) <br>
+    - **Exercises:** Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) <br>
  
 ```
 Suggested Reading:
