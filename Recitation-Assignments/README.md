@@ -107,4 +107,4 @@
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, the total score of each set can be more than 100.
 * Submission after the deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. 
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
-* Scores are usually commented. Furthermore, students could also comment on their scores and request for revaluation in the form of email, which will be considered at the end of the semester. 
+* Scores are usually commented. Furthermore, students could also comment on their scores and request for revaluation in the form of email, which will be considered at the end of the course. 
