@@ -79,7 +79,7 @@
     - Visualize both approaches (full and train data) for every model.
     - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
  
- <!--* Part Two: Machine Learning with Scikit-Learn: Will be Announced!-->
+**Please Note:** You can only use [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) from January 22 up to March 17.
 
 -> Deadline: Wednesday, Esfand 28, 23:59 (Announced at Esfand 14) - **Won't be Extended!**
 
