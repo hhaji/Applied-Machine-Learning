@@ -2,10 +2,10 @@
 
 ## Sessions
 
-* **Next Session** will be on Tuesday, Esfand 25, 18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91).
-
-   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-   - Machine Learning with Scikit-Learn Part 3
+* **Next Session** will be on Sunday, Farvardin 17 at 11:30, Room 210 **TBC** 
+<!--18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91). -->
+   - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+   - Machine Learning with Scikit-Learn Part 4
 
 * **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
    - Brief on Working in Clould based Services, such as Google Colab
@@ -30,6 +30,11 @@
    - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 2
    - Notebook: [Colab](https://colab.research.google.com/drive/15pmReFGAfmULTQb6RyZur9n0NCX6n8Tl) (Will be Modified!)
+
+* **Session Five** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Esfand 25
+   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+   - Machine Learning with Scikit-Learn Part 3
+   - Notebook: will be posted here!
 
 # Assignments 
 
