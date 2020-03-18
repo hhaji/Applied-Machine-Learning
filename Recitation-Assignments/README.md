@@ -70,7 +70,7 @@
 * Machine Learning with Scikit-Learn: Perform a basic Machine Learning Task on the [Coronavirus/Covid-19](https://github.com/CSSEGISandData/COVID-19) Data (infected and death cases in the World and Iran).
     - Visualize total infected and death cases in the World and Iran over time. (Use only [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)) 
     - Perform regressions on the data based on Scikit-learn's Linear Models: Linear and Polynomial (with different degrees) as well as at least one more method.
-    - Fit a gaussian function to the data.
+    - Fit a gaussian function (curve) to the data.
     - Visualize every model and predict the total infected and death cases in the future.
     - Split data into a train and a test set, then repeat steps 2 to 4 using train data.
     - Evaluate your model predictions by comparing them to the test data.
