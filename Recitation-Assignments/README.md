@@ -83,7 +83,7 @@
  
 **Please Note:** You can only use [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) from January 22 up to March 17.
 
--> Deadline: Wednesday, Esfand 28, 23:59 (Announced at Esfand 14) - **Won't be Extended!**
+-> Deadline: Wednesday, Esfand 28, 23:59 (Announced at Esfand 14) - 
 
 ## Assignment Set 5
 
