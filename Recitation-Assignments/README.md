@@ -2,7 +2,7 @@
 
 ## Sessions
 
-* **Next Session** will be on Sunday, Farvardin 17 at 11:30, Room 210 **TBC** 
+* **Next Session** will be on Sunday, Farvardin 17 at 11:30, Room 210 **(TBC)** 
 <!--18:00 via LMS [Class Room](http://194.225.24.94/class-2216137-91). -->
    - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 4
