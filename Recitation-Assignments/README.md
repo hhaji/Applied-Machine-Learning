@@ -95,7 +95,7 @@
 
 ## Assignment Set 6
 
-* Machine Learning with Scikit-Learn: Will be Announced!
+* Exercises of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning): Will be Announced!
 
 -> Deadline: Saturday, Farvardin 16, 23:59 <!-- - **Won't be Extended!**-->
 
