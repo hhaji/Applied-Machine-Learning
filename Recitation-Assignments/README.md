@@ -95,10 +95,11 @@
 
 ## Assignment Set 6
 
-* Exercises of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning): Will be Announced!
+* Chapter 6 of  [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
+
+- Exercises: 6.2, 6.4, 6.6, 6.9, 6.10, and 6.11 
 
 -> Deadline: Saturday, Farvardin 16, 23:59 <!-- - **Won't be Extended!**-->
-
 
 # Submission Instruction 
 
