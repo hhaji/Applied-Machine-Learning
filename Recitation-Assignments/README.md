@@ -91,7 +91,7 @@
 
     - Exercises: 3.2, 3.3, 3.4, 3.5, 3.6, 3.7
 
--> Deadline: Saturday, Farvardin 9, 23:59 (Announced at Esfand 20) - **Won't be Extended!**
+-> Deadline: Saturday, Farvardin 9, 23:59 (Announced at Esfand 20)
 
 ## Assignment Set 6
 
