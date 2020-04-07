@@ -2,8 +2,8 @@
 
 ## Sessions
 
-* **Next Session** will be on Saturday, Farvardin 24 at 18:00 via LMS [Class Room](http://vc1.sbu.ac.ir/class-2216137-91) 
-   - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) **(TBC)**
+* **Next Session** will be on Saturday, Farvardin 24 at 18:00 via LMS [Class Room](http://vc1.sbu.ac.ir/class-2216137-91) **(TBC)** 
+   - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 5
    - Notebook: will be posted here!
 
