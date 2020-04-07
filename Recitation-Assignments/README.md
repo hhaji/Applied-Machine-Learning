@@ -39,6 +39,7 @@
 * **Session Six** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Farvardin 19 
    - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 4
+   - Notebook: will be posted here!
 
 # Assignments 
 
