@@ -36,9 +36,9 @@
    - Machine Learning with Scikit-Learn Part 3
    - Notebook: will be posted here!
    
- <!--* **Next Session** will be on Tuesday, Farvardin 19 at 18:00 via LMS [Class Room](http://vc1.sbu.ac.ir/class-2216137-91) 
+* **Session Six** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Farvardin 19 
    - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-   - Machine Learning with Scikit-Learn Part 4-->
+   - Machine Learning with Scikit-Learn Part 4
 
 # Assignments 
 
