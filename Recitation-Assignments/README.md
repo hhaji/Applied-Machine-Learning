@@ -123,4 +123,4 @@
    - **Exceptionally, Assignment 1 to 6, could be submitted after their deadline up to Farvardin 26, but it is subjected to a penalty of 30 points.**
 <!--* Submission after the deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. --> 
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
-* Scores are usually commented. Furthermore, students could also comment on their scores and request for revaluation in the form of email, which will be considered at the end of the course. 
+* Scores may be commented. Furthermore, students could also comment on their scores and request for re-evaluation in the form of email, which will be considered at the end of the course. 
