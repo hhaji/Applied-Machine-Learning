@@ -8,7 +8,7 @@
    - Notebook: will be posted here!
 
 * **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
-   - Brief on Working in Clould based Services, such as Google Colab
+   - Brief on Working in Cloud based Services, such as Google Colab
    - Brief Introduction of GIT
    - Video: Posted in the Skype Group
 
