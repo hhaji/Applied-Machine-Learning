@@ -274,15 +274,15 @@ Additional Resources:
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
     - Slide: [Tutorial 3: Consistent linear predictors and Linear regression](https://webcourse.cs.technion.ac.il/236756/Spring2014/ho/WCFiles/Tutorial%203.pdf) by Nir Ailon <br>
     - NoteBook: [Perceptron in Scikit](https://github.com/chrisalbon/notes/blob/master/content/machine_learning/basics/perceptron_in_scikit-learn.ipynb) by Chris Albon <br>
-    - Blog: [Why Linear Regression is not Suitable for Classification](https://jinglescode.github.io/datascience/2019/05/07/why-linear-regression-is-not-suitable-for-classification/) by 
- 
+    - Blog: [Why Linear Regression is not Suitable for Classification](https://jinglescode.github.io/datascience/2019/05/07/why-linear-regression-is-not-suitable-for-classification/) by Hong Jing  
+    - Lecture: [Logistic Regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) by Cosma Shalizi   
+
     ```
     Additional Reading:
     ```
    
     - NoteBook: [Linear Regression](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb) by Kevin Markham <br>  
     - Paper: [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf) by Randal J. Barnes <br>
-    - Lecture: [Logistic Regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) by Cosma Shalizi <br>
     - NoteBook: [Logistic Regression-Analysis](https://nbviewer.jupyter.org/github/nborwankar/LearnDataScience/blob/master/notebooks/WB3.%20Logistic%20Regression%20-%20Analysis-%20Worksheet.ipynb) by Nitin Borwankar <br>
         - [DataSets](https://github.com/nborwankar/LearnDataScience/tree/master/datasets) <br>
     - NoteBook: [Logistic Regression](https://github.com/justmarkham/DAT8/blob/master/notebooks/12_logistic_regression.ipynb) by Kevin Markham <br>  
