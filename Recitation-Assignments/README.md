@@ -124,7 +124,7 @@
 
     - Exercises: 9.1, 9.3, 9.4, and 9.6   
 
--> Deadline: **Saturday, Farvardin 30, 23:59** (Announced at Farvardin 24)
+-> Deadline: **Saturday, Farvardin 30, 23:59** (Announced at Farvardin 24) - **Won't be extended!
 
 # Submission Instruction 
 
