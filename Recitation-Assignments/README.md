@@ -118,6 +118,13 @@
 
 -> Deadline: Saturday, Farvardin 16, 23:59 (Announced at Farvardin 5)
 
+## Assignment Set 7
+
+* Chapter 9 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)   
+    - **Exercises:** 9.1, 9.3, 9.4, and 9.6   
+
+-> Deadline: Saturday, Farvardin 30, 23:59 (Announced at Farvardin 24)
+
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
