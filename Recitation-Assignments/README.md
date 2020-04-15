@@ -13,10 +13,10 @@
 
 ## Sessions
 
-* **Next Session** will be on Tuesday, Farvardin 26 at 18:00 via LMS [Class Room](http://vc24.sbu.ac.ir/class-2216137-91) 
-   - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-   - Machine Learning with Scikit-Learn Part 5
-   - Notebook: [Colab](https://colab.research.google.com/drive/1yxOQcpiCIGSmkgB2WwLtkI0x1QEcXKEV)
+* **Next Session** will be on Sturdaty, Farvardin 31 at 18:00 via LMS [Class Room](http://vc24.sbu.ac.ir/class-2216137-91) 
+   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with Scikit-Learn Part 6
+   - Notebook: Will be posted here!
 
 * **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
    - Brief on Working in Cloud based Services, such as Google Colab
@@ -50,6 +50,11 @@
 * **Session Six** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Farvardin 19 
    - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 4
+   - Notebook: [Colab](https://colab.research.google.com/drive/1yxOQcpiCIGSmkgB2WwLtkI0x1QEcXKEV)
+   
+* **Session Six** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Farvardin 26
+   - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with Scikit-Learn Part 5
    - Notebook: [Colab](https://colab.research.google.com/drive/1yxOQcpiCIGSmkgB2WwLtkI0x1QEcXKEV)
 
 # Assignments 
