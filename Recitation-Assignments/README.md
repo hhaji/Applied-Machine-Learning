@@ -45,7 +45,7 @@
 * **Session Five** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Esfand 25
    - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 3
-   - Notebook: will be posted here!
+   - Notebook: [colab](https://colab.research.google.com/drive/1gbXt3B74FiIiI4jLlqqxTPOm-elHkYY7)
    
 * **Session Six** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Farvardin 19 
    - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
