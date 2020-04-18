@@ -231,19 +231,19 @@ Additional Resources:
         - **Exercise:** 5.2  
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt <br>
     - Slide: [Lecture 3](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture3.pdf) by Shai Shalev-Shwartz <br>
-    - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas    
+    - Paper: [The Bias-Variance Dilemma](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf) by Raul Rojas     
     
     ```
     Suggested Reading:
     ```
     
-    - Paper: [A Unified Bias-Variance Decomposition](https://homes.cs.washington.edu/~pedrod/bvd.pdf) by Pedro Domingos  
+    - Paper: [A Unified Bias-Variance Decomposition](https://homes.cs.washington.edu/~pedrod/bvd.pdf) by Pedro Domingos   
   
     ```
     Additional Reading:
     ```
     
-    - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham   
+    - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham    
        
 7. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
 
