@@ -244,6 +244,8 @@ Additional Resources:
     ```
     
     - NoteBook: [Exploring the Bias-Variance Tradeoff](https://github.com/justmarkham/DAT8/blob/master/notebooks/08_bias_variance.ipynb) by Kevin Markham    
+    - Blog: [Bias-Variance Decomposition](http://rasbt.github.io/mlxtend/user_guide/evaluate/bias_variance_decomp/) by Sebastian Raschka  
+    - Slide: [Bias-Variance Theory](https://web.engr.oregonstate.edu/~tgd/classes/534/slides/part9.pdf) by Thomas G. Dietterich   
        
 7. ###   <a name="The-VC-Dimension"></a>The VC-Dimension 
 
