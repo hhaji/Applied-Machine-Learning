@@ -3,7 +3,7 @@
 ## Tutors
 
 * [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
-  - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office
+  - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)
   - Email: y.taheriyeganeh@mail.sbu.ac.ir
   <br>
 * [Erfan Rostami](https://github.com/Erfaan-Rostami)
@@ -13,7 +13,7 @@
 
 ## Sessions
 
-* **Next Session** will be on Tuesday, Ordibehesht 2 at 18:00 via LMS [Class Room](http://vc24.sbu.ac.ir/class-2216137-91) **(TBC)**
+* **Next Session** will be on Tuesday, Ordibehesht 2 at 18:00 via LMS [Class Room](http://vc24.sbu.ac.ir/class-2216137-91) 
    - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 6
    - Notebook: Will be posted here!
