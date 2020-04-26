@@ -14,9 +14,9 @@
 
 ## Sessions
 
-* **Next Session** will be on Tuesday, Ordibehesht 9 at 18:00 via LMS [Class Room](http://vc24.sbu.ac.ir/class-2216137-91) **(TBC)** 
+* **Next Session** will be on Tuesday, Ordibehesht 9 at 18:00 via LMS [Class Room](http://vc26.sbu.ac.ir/class-2216137-91) **(TBC)** 
    - Decision Trees of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-   - Machine Learning with Scikit-Learn Part 7
+   - Machine Learning with Scikit-Learn Part 8
    - Notebook: Will be posted here!
 
 * **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
