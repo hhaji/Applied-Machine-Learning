@@ -7,7 +7,7 @@
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)
   - Email: y.taheriyeganeh@mail.sbu.ac.ir
   <br>
-* [Erfan Rostami](https://github.com/Erfaan-Rostami)
+* [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami)
   - Email: r.a.erfan@gmail.com 
   <br>
 * [Mostafa Khodayari](https://github.com/MSTF4)
@@ -24,7 +24,7 @@
    - Brief Introduction of GIT
    - Video: Posted in the Skype Group
 
-* **Session One** by [Erfan Rostami](https://github.com/Erfaan-Rostami) was on Wednesday, Esfand 7 
+* **Session One** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Wednesday, Esfand 7 
    - Introduction to Python
 
 * **Session Two** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Wednesday, Esfand 7 
@@ -58,12 +58,12 @@
    - Machine Learning with Scikit-Learn Part 5
    - Notebook: [Colab](https://colab.research.google.com/drive/1yxOQcpiCIGSmkgB2WwLtkI0x1QEcXKEV)
    
-* **Session Eight** by [Erfan Rostami](https://github.com/Erfaan-Rostami) was on Tuesday was on Ordibehesht 2
+* **Session Eight** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Tuesday was on Ordibehesht 2
    - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 6
    - Notebook: Will be posted here!
    
-* **Session Nine** by [Erfan Rostami](https://github.com/Erfaan-Rostami) was on Sunday was on Ordibehesht 7
+* **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Sunday was on Ordibehesht 7
 
    - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 7
