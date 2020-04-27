@@ -67,7 +67,7 @@
 
    - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 7
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1a0sKKtVQhoyIi0wY8FFqi7G3Jj7pv57B#scrollTo=KQBAFnhMxi3q)
 
 # Assignments 
 
