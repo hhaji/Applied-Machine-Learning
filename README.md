@@ -381,8 +381,8 @@ Additional Resources:
     - Slide: [Introduction to Machine Learning (Boosting)](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture4.pdf) by Shai Shalev-Shwartz <br>
     - Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G. Dietterich <br>
     - NoteBook: [AdaBoost](https://github.com/hhaji/Applied-Machine-Learning/blob/master/NoteBooks/AdaBoost.ipynb)  
-    - Question: [Adaboost with a Weak Versus a Strong Learner](https://stats.stackexchange.com/questions/246820/adaboost-with-a-weak-versus-a-strong-learner)   
-
+    - Question: [Adaboost with a Weak Versus a Strong Learner](https://stats.stackexchange.com/questions/246820/adaboost-with-a-weak-versus-a-strong-learner) 
+    
     ```
     Additional Reading:
     ```
@@ -394,6 +394,7 @@ Additional Resources:
     - [Library (ML-Ensemble):](http://ml-ensemble.com/docs/ensemble.html) Graph handles for deep computational graphs and ready-made ensemble classes for ensemble networks by Sebastian Flennerhag <br>
     - NoteBook: [Ensemble Methods](https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/ensemble_methods.ipynb) by Vadim Smolyakov <br>
     - Paper: [On Agnostic Boosting and Parity Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/2008-On_Agnostic_Boosting-and_Parity_Learning.pdf) by A. T. Kalai, Y. Mansour, and E. Verbin <br>  
+    - Paper: [Faster Face Detection Using Convolutional Neural Networks & the Viola-Jones Algorithm](https://www.csustan.edu/sites/default/files/groups/University%20Honors%20Program/Journals/01_enriquez.pdf) by Karina Enriquez  
 
     ```
     R (Programming Language):
