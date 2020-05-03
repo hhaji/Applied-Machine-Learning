@@ -150,7 +150,7 @@
 
     - Classify the specified data using the binary method and then the multi-class method to achieve an accuracy of 90% or more.
 
--> Deadline: Saturday, Ordibehesht 13, 23:59 (Announced at Ordibehesht 1) - **Will not be extended!**
+-> Deadline: Saturday, Ordibehesht 13, 23:59 (Announced at Ordibehesht 1)
 
 # Submission Instruction 
 
