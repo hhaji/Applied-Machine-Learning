@@ -199,7 +199,8 @@ Additional Resources:
     Chapter 2 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
         - **Exercises:** 2.1, 2.2, and 2.3  
     - Slide: [Machine Learning](https://github.com/rkwitt/teaching/blob/master/SS17/ML/VO/ml.pdf) by Roland Kwitt  <br>
-    - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz  <br>
+    - Slide: [Lecture 1](http://www.cs.huji.ac.il/~shais/Lectures2014/lecture1.pdf) by Shai Shalev-Shwartz    
+    - Blog: [Some Key Machine Learning Definitions](https://medium.com/technology-nineleaps/some-key-machine-learning-definitions-b524eb6cb48) by Joydeep Bhattacharjee   
     
 4. ### <a name="PAC-Learning"></a>PAC Learning  
 
