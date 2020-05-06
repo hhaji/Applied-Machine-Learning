@@ -72,6 +72,10 @@
    
 * **Session Ten** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Sunday was on Ordibehesht 16
 
+   - Decision Trees of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with Scikit-Learn Part 7
+   - Notebook: [Colab]
+
 # Assignments 
 
 ## Assignment Set 1  
