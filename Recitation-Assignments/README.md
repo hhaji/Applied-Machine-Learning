@@ -60,20 +60,20 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1yxOQcpiCIGSmkgB2WwLtkI0x1QEcXKEV)
    
 * **Session Eight** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Tuesday, Ordibehesht 2
-   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Part One)
    - Machine Learning with Scikit-Learn Part 6
    - Notebook: [Colab](https://colab.research.google.com/drive/1S1RguKRlxG3jE7z1lelIX0Uk3pImr05m#scrollTo=L23wN_05sKC3)
    
 * **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Sunday was on Ordibehesht 7
 
-   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Part Two)
    - Machine Learning with Scikit-Learn Part 7
    - Notebook: [Colab](https://colab.research.google.com/drive/1a0sKKtVQhoyIi0wY8FFqi7G3Jj7pv57B#scrollTo=KQBAFnhMxi3q)
    
 * **Session Ten** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Sunday was on Ordibehesht 16
 
    - Decision Trees of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-   - Machine Learning with Scikit-Learn Part 7
+   - Machine Learning with Scikit-Learn Part 8
    - Notebook: [Colab]
 
 # Assignments 
