@@ -169,6 +169,8 @@
     - Apply a 200-degree polynomial model to the preceding training data, and compare(plot them) the result with a pure linear model and a quadratic model (2nd-degree polynomial)
     
     - Plot the learning curves of the model’s performance on the training set and the validation set as a function of the training set size(or the training iteration)
+    
+    -> Deadline: Saturday, Ordibehesht 27, 23:59
 
 ## Assignment Set 10
 
@@ -188,6 +190,8 @@
            4. Fare
            
      - Calculate score of your model
+     
+     -> Deadline: Saturday, Khordad 3, 23:59
 
 # Submission Instruction 
 
