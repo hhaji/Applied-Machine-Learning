@@ -160,6 +160,12 @@
 
 ## Assignment Set 9
 
+* Do this exercise step by step:
+
+    - generate some nonlinear data, based on a simple quadratic equation with n=200
+    
+    - 
+
 ## Assignment Set 10
 
 * Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
