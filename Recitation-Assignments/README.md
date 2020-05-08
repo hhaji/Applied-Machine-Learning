@@ -164,11 +164,11 @@
 
 * Chapter 6 of 
 
-    - Exercises:
+    - Exercises: 1 and 2
     
 * Build decision tree model to predict survival based on certain parameters
 
-    - CSV file is available to download at <a herf="https://github.com/codebasics/py/blob/master/ML/14_naive_bayes/titanic.csv">HERE</a>
+    - CSV file is available to download at <a href="https://github.com/codebasics/py/blob/master/ML/14_naive_bayes/titanic.csv">HERE</a>
     
     - In this file using following columns build a model to predict if person would survive or not,
     
