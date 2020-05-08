@@ -113,6 +113,7 @@
 ## Assignment Set 4
 
 * Machine Learning with Scikit-Learn: Perform a basic Machine Learning Task on the [Coronavirus/Covid-19](https://github.com/CSSEGISandData/COVID-19) Data (infected and death cases in the World and Iran).
+
     - Visualize total infected and death cases in the World and Iran over time.
     - Perform regressions on the data based on Scikit-learn's Linear Models: Linear and Polynomial (with different degrees) as well as at least one more method.
     - Fit a Gaussian function (curve) to the data.
@@ -152,7 +153,7 @@
 
 ## Assignment Set 8
 
-* Machine Learning with Scikit-Learn: The [data set](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_8_Data.csv) includes parental level of education, test preparation course, math score, reading and writing score and etc., to understand their impact on overall performance in 5 groups of students.
+* Machine Learning with Scikit-Learn: The [data set](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_8_Data.csv) includes parental level of education, test preparation course, math score, reading and writing score, and etc., to understand their impact on overall performance in the 5 groups of students.
 
     - Classify the specified data using the binary method and then the multi-class method to achieve an accuracy of 90% or more.
 
@@ -162,15 +163,12 @@
 
 * Do this exercise step by step:
 
-    - Generate some nonlinear data with m=300, based on a simple quadratic equation (2nd-degree) 
-    
-    - Fit a Polynomial Regression model to the data
-    
-    - Apply a 200-degree polynomial model to the preceding training data, and compare(plot them) the result with a pure linear model and a quadratic model (2nd-degree polynomial)
-    
+    - Generate some nonlinear data with m=300, based on a simple quadratic equation (2nd-degree)    
+    - Fit a Polynomial Regression model to the data    
+    - Apply a 200-degree polynomial model to the preceding training data, and compare(plot them) the result with a pure linear model and a quadratic model (2nd-degree polynomial)    
     - Plot the learning curves of the model’s performance on the training set and the validation set as a function of the training set size(or the training iteration)
     
-    -> **Deadline**: Saturday, Ordibehesht 27, 23:59 (Announced at Ordibehesht 20)
+    -> Deadline: Saturday, Ordibehesht 27, 23:59 (Announced at Ordibehesht 20)
 
 ## Assignment Set 10
 
@@ -191,7 +189,7 @@
            
      - Calculate score of your model
      
-     -> **Deadline**: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
+     -> Deadline: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
 
 # Submission Instruction 
 
