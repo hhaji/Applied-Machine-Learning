@@ -166,9 +166,9 @@
     
     - Fit a Polynomial Regression model to the data
     
-    - Apply a 200-degree polynomial model to the preceding training data, and compares the result with a pure linear model and a quadratic model (2nd-degree polynomial)
+    - Apply a 200-degree polynomial model to the preceding training data, and compare(plot them) the result with a pure linear model and a quadratic model (2nd-degree polynomial)
     
-    - 
+    - Plot the learning curves of the model’s performance on the training set and the validation set as a function of the training set size(or the training iteration)
 
 ## Assignment Set 10
 
