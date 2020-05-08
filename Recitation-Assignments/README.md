@@ -170,7 +170,7 @@
     
     - Plot the learning curves of the model’s performance on the training set and the validation set as a function of the training set size(or the training iteration)
     
-    -> Deadline: Saturday, Ordibehesht 27, 23:59
+    -> **Deadline**: Saturday, Ordibehesht 27, 23:59 (Announced at Ordibehesht 20)
 
 ## Assignment Set 10
 
@@ -191,7 +191,7 @@
            
      - Calculate score of your model
      
-     -> Deadline: Saturday, Khordad 3, 23:59
+     -> **Deadline**: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
 
 # Submission Instruction 
 
