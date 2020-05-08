@@ -172,7 +172,7 @@
 
 ## Assignment Set 10
 
-* Chapter 6 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
+* Chapter 18 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
 
     - Exercises: 1 and 2
     
