@@ -162,7 +162,7 @@
 
 * Do this exercise step by step:
 
-    - generate some nonlinear data, based on a simple quadratic equation with n=300
+    - Generate some nonlinear data, based on a simple quadratic equation with n=300
     
     - Fit a Polynomial Regression model to the data
     
