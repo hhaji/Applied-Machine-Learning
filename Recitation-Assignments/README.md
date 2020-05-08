@@ -160,6 +160,25 @@
 
 ## Assignment Set 9
 
+## Assignment Set 10
+
+* Chapter 6 of 
+
+    - Exercises:
+    
+* Build decision tree model to predict survival based on certain parameters
+
+    - CSV file is available to download at <a herf="">HERE</a>
+    
+    - In this file using following columns build a model to predict if person would survive or not,
+    
+           1. Pclass
+           2.	Sex
+           3.	Age
+           4.	Fare
+           
+     - Calculate score of your model
+
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
