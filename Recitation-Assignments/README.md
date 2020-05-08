@@ -162,7 +162,11 @@
 
 * Do this exercise step by step:
 
-    - generate some nonlinear data, based on a simple quadratic equation with n=200
+    - generate some nonlinear data, based on a simple quadratic equation with n=300
+    
+    - Fit a Polynomial Regression model to the data
+    
+    - Apply a 200-degree polynomial model to the preceding training data, and compares the result with a pure linear model and a quadratic model (2nd-degree polynomial)
     
     - 
 
