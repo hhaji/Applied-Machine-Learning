@@ -18,7 +18,7 @@
 
    - Ensemble Learning and Random Forests of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 9
-   - Notebook: (Colab)[https://colab.research.google.com/drive/1JBohY2HYpWzO987OB8PUo2rOChgome5S?usp=sharing]
+   - Notebook: [Colab](https://colab.research.google.com/drive/1JBohY2HYpWzO987OB8PUo2rOChgome5S?usp=sharing)
 
 * **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
    - Brief on Working in Cloud based Services, such as Google Colab
