@@ -64,17 +64,23 @@
    - Machine Learning with Scikit-Learn Part 6
    - Notebook: [Colab](https://colab.research.google.com/drive/1S1RguKRlxG3jE7z1lelIX0Uk3pImr05m#scrollTo=L23wN_05sKC3)
    
-* **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Sunday was on Ordibehesht 7
+* **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Sunday, Ordibehesht 7
 
    - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Part Two)
    - Machine Learning with Scikit-Learn Part 7
    - Notebook: [Colab](https://colab.research.google.com/drive/1a0sKKtVQhoyIi0wY8FFqi7G3Jj7pv57B#scrollTo=KQBAFnhMxi3q)
    
-* **Session Ten** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Tuesday was on Ordibehesht 16
+* **Session Ten** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Tuesday, Ordibehesht 16
 
    - Decision Trees of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 8
    - Notebook: [Colab](https://colab.research.google.com/drive/1yXm3xz_2GvFDz1KFAOyl20RfQTMOKCfo#scrollTo=S5QOeL61WtP5)
+
+* **Session Eleven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Ordibehesht 23
+
+   - Ensemble Learning and Random Forests of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with Scikit-Learn Part 9
+   - Notebook: [Colab](https://colab.research.google.com/drive/1JBohY2HYpWzO987OB8PUo2rOChgome5S?usp=sharing)
 
 # Assignments 
 
