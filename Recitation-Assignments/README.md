@@ -21,7 +21,7 @@
    - Notebook: Will be posted here!
 
 * **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
-   - Brief on Working in Cloud based Services, such as Google Colab
+   - Brief on Working in Cloud-based Services, such as Google Colab
    - Brief Introduction of GIT
    - Video: Posted in the Skype Group
 
@@ -47,7 +47,7 @@
 * **Session Five** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Esfand 25
    - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 3
-   - Notebook: [colab](https://colab.research.google.com/drive/1gbXt3B74FiIiI4jLlqqxTPOm-elHkYY7)
+   - Notebook: [Colab](https://colab.research.google.com/drive/1gbXt3B74FiIiI4jLlqqxTPOm-elHkYY7)
    
 * **Session Six** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Farvardin 19 
    - Classification of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
@@ -94,7 +94,7 @@
 
 * Install Anaconda and Create an Environment.    
 * Install Python Packages (Pandas, Scikit-Learn, Matplotlib) and Jupyter Lab in your new Environment.    
-* Create a GitHub Account.   
+* Create a GitHub account.   
 * Create a Repository for this Course in your GitHub.  
 * Use Markdown to Prepare a Readme file for your Repository. 
 * Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/assignments-1_sample.ipynb) in your Environment, then Upload it in your Github Repository.
@@ -108,7 +108,7 @@
     - Practice Numpy in [LabEx](https://labex.io/courses/100-numpy-exercises) 
     - Practice Pandas in [LabEx](https://labex.io/courses/100-pandas-exercises)   
     - Practice Matplotlib in [LabEx](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib) 
-    - Then Push/Upload each of the three jupyter notebooks using git in the Labex machine. (Try to be creative!)
+    - Then Push/Upload each of the three Jupyter notebooks using git in the Labex machine. (Try to be creative!)
 
 **Please Note:** In the Labex exercises, each empty cell must be different (modified) from the sample one. Therefore, the completed notebook will have at least 200 outputs. Furthermore, please review the tutorial video for submitting the assignment set 2.
 
