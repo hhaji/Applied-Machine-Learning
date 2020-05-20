@@ -165,7 +165,7 @@
 
 ## Assignment Set 8
 
-* Machine Learning with Scikit-Learn: The [data set](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_8_Data.csv) includes the parental level of education, test preparation course, math score, reading and writing score, and etc., to understand their impact on overall performance in the 5 groups of students.
+* Machine Learning with Scikit-Learn: The [data set](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_8_Data.csv) includes the parental level of education, test preparation course, math score, reading and writing score, etc., to understand their impact on overall performance in the 5 groups of students.
 
     - Classify the specified data using the binary method and then the multi-class method to achieve an accuracy of 90% or more.
 
@@ -208,7 +208,7 @@
 * Create a repository inside your Github account with the exact name "Applied_Machine_Learning_S20_Assignments". (Rename it if already created.)
 * Please review the [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions.
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
-* Solutions of the exercises ,as well as mathematical notations, could be written in [Latex](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or pdf. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
+* Solutions of the exercises, as well as mathematical notations, could be written in [Latex](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or pdf. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
 # Scores
 
