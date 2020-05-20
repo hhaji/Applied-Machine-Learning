@@ -14,10 +14,10 @@
 
 ## Sessions
 
-* **Next Session** will be on Tuesday, Ordibehesht 30 at 18:00 via LMS [Class Room](http://vc26.sbu.ac.ir/class-2216137-91) 
+* **Next Session** will be on Tuesday, Khordad 6 at 18:00 via LMS [Class Room](http://vc26.sbu.ac.ir/class-2216137-91) 
 
-   - Dimensionality Reduction of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-   - Machine Learning with Scikit-Learn Part 10
+   - Unsupervised Learning Techniques of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with Scikit-Learn Part 11
    - Notebook: Will be posted here!
 
 * **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
@@ -81,6 +81,12 @@
    - Ensemble Learning and Random Forests of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 9
    - Notebook: [Colab](https://colab.research.google.com/drive/1JBohY2HYpWzO987OB8PUo2rOChgome5S?usp=sharing)
+
+* **Session Twelve** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Tuesday, Ordibehesht 
+
+   - Dimensionality Reduction of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with Scikit-Learn Part 10
+   - Notebook: Will be posted here!
 
 # Assignments 
 
