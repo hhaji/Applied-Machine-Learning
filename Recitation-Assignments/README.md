@@ -165,7 +165,7 @@
 
 ## Assignment Set 8
 
-* Machine Learning with Scikit-Learn: The [data set](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_8_Data.csv) includes parental level of education, test preparation course, math score, reading and writing score, and etc., to understand their impact on overall performance in the 5 groups of students.
+* Machine Learning with Scikit-Learn: The [data set](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_8_Data.csv) includes the parental level of education, test preparation course, math score, reading and writing score, and etc., to understand their impact on overall performance in the 5 groups of students.
 
     - Classify the specified data using the binary method and then the multi-class method to achieve an accuracy of 90% or more.
 
@@ -177,7 +177,7 @@
 
     - Generate some nonlinear data with m=300, based on a simple quadratic equation (2nd-degree)    
     - Fit a Polynomial Regression model to the data    
-    - Apply a 200-degree polynomial model to the preceding training data, and compare(plot them) the result with a pure linear model and a quadratic model (2nd-degree polynomial)    
+    - Apply a 200-degree polynomial model to the preceding training data, and compare(plot them) the result with a purely linear model and a quadratic model (2nd-degree polynomial)    
     - Plot the learning curves of the model’s performance on the training set and the validation set as a function of the training set size(or the training iteration)
     
     -> Deadline: Saturday, Ordibehesht 27, 23:59 (Announced at Ordibehesht 20)
@@ -191,14 +191,14 @@
 * Build a decision tree model to predict survival based on certain parameters
 
     - CSV file is available to download at <a href="https://github.com/codebasics/py/blob/master/ML/14_naive_bayes/titanic.csv">HERE</a>
-    - In this file using following columns build a model to predict if person would survive or not:
+    - In this file using the following columns build a model to predict if a person would survive or not:
     
-           1. Pclass
+           1. P-class
            2. Sex
            3. Age
            4. Fare
            
-     - Calculate score of your model
+     - Calculate the score of your model
      
      -> Deadline: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
 
@@ -207,8 +207,8 @@
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
 * Create a repository inside your Github account with the exact name "Applied_Machine_Learning_S20_Assignments". (Rename it if already created.)
 * Please review the [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions.
-* After completing all tasks of every assignment set, add related jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
-* Solutions of the exercises as well as mathematical notations could be written in [Latex](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), either in jupyter notebook or pdf. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
+* After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
+* Solutions of the exercises ,as well as mathematical notations, could be written in [Latex](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or pdf. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
 # Scores
 
