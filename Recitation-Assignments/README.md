@@ -133,7 +133,7 @@
     - Split data into a train and a test set, then repeat steps 2 to 4 using train data.
     - Evaluate your model predictions by comparing them to the test data.
     - Visualize both approaches (full and train data) for every model.
-    - **Finally**: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
+    - Finally: Employ everything you know about machine learning to develop a model based on the data, capable of offering   optimal prediction on the total infected and death cases in the World and Iran as well as visualization over time. (Try to be creative!)
  
 **Please Note:** You can only use [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) from January 22 up to March 18. This assignment is closely related to the [Kaggle's COVID19 Global/Local US-CA Forecasting Challenges](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/overview), therefore, it could also be submitted for the challenge.
 
