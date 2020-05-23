@@ -82,7 +82,7 @@
    - Machine Learning with Scikit-Learn Part 9
    - Notebook: [Colab](https://colab.research.google.com/drive/1JBohY2HYpWzO987OB8PUo2rOChgome5S?usp=sharing)
 
-* **Session Twelve** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Tuesday, Ordibehesht 
+* **Session Twelve** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Tuesday, Ordibehesht 30
 
    - Dimensionality Reduction of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 10
