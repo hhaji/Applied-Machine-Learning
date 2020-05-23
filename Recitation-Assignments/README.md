@@ -86,7 +86,7 @@
 
    - Dimensionality Reduction of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 10
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1vWRGl3V06kbyzsZFsq1TKhXbLI9fzme1#scrollTo=dTORysOwzXS_)
 
 # Assignments 
 
