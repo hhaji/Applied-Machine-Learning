@@ -202,6 +202,28 @@
      
      -> Deadline: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
 
+## Assignment Set 11
+
+* Perform classification on the [MNIST](http://yann.lecun.com/exdb/mnist/), [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html), and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html) datasets, based on the following models and compare them:
+  
+   - Non-Ensemble Models (e.g., Decision Tree)
+   - Ensemble Votting Classifiers (Both Soft and Hard)   
+   - Bagging Classifier, Random Forests, and Extra Trees
+   - AdaBoost Classifier
+   - XGBoost Classifier
+   
+* Perform regression on the [California Housing Values] dataset, based on the following models and compare them:
+
+   - Non-Ensemble Models (e.g., Decision Tree Regressor)
+   - Random Forest Regressor 
+   - AdaBoost Regressor
+   - Gradient Boosting Regressor
+   - XGBoost Regressor
+   
+* Write at least a paragraph about XGBoost and its advantages. (Optional: Advantage ~ 10 points)
+
+Please Note: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Furthermore, small research should be done regarding the [XGBoost](https://github.com/dmlc/xgboost); For instance take a look at this [blog](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7). In addition to them, try to achieve very good classifiers and regressors based on each model, then compare their performance.
+
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
