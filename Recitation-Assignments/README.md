@@ -212,7 +212,7 @@
    - AdaBoost Classifier
    - XGBoost Classifier
    
-* Perform regression on the [California Housing Values] dataset, based on the following models and compare them:
+* Perform regression on the [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing) dataset, based on the following models and compare them:
 
    - Non-Ensemble Models (e.g., Decision Tree Regressor)
    - Random Forest Regressor 
