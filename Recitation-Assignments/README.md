@@ -222,7 +222,7 @@
    
 * Write at least a paragraph about XGBoost and its advantages. (Optional: Advantage ~ 10 points)
 
-Please Note: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Furthermore, small research should be done regarding the [XGBoost](https://github.com/dmlc/xgboost); For instance take a look at this [blog](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7). In addition to them, try to achieve very good classifiers and regressors based on each model, then compare their performance.
+**Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Furthermore, small research should be done regarding the [XGBoost](https://github.com/dmlc/xgboost); For instance take a look at this [blog](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7). In addition to them, try to achieve very good classifiers and regressors based on each model, then compare their performance.
 
 # Submission Instruction 
 
