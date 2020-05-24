@@ -11,7 +11,7 @@
   - Email: r.a.erfan@gmail.com 
   <br>
 * [Mostafa Khodayari](https://github.com/MSTF4)
-  - Email:mo.khodayari@mail.sbu.ac.ir
+  - Email: mo.khodayari@mail.sbu.ac.ir
 
 ## Sessions
 
