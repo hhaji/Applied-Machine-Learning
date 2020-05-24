@@ -208,7 +208,7 @@
 * Perform classification on the [MNIST](http://yann.lecun.com/exdb/mnist/), [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html), and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html) datasets, based on the following models and compare them:
   
    - Non-Ensemble Models (e.g., Decision Tree)
-   - Ensemble Votting Classifiers (Both Soft and Hard)   
+   - Ensemble Voting Classifiers (Both Soft and Hard)   
    - Bagging Classifier, Random Forests, and Extra Trees
    - AdaBoost Classifier
    - XGBoost Classifier
