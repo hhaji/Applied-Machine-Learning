@@ -17,7 +17,7 @@
 
 * **Next Session** will be on Tuesday, Khordad 13 at 18:00 via LMS [Class Room](http://vc26.sbu.ac.ir/class-2216137-91)  **(TBC)** 
 
-   - Introduction to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Intro. to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with TensorFlow and Keras
    - Notebook: Will be posted here!
 
