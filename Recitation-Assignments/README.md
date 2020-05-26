@@ -88,6 +88,12 @@
    - Dimensionality Reduction of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 10
    - Notebook: [Colab](https://colab.research.google.com/drive/1vWRGl3V06kbyzsZFsq1TKhXbLI9fzme1#scrollTo=dTORysOwzXS_)
+   
+* **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Khordad 6
+
+  - Unsupervised Learning Techniques of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with Scikit-Learn Part 11
+   - Notebook: Will be posted here!
 
 # Assignments 
 
