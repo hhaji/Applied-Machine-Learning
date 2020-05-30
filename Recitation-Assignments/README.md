@@ -246,6 +246,7 @@
 * Please visit the [Link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores. (Updated at Esfand 25.)
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, the total score of each set can be more than 100.
 *  **Submission after the deadline will not be accepted!**
+
    - Exceptionally, Assignment 1 to 6, could be submitted after their deadline up to Farvardin 26, but it is subjected to a penalty of 30 points.
 <!--* Submission after the deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. --> 
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
