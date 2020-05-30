@@ -248,6 +248,7 @@
 *  **Submission after the deadline will not be accepted!**
 
    - Exceptionally, Assignment 1 to 6, could be submitted after their deadline up to Farvardin 26, but it is subjected to a penalty of 30 points.
+   
 <!--* Submission after the deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. --> 
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
 * The final score of recitation will be calculated based on the weighted average of assignments, from 100 points. Moreover, it could be more than 100 due to the added rewards! 
