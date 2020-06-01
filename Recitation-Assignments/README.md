@@ -236,6 +236,7 @@
    ## Assignment Set 12
 
 * Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
+
    - Exercises: 1 and 2 
 
 -> Deadline: Friday, Khordad 23, 23:59 (Announced at Khordad 12) - **Won't be extended!**
