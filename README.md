@@ -42,6 +42,7 @@
   15. Lecture 15: [Convex Learning Problems](#CLP) 
   16. Lecture 16: [Regularization and Stability](#Regularization-and-Stability) 
   17. Lecture 17: [Support Vector Machines](#Support-Vector-Machines) 
+  18. Lecture 18: [Multiclass Classification](#Multiclass-Classification) 
 
   - [Additional NoteBooks and Slides](#Additional-NoteBooks-and-Slides)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -537,6 +538,15 @@ Additional Resources:
     * Book: [Machine Learning Mastery With R](https://machinelearningmastery.com/machine-learning-with-r/) by Jason Brownlee <br>
     * Blog: [Support Vector Machine Classifier Implementation in R with Caret Package](http://dataaspirant.com/2017/01/19/support-vector-machine-classifier-implementation-r-caret-package/) by Rahul Saxena <br>
     * Blog: [Support Vector Machine](http://uc-r.github.io/svm) by UC Business Analytics R Programming Guide <br>
+    
+18. ### <a name="Multiclass-Classification"></a>Multiclass Classification   
+
+    ```
+    Required Reading:
+    ```
+    
+    - Chapter 17 of [Understanding Machine Learning: From Theory to Algorithms]
+    - Slide: [Machine Learning Basics Lecture 7: Multiclass Classification](https://www.cs.princeton.edu/courses/archive/spring16/cos495/slides/ML_basics_lecture7_multiclass.pdf) by Yingyu Liang   
       
 - ### <a name="Additional-NoteBooks-and-Slides"></a>Additional NoteBooks and Slides: 
   * Course: [Fondations of Machine Learning](https://bloomberg.github.io/foml/#home) by David S. Rosenberg <br>
