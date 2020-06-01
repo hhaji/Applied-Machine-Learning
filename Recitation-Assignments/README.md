@@ -187,7 +187,7 @@
     - Apply a 200-degree polynomial model to the preceding training data, and compare(plot them) the result with a purely linear model and a quadratic model (2nd-degree polynomial)    
     - Plot the learning curves of the model’s performance on the training set and the validation set as a function of the training set size(or the training iteration)
     
-    -> Deadline: Saturday, Ordibehesht 27, 23:59 (Announced at Ordibehesht 20)
+-> Deadline: Saturday, Ordibehesht 27, 23:59 (Announced at Ordibehesht 20)
 
 ## Assignment Set 10
 
@@ -207,7 +207,7 @@
            
      - Calculate the score of your model
      
-     -> Deadline: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
+-> Deadline: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
 
 ## Assignment Set 11
 
@@ -231,14 +231,14 @@
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Furthermore, small research should be done regarding the [XGBoost](https://github.com/dmlc/xgboost); For instance, take a look at the following [blog](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7) and [tutorial](https://www.kaggle.com/dansbecker/xgboost). In addition to them, try to develop very good classifiers and regressors based on each model, then compare their performance.
 
-   -> Deadline: Friday, Khordad 16, 23:59 (Announced at Khordad 4) - **Won't be extended!**
+-> Deadline: Friday, Khordad 16, 23:59 (Announced at Khordad 4) - **Won't be extended!**
    
    ## Assignment Set 12
 
 * Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
    - Exercises: 1 and 2 
 
-   -> Deadline: Friday, Khordad 23, 23:59 (Announced at Khordad 12) - **Won't be extended!**
+-> Deadline: Friday, Khordad 23, 23:59 (Announced at Khordad 12) - **Won't be extended!**
 
 # Submission Instruction 
 
