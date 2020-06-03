@@ -17,7 +17,7 @@
 
 * **Las Two Sessions** will be on Tuesday, Khordad 20 at 13:00 via LMS [Class Room](http://vc26.sbu.ac.ir/class-2216137-91)  
 
-   - Intro. to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Part Two)
+   - Intro. to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with TensorFlow and Keras Part 2
    - Selected Experiments on Artificial Neural Networks
    - Support Vector Machines of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -44,12 +44,12 @@
 
 *  **Session Four** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Esfand 20
    - Reviewing Session Three
-   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Part One)
+   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 2
    - Notebook: [Colab](https://colab.research.google.com/drive/15pmReFGAfmULTQb6RyZur9n0NCX6n8Tl)
    
 * **Session Five** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Esfand 25
-   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Part Two)
+   - End to End Machine Learning Project of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 3
    - Notebook: [Colab](https://colab.research.google.com/drive/1gbXt3B74FiIiI4jLlqqxTPOm-elHkYY7)
    
@@ -64,13 +64,13 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1yxOQcpiCIGSmkgB2WwLtkI0x1QEcXKEV)
    
 * **Session Eight** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Tuesday, Ordibehesht 2
-   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Part One)
+   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 6
    - Notebook: [Colab](https://colab.research.google.com/drive/1S1RguKRlxG3jE7z1lelIX0Uk3pImr05m#scrollTo=L23wN_05sKC3)
    
 * **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) was on Sunday, Ordibehesht 7
 
-   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Part Two)
+   - Training Models of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    - Machine Learning with Scikit-Learn Part 7
    - Notebook: [Colab](https://colab.research.google.com/drive/1a0sKKtVQhoyIi0wY8FFqi7G3Jj7pv57B#scrollTo=KQBAFnhMxi3q)
    
