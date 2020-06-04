@@ -1,7 +1,7 @@
 # Data Handling
 Here we introduce several blogs related to data and data handling and also some resources of datasets. 
 
-## Blogs: 
+## Blogs  
 * [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) by Jeff Leek <br>
 * [ 10 Statistics Tips (and Why You Should Use Them!)](https://docs.google.com/presentation/d/1VZ_TnmyvC98lwTx5ukZm88y2dcg0S1uOIz5V8kwWSYI/edit?usp=sharing) by Jeff Leek <br>
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) by Geckoboard Company <br>
@@ -18,10 +18,9 @@ Here we introduce several blogs related to data and data handling and also some 
   [Simpson's Paradox](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/simpsons-paradox/) | [McNamara Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/mcnamara-fallacy/) | [Overfitting](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/overfitting/) | [Publication Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/publication-bias/) | [Danger of Summary Metrics](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/danger-of-summary-metrics/)
   
 
-## Datasets:
-The following resources may be helpful for those still undecided about their course projects. 
-* [Statistical Center of Iran](https://www.amar.org.ir/english/) 
-    - [Dataset (Persian)](https://www.amar.org.ir/دادهها-و-اطلاعات-آماری/هزینه-و-درامد-خانوار/هزینه-و-درامد-کل-کشور#103181018---)  
+## Datasets  
+The following resources may be helpful for those still undecided about their course projects.
+* [VisualData:](https://www.visualdata.io) Discover computer vision datasets <br>
 * [OpenML:](https://www.openml.org) An open science platform for machine learning <br>
 * [Open Datasets:](https://skymind.ai/wiki/open-datasets) A list of links to publicly available datasets for a variety of domains.
 * [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
@@ -36,22 +35,50 @@ The following resources may be helpful for those still undecided about their cou
 * [Get Financial Data Directly Into R](https://www.quandl.com/tools/r)
 * [Listen Data from the Green Bank Telescope](http://seti.berkeley.edu/frb-machine/)
 * [Cafebazaar](https://research.cafebazaar.ir/visage/datasets/) 
-* [VisualData:](https://www.visualdata.io) Discover computer vision datasets <br>
 * [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/) by Pranav Dar  
-* [DigiKala](https://www.dataacademy.ir/داده-های-باز-در-دیجی-کالا) (Persian)
+* [DigiKala](https://www.dataacademy.ir/داده-های-باز-در-دیجی-کالا) (Persian)  
+* [Statistical Center of Iran](https://www.amar.org.ir/english/) 
+    - [Dataset (Persian)](https://www.amar.org.ir/دادهها-و-اطلاعات-آماری/هزینه-و-درامد-خانوار/هزینه-و-درامد-کل-کشور#103181018---)   
 
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
-* [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
+* [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)  
 
-### Data Science Competition Platforms:
-* [Kaggle](https://www.kaggle.com/datasets)
-  * [Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/) 
-  * [Kaggle Past Solutions](https://ndres.me/kaggle-past-solutions/) by Eliot Andres 
-  * [The Tips and Tricks I Used to Succeed on Kaggle](https://www.dataquest.io/blog/kaggle-tips-tricks/) by Vik Paruchuri 
-* [DrivenData](http://www.drivendata.org)
-* [TunedIT](http://www.tunedit.org)
-* [InnoCentive](https://www.innocentive.com)
-* [CrowdAnalytix](http://www.crowdanalytix.com)
+## Datasets of Molecules and Their Properties  
+
+- Blog: [MoleculeNet](http://moleculenet.ai/) is a benchmark specially designed for testing machine learning methods of molecular properties. As we aim to facilitate the development of molecular machine learning method, this work curates a number of dataset collections, creates a suite of software that implements many known featurizations and previously proposed algorithms. All methods and datasets are integrated as parts of the open source **DeepChem** package(MIT license).  
+- Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
+- Blog: [Tox21](https://tripod.nih.gov/tox21/challenge/): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The Tox21 Program (Toxicology in the 21st Century) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.  
+
+## Datasets of Graphs
+
+- Blog: [Network Repository. An Interactive Scientific Network Data Repository:](http://networkrepository.com) The first interactive data and network data repository with real-time visual analytics. Network repository is not only the first interactive repository, but also the largest network repository with thousands of donations in 30+ domains (from biological to social network data). This repository was made by Ryan A. Rossi and Nesreen K. Ahmed.  
+- Blog: [Graph Classification:](https://paperswithcode.com/task/graph-classification/latest) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
+- Blog: [Graph Challenge Data Sets:](https://graphchallenge.mit.edu/data-sets) Amazon is making the Graph Challenge data sets available to the community free of charge as part of the AWS Public Data Sets program. The data is being presented in several file formats, and there are a variety of ways to access it.    
+- Blog: [The House of Graphs:](https://hog.grinvin.org) a database of interesting graphs by G. Brinkmann, K. Coolsaet, J. Goedgebeur, and H. Mélot (also see Discrete Applied Mathematics, 161(1-2): 311-314, 2013 ([DOI](http://dx.doi.org/10.1016/j.dam.2012.07.018))).   
+    * [Search for Graphs](https://hog.grinvin.org/StartSearch.action)  
+- Blog: [A Repository of Benchmark Graph Datasets for Graph Classification](https://github.com/shiruipan/graph_datasets) by 
+Shiruipan    
+- Blog: [Collection and Streaming of Graph Datasets](https://www.eecs.wsu.edu/~yyao/StreamingGraphs.html) by Yibo Yao   
+- Blog: [Big Graph Data Sets](https://lgylym.github.io/big-graph/dataset.html) by Yongming Luo   
+- Blog: [MIVIA LDGraphs Dataset:](https://mivia.unisa.it/datasets/graph-database/mivia2-graph-database/) The MIVIA LDGraphs (MIVIA Large Dense Graphs) dataset is a new dataset for benchmarking exact graph matching algorithms. It aims to extend the MIVIA graphs dataset, widely used in the last ten years, with bigger and more dense graphs, so as to face with the problems nowadays encountered in real applications devoted for instance to bioinformatics and social network analysis. 
+- Blog: [Datasets](https://sites.wustl.edu/neumann/research/datasets/) by Marion Neumann  
+- Blog: [Graph Dataset](https://sites.google.com/site/xiaomengsite/research/resources/graph-dataset) by Xiao Meng   
+- Blog: [Constructors and Databases of Graphs in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)
+- Datasets in GitHub:   
+  - [Benchmark Dataset for Graph Classification:](https://github.com/FilippoMB/Benchmark_dataset_for_graph_classification) This repository contains datasets to quickly test graph classification algorithms, such as Graph Kernels and Graph Neural Networks by Filippo Bianchi.     
+  - [GAM:](https://github.com/benedekrozemberczki/GAM) A PyTorch implementation of "Graph Classification Using Structural Attention" (KDD 2018) by Benedek Rozemberczki.
+  - [CapsGNN:](https://github.com/benedekrozemberczki/CapsGNN) A PyTorch implementation of "Capsule Graph Neural Network" (ICLR 2019) by Benedek Rozemberczki.   
+  
+ ### Tools for Creating Graphs
+
+- Package: [Networkx:](https://networkx.github.io) a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
+  - [Graph Generators](https://networkx.github.io/documentation/stable/reference/generators.html)  
+  - [Converting to and from Other Data Formats To NetworkX Graph](https://networkx.github.io/documentation/stable/reference/convert.html)  
+  - [Reading and Writing Graphs](https://networkx.github.io/documentation/stable/reference/readwrite/index.html)    
+  
+- Package: [Sage:](https://www.sagemath.org) a viable free open source alternative to Magma, Maple, Mathematica and Matlab.
+  - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
+  - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html) 
 
 ## Dealing with Data  
 * Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
@@ -68,7 +95,12 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 * Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
 * Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang  
 
-### Jupyter NoteBooks:
-* [5-Day Challenge: Data Cleaning](https://www.kaggle.com/getting-started/52652#post300638) by Rachael Tatman
-* [HousePrice - Data Cleaning & Visualization](https://www.kaggle.com/code1110/houseprice-data-cleaning-visualization) by Katsuhisa Kawaguchi
-* [Titanic - Data Preprocessing and Visualization](https://www.kaggle.com/abhishekmamidi/titanic-data-preprocessing-and-visualization) by Abhishek Mamidi
+## Data Science Competition Platforms  
+* [Kaggle](https://www.kaggle.com/datasets)
+  * [Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/) 
+  * [Kaggle Past Solutions](https://ndres.me/kaggle-past-solutions/) by Eliot Andres 
+  * [The Tips and Tricks I Used to Succeed on Kaggle](https://www.dataquest.io/blog/kaggle-tips-tricks/) by Vik Paruchuri 
+* [DrivenData](http://www.drivendata.org)
+* [TunedIT](http://www.tunedit.org)
+* [InnoCentive](https://www.innocentive.com)
+* [CrowdAnalytix](http://www.crowdanalytix.com)
