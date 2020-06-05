@@ -19,7 +19,7 @@
 
    - Intro. to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with TensorFlow and Keras Part 2
-   - Selected Experiments on Artificial Neural Networks
+   - Selected Experiments with Artificial Neural Networks
    - Support Vector Machines of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 12
    - Notebook: Will be posted here!
