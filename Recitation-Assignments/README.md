@@ -240,7 +240,7 @@
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Furthermore, small research should be done regarding the [XGBoost](https://github.com/dmlc/xgboost); For instance, take a look at the following [blog](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7) and [tutorial](https://www.kaggle.com/dansbecker/xgboost). In addition to them, try to develop very good classifiers and regressors based on each model, then compare their performance.
 
--> Deadline: Friday, Khordad 16, 23:59 (Announced at Khordad 4) - **Won't be extended!**
+-> Deadline: Friday, Khordad 16, 23:59 (Announced at Khordad 4) 
    
    ## Assignment Set 12
 
