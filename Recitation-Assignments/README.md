@@ -204,17 +204,7 @@
 
     - Exercises: 1 and 2
     
-* Build a decision tree model to predict survival based on certain parameters
-
-    - CSV file is available to download at <a href="https://github.com/codebasics/py/blob/master/ML/14_naive_bayes/titanic.csv">HERE</a>
-    - In this file using the following columns build a model to predict if a person would survive or not:
-    
-           1. P-class
-           2. Sex
-           3. Age
-           4. Fare
-           
-     - Calculate the score of your model
+* Build a decision tree model to predict survival on the Taitanic [dataset](https://github.com/codebasics/py/blob/master/ML/14_naive_bayes/titanic.csv), based on the certain parameters (i.e., P-class, Sex, Age, and Fare), then calculate the score of model.
      
 -> Deadline: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
 
