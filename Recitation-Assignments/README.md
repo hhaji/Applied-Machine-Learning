@@ -96,7 +96,7 @@
 
   - Unsupervised Learning Techniques of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 11
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1yNgQVqWZs1iKWCKaNPivuUGJtGAXePuN?usp=sharing)
 
 * **Session Fourteen** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Khordad 13 
 
