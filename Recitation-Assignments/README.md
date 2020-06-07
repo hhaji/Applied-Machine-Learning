@@ -242,13 +242,21 @@
 
 -> Deadline: Friday, Khordad 16, 23:59 (Announced at Khordad 4) 
    
-   ## Assignment Set 12
+ ## Assignment Set 12
 
 * Chapter 11 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)
 
    - Exercises: 1 and 2 
 
 -> Deadline: Friday, Khordad 23, 23:59 (Announced at Khordad 12) - **Won't be extended!**
+
+## Assignment Set 13
+
+* [Car rating dataset](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_13_Data.csv) includes 1,728 records with six features attributes: buying, maint, doors, persons, lug_boot, and safety.
+
+   - Depending on the class feature, cluster the data using algorithm KMeans and then test the results using the following methods DBSCAN and Hierarchical. (Use the One-Hot method to digitize the required features.) 
+
+-> Deadline: Friday, Khordad 30, 23:59 (Announced at Khordad 18) 
 
 # Submission Instruction 
 
