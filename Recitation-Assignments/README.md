@@ -204,7 +204,7 @@
 
     - Exercises: 1 and 2
     
-* Build a decision tree model to predict survival on the Taitanic [dataset](https://github.com/codebasics/py/blob/master/ML/14_naive_bayes/titanic.csv), based on the certain parameters (i.e., P-class, Sex, Age, and Fare), then calculate the score of model.
+* Build a decision tree model to predict survival on the Titanic [dataset](https://github.com/codebasics/py/blob/master/ML/14_naive_bayes/titanic.csv), based on certain parameters (i.e., p-class, sex, age, and fare), then calculate the score of the model.
      
 -> Deadline: Saturday, Khordad 3, 23:59 (Announced at Ordibehesht 20)
 
@@ -244,7 +244,7 @@
 
 * The car rating [dataset](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_13_Data.csv) includes 1,728 records with six features attributes: buying, maint, doors, persons, lug_boot, and safety.
 
-   - Depending on the class feature, cluster the data using K-Means algorithm and then test the results using the following methods DBSCAN and Hierarchical. (Use the One-Hot method to digitize the required features.) 
+   - Depending on the class feature, cluster the data using the K-Means algorithm and then test the results using the following methods DBSCAN and Hierarchical. (Hint: use the One-Hot method to digitize the required features.) 
 
 -> Deadline: Friday, Khordad 30, 23:59 (Announced at Khordad 18) 
 
