@@ -254,7 +254,7 @@
 
 * [Car rating dataset](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_13_Data.csv) includes 1,728 records with six features attributes: buying, maint, doors, persons, lug_boot, and safety.
 
-   - Depending on the class feature, cluster the data using algorithm KMeans and then test the results using the following methods DBSCAN and Hierarchical. (Use the One-Hot method to digitize the required features.) 
+   - Depending on the class feature, cluster the data using K-Means algorithm and then test the results using the following methods DBSCAN and Hierarchical. (Use the One-Hot method to digitize the required features.) 
 
 -> Deadline: Friday, Khordad 30, 23:59 (Announced at Khordad 18) 
 
