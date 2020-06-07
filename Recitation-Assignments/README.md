@@ -246,7 +246,7 @@
 
    - Depending on the class feature, cluster the data using the K-Means algorithm and then test the results using the following methods DBSCAN and Hierarchical. (Hint: use the One-Hot method to digitize the required features.)
    
-**Please Note**: You can take a look at the part three of the session thirteen's Notebook.
+**Please Note**: You can take a look at part three of the session thirteen's Notebook.
 
 -> Deadline: Friday, Khordad 30, 23:59 (Announced at Khordad 18) - **Won't be extended!**
 
