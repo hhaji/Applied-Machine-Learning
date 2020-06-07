@@ -181,7 +181,7 @@
 
 ## Assignment Set 8
 
-* Machine Learning with Scikit-Learn: The [data set](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_8_Data.csv) includes the parental level of education, test preparation course, math score, reading and writing score, etc., to understand their impact on overall performance in the 5 groups of students.
+* Machine Learning with Scikit-Learn: The [dataset](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignments_Data/Assignment_Set_8_Data.csv) includes the parental level of education, test preparation course, math score, reading and writing score, etc., to understand their impact on overall performance in the 5 groups of students.
 
     - Classify the specified data using the binary method and then the multi-class method to achieve an accuracy of 90% or more.
 
