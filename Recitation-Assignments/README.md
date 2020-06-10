@@ -15,7 +15,7 @@
 
 ## Sessions
 
-* **Last Two Sessions** will be on Wednesday, Khordad 21 at 18:00-20:00 via LMS [Class Room](http://vc26.sbu.ac.ir/class-2216137-91) **(TBC)**  
+* **Last Two Sessions** will be on Wednesday, Khordad 21 at 18:00 via LMS [Class Room](http://vc26.sbu.ac.ir/class-2216137-91) **(TBC)**  
 
    - Intro. to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with TensorFlow and Keras Part 2
