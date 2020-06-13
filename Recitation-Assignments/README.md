@@ -16,7 +16,7 @@
 * [Esmail Mafakheri](https://github.com/E008001">Esmail) 
   - Email: e.mafakheri@mail.sbu.ac.ir
   <br>
-
+  
 ## Sessions
 
 * **Last Two Sessions** will be on Saturady, Khordad 25 at 13:00 via LMS [Class Room](http://vc26.sbu.ac.ir/class-2216137-91) **(TBC)**  
