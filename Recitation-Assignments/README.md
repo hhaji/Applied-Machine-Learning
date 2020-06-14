@@ -107,6 +107,18 @@
    - Intro. to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with TensorFlow and Keras Part 1
    - Notebook: Will be posted here!
+   
+* **Session Fifteen** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Khordad 13 
+
+   - Support Vector Machines of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with Scikit-Learn Part 12
+   - Notebook: Will be posted here!
+
+* **Session Sixteen** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Khordad 13 
+
+   - Intro. to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+   - Machine Learning with TensorFlow and Keras Part 2
+   - Selected Experiments with Artificial Neural Networks
 
 # Assignments 
 
