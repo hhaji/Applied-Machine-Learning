@@ -268,6 +268,7 @@
 
 # Scores
 
+* Scores will be announced by late Tir. (TBC)
 * Please visit the [Link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) for the scores. (Updated at Esfand 25.)
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, the total score of each set can be more than 100.
 * **Submission after the deadline will not be accepted!** Exceptionally, Assignments 1 to 6, could be submitted after their deadline up to Farvardin 26, but it is subjected to a penalty of 30 points.
