@@ -269,7 +269,7 @@
 # Scores
 
 * Scores will be announced by late Tir. (TBC)
-* Please visit the [Link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) (Updated at Esfand 25) for the scores.
+* Please visit the [Link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) (updated at Esfand 25) for the scores.
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, the total score of each set can be more than 100.
 * **Submission after the deadline will not be accepted!** Exceptionally, Assignments 1 to 6, could be submitted after their deadline up to Farvardin 26, but it is subjected to a penalty of 30 points.
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
