@@ -17,6 +17,12 @@
   - Email: e.mafakheri@mail.sbu.ac.ir
   <br>
   
+**Please Note**: 
+
+* A carbon copy (Cc) of your email communications with teaching assistants must be sent to professor's personal email address (hhhaji@gmail.com).
+
+* Response to emails may take a few day. Please be patient!
+
 ## Sessions
 
 * **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
