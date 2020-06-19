@@ -19,7 +19,7 @@
   
 **Please Note**: 
 
-* A carbon copy (Cc) of your email communications with teaching assistants must be sent to professor's personal email address (hhhaji@gmail.com).
+* A carbon copy (Cc) of your email communications with TAs must be sent to professor's personal email address (hhhaji@gmail.com).
 
 * Response to emails may take a few day. Please be patient!
 
