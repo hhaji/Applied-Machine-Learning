@@ -3,9 +3,7 @@
 ## Teaching Assistants
 
 * [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)
-
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)
-  <br>
 * [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) (Email: r.a.erfan@gmail.com)
   
 * [Mostafa Khodayari](https://github.com/MSTF4) (Email: mo.khodayari@mail.sbu.ac.ir)
