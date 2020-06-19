@@ -14,7 +14,7 @@
 
 * A carbon copy (Cc) of your email communications with TAs must be sent to the following email address (hhhaji@gmail.com).
 
-* Response to emails may take a few day. Please be patient!
+* Response to emails may take a few days. Please be patient!
 
 # Recitation
 
