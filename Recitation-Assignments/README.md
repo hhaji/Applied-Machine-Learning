@@ -258,6 +258,30 @@
 
 -> Deadline: Friday, Khordad 30, 23:59 (Announced at Khordad 18) - **Won't be extended!**
 
+## Assignment Set 14
+
+* Will be Announced by Khordad 31!
+
+-> Deadline: Friday, Tir 6, 23:59 (Will be Announced by Khordad 31!)
+
+## Assignment Set 15
+
+* Will be Announced by Khordad 31!
+
+-> Deadline: Friday, Tir 6, 23:59 (Will be Announced by Khordad 31!)
+
+## Assignment Set 16
+
+* Will be Announced by Khordad 31!
+
+-> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 10 Points) - Tuesday, Tir 17, 23:59 (Will be Announced by Khordad 31!)
+
+## Final Project (Assignment Set 17)
+
+* Details Will be Announced by Khordad 31!
+
+-> Deadline: Friday, Tir 6, 23:59 (Proposal) - Tuesday, Tir 31, 23:59 (Final Report and Code) (Will be Announced by Khordad 31!) 
+
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
