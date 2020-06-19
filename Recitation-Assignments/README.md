@@ -1,6 +1,6 @@
 # Recitation
 
-## Tutors
+## Teaching Assistants
 
 * [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh)
 
