@@ -304,9 +304,17 @@
 
 ## Final Project (Assignment Set 17)
 
-* Details Will be Announced by Khordad 31!
+* Final project will be considered as the outcome of the course, which is an effective understanding and implementation of machine learning to provide practical solutions to problems. Two scenarios for the project can be imagined, applications, and development of machine learning. Developing algorithms and methods is a valuable target, but may be challenging. On the other side, applications are highly recommended for this project. Students should decide on the topic of the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps are expected: 
 
--> Deadline: Friday, Tir 6, 23:59 (Proposal) - Tuesday, Tir 31, 23:59 (Final Report and Code) (Will be Announced by Khordad 31!) 
+    - Selecting a mentor and deciding on a topic
+    - Writing a brief proposal (at least two paragraphs) of the project; Proposal Format: Will be posted here!
+    - Proposal approval by the mentor
+    - The main phase of the project
+    - Writing and submitting the final report (at least three pages) and codes (& data); Final Report Format: Will be posted here!
+
+-> Deadline: Friday, Tir 6, 23:59 (Proposal) - Tuesday, Tir 31, 23:59 (Final Report and Codes) (Officially Announced at Khordad 31; More Information will be provided constantly) 
+
+**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. 
 
 # Submission Instruction 
 
