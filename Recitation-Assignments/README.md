@@ -269,12 +269,12 @@
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
-   - At least another dataset (up to your choice, but should be different from those employed in previous assignments)  
+   - At least one other dataset (up to your choice, but should be different from those employed in previous assignments)  
    
 * Perform regression on the following datasets based on support vector machine models:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
-   - At least another dataset (bup to your choice, but should be different from those employed in previous assignments)
+   - At least one other dataset (bup to your choice, but should be different from those employed in previous assignments)
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Furthermore, it would be much better to train (and experiment with) at least two models for each dataset. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
@@ -286,12 +286,12 @@
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
-   - At least another dataset (up to your choice, but should be different from those employed in previous assignments)  
+   - At least one other dataset (up to your choice, but should be different from those employed in previous assignments)  
    
 * Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regulization, ...) in either Tensorflow or Pytorch to peroform regression on the following datasets, then compare them with models in previous assignments:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
-   - At least another dataset (bup to your choice, but should be different from those employed in previous assignments)
+   - At least one other dataset (up to your choice, but should be different from those employed in previous assignments)
    
 * Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries).It should be capble of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss fuction, and regulazation). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the exact same architectute at Tensorflow (and Keras) and Pytorch for the following data:
    
