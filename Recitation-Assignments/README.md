@@ -265,7 +265,18 @@
 
 ## Assignment Set 15
 
-* Will be Announced by Khordad 31!
+* Perform classification on the following datasets based on support vector machine models:
+  
+   - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
+   - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
+   - At least another dataset (based on your choice, which should be different with the datasets emplpyed in previous assighntmens)  
+   
+* Perform regression on the following datasets based on support vector machine models:
+
+   - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
+   - At least another dataset (based on your choice, which should be different with the datasets emplpyed in previous assighntmens)
+
+**Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets on Kaggle. In addition, Try to develop very good classifiers and regressors based on each model. Furthermore, it would be much better to train (and expriment with) at least two models for each dataset. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low!  
 
 -> Deadline: Friday, Tir 6, 23:59 (Will be Announced by Khordad 31!)
 
