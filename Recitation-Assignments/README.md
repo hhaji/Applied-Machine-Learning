@@ -269,12 +269,12 @@
   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
-   - At least another dataset (based on your choice, which should be different from the datasets employed in previous assignments)  
+   - At least another dataset (up to your choice, but should be different from those employed in previous assignments)  
    
 * Perform regression on the following datasets based on support vector machine models:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
-   - At least another dataset (based on your choice, which should be different from the datasets employed in previous assignments)
+   - At least another dataset (bup to your choice, but should be different from those employed in previous assignments)
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Furthermore, it would be much better to train (and experiment with) at least two models for each dataset. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
