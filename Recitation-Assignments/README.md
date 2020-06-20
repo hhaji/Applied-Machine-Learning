@@ -314,7 +314,7 @@
 
 -> Deadline: Friday, Tir 6, 23:59 (Proposal) - Tuesday, Tir 31, 23:59 (Final Report and Codes) (Officially Announced at Khordad 31; More Information will be provided constantly) 
 
-**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. In addition to them, contacts with mentors/assistants is only possible through email communications.
+**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. In addition to them, contacts with mentors/assistants is only possible through email communications. It will be examined by the Professor and all teaching assitants. 
 
 # Submission Instruction 
 
