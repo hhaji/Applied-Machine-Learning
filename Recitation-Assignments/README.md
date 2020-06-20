@@ -265,7 +265,7 @@
 
 ## Assignment Set 15
 
-Perform classification on the following datasets based on support vector machine models:
+* Perform classification on the following datasets based on support vector machine models:
   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
