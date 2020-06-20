@@ -276,7 +276,7 @@
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - At least another dataset (bup to your choice, but should be different from those employed in previous assignments)
 
-**Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Furthermore, it would be much better to train (and experiment with) at least two models for each dataset. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
+**Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Furthermore, it would be much better to train (and experiment with) at least two models for each dataset. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
 -> Deadline: Friday, Tir 6, 23:59 (Will be Announced by Khordad 31!)
 
