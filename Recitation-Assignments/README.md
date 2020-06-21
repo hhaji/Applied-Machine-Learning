@@ -259,9 +259,9 @@
 
 ## Assignment Set 14
 
-* Will be Announced by Khordad 31!
+* Will be Announced!
 
--> Deadline: Friday, Tir 6, 23:59 (Will be Announced by Khordad 31!)
+-> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 13, 23:59 (Will be Announced!)
 
 ## Assignment Set 15
 
@@ -278,7 +278,7 @@
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Furthermore, it would be much better to train (and experiment with) at least two models for each dataset. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
--> Deadline: Friday, Tir 6, 23:59 (Announced at Khordad 31!)
+-> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 13, 23:59 (Announced at Khordad 31!)
 
 ## Assignment Set 16
 
