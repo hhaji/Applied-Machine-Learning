@@ -302,6 +302,7 @@
 
 -> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 10 Points) - Tuesday, Tir 17, 23:59 (Announced at Khordad 31!)
 ## Assignment Set 17
+- **PCA Implementation**
 
 
 ## Final Project (Assignment Set 18)
