@@ -258,8 +258,21 @@
 -> Deadline: Friday, Khordad 30, 23:59 (Announced at Khordad 18) 
 
 ## Assignment Set 14
-
-* Will be Announced!
+- **PCA Implementation**
+   - Use the Mushroom classification [dataset](https://www.kaggle.com/uciml/mushroom-classification).
+   - Import all the modules we need, which includes PCA, train_test_split, and labeling and scaling tools.
+   - Encode the data with the LabelEncoder.
+   - Use PCA to get the list of features and plot which features have the most explanatory power, or have the most variance.
+   - Let's convert the features into the 17 top features, then plot a scatter plot of the data point classification based on these 17 features.
+   - Do The previous step for the top 2 features and see how the classification changes.
+- **Singular Value Decomposition**
+   - Write a function to load in an image and turn it into a Numpy array.
+   - Select  the red, green, and blue color channels from the image.
+   - Compress  the color channels.
+   - Call  Numpy's SVD function on the color channel we want.
+   - Create  an array of zeroes that you'll fill in after the matrix multiplication is completed.
+   - Specify  the singular value limit you want to use when doing the calculations.
+   - Use an image to test your SVD compression on.
 
 -> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 13, 23:59 (Will be Announced!)
 
@@ -314,12 +327,12 @@
    - Select  the red, green, and blue color channels from the image.
    - Compress  the color channels.
    - Call  Numpy's SVD function on the color channel we want.
-   - Create  an array of zeroes that we'll fill in after the matrix multiplication is completed.
-   - Specify  the singular value limit we want to use when doing the calculations.
+   - Create  an array of zeroes that you'll fill in after the matrix multiplication is completed.
+   - Specify  the singular value limit you want to use when doing the calculations.
    - Use an image to test your SVD compression on.
 
 
-## Final Project (Assignment Set 18)
+## Final Project (Assignment Set 17)
 
 * Final project will be considered as the outcome of the course, which is an effective understanding and implementation of machine learning to provide practical solutions to problems. Two scenarios for the project can be imagined, applications, and development of machine learning. Developing algorithms and methods is a valuable target, but may be challenging. On the other side, applications are highly recommended for this project. Students should decide on the topic of the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps are expected: 
 
