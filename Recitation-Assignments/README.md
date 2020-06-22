@@ -303,7 +303,12 @@
 -> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 10 Points) - Tuesday, Tir 17, 23:59 (Announced at Khordad 31!)
 ## Assignment Set 17
 - **PCA Implementation**
-   - Use the Mushroom classification [dataset](https://www.kaggle.com/uciml/mushroom-classification)
+   - Use the Mushroom classification [dataset](https://www.kaggle.com/uciml/mushroom-classification).
+   - Import all the modules we need, which includes PCA, train_test_split, and labeling and scaling tools.
+   - Encode the data with the LabelEncoder.
+   - Use PCA to get the list of features and plot which features have the most explanatory power, or have the most variance.
+   - Let's convert the features into the 17 top features, then plot a scatter plot of the data point classification based on these 17 features.
+   - Do The previous step for the top 2 features and see how the classification changes.
 
 
 ## Final Project (Assignment Set 18)
