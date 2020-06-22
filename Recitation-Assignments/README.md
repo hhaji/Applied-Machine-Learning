@@ -274,7 +274,7 @@
    - Specify  the singular value limit you want to use when doing the calculations.
    - Use an image to test your SVD compression on.
 
--> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 13, 23:59 (Will be Announced!)
+-> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 13, 23:59 (Announced at Tir 2)
 
 ## Assignment Set 15
 
@@ -314,23 +314,6 @@
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
 -> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 10 Points) - Tuesday, Tir 17, 23:59 (Announced at Khordad 31!)
-## Assignment Set 17
-- **PCA Implementation**
-   - Use the Mushroom classification [dataset](https://www.kaggle.com/uciml/mushroom-classification).
-   - Import all the modules we need, which includes PCA, train_test_split, and labeling and scaling tools.
-   - Encode the data with the LabelEncoder.
-   - Use PCA to get the list of features and plot which features have the most explanatory power, or have the most variance.
-   - Let's convert the features into the 17 top features, then plot a scatter plot of the data point classification based on these 17 features.
-   - Do The previous step for the top 2 features and see how the classification changes.
-- **Singular Value Decomposition**
-   - Write a function to load in an image and turn it into a Numpy array.
-   - Select  the red, green, and blue color channels from the image.
-   - Compress  the color channels.
-   - Call  Numpy's SVD function on the color channel we want.
-   - Create  an array of zeroes that you'll fill in after the matrix multiplication is completed.
-   - Specify  the singular value limit you want to use when doing the calculations.
-   - Use an image to test your SVD compression on.
-
 
 ## Final Project (Assignment Set 17)
 
