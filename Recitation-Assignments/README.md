@@ -308,7 +308,7 @@
    
 * Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the exact same architecture at Tensorflow (and Keras) and Pytorch for the following data:
    
-   - A high-degree perturbed polynomial
+   - A High-Degree Perturbed Polynomial
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
