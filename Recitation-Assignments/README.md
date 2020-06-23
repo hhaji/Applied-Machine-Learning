@@ -258,14 +258,18 @@
 -> Deadline: Friday, Khordad 30, 23:59 (Announced at Khordad 18) 
 
 ## Assignment Set 14
-- **PCA Implementation**
+
+* **PCA Implementation**
+
    - Use the Mushroom classification [dataset](https://www.kaggle.com/uciml/mushroom-classification).
    - Import all the modules we need, which includes PCA, train_test_split, and labeling and scaling tools.
    - Encode the data with the LabelEncoder.
    - Use PCA to get the list of features and plot which features have the most explanatory power, or have the most variance.
    - Let's convert the features into the 17 top features, then plot a scatter plot of the data point classification based on these 17 features.
    - Do The previous step for the top 2 features and see how the classification changes.
-- **Singular Value Decomposition**
+   
+* **Singular Value Decomposition**
+
    - Write a function to load in an image and turn it into a Numpy array.
    - Select  the red, green, and blue color channels from the image.
    - Compress  the color channels.
