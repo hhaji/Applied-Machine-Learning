@@ -321,7 +321,7 @@
 
 ## Final Project (Assignment Set 17)
 
-* Final project will be considered as the outcome of the course, which is an effective understanding and implementation of machine learning to provide practical solutions to problems. Two scenarios for the project can be imagined, applications, and development of machine learning. Developing algorithms and methods is a valuable target, but may be challenging. On the other side, applications are highly recommended for this project. Students should decide on the topic of the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps are expected: 
+* Final project will be considered as the outcome of the course, which is understanding and effective implementation of machine learning to provide practical solutions to realistic tasks. Two scenarios for the project can be imagined, applications and development of machine learning. Developing algorithms and methods is a valuable target, but may be challenging. On the other side, applications are highly recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps are expected: 
 
     - Selecting a Mentor and Deciding on a Topic
     - Writing a Brief Proposal (at least two paragraphs) of the Project
