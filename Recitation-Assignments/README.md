@@ -338,7 +338,7 @@
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
-* Create a repository inside your Github account with the exact name "Applied_Machine_Learning_S20_Assignments". (Rename it if already created.)
+* Create a repository inside your Github account with the exact name "Applied_Machine_Learning_S20_Assignments".
 * Please review the [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions.
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
 * Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or PDF. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
@@ -350,7 +350,8 @@
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, the total score of each set can be more than 100.
 * **Submission after the deadline will not be accepted!** Exceptionally, Assignments 1 to 6, could be submitted after their deadline up to Farvardin 26, but it is subjected to a penalty of 30 points.
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
-* The final score will be calculated based on the weighted average of assignments, from 100 points. Moreover, it could be more than 100 due to the added rewards! 
+* The score of final project will be calculated from 100 points. It can also be more than 100 due to the added rewards!  
+* The final score of assignments (1 to 16, excluding the final project) will be calculated based on the weighted average of them, from 100 points. Moreover, it can be more than 100 due to the added rewards! 
 * Scores may be commented. Furthermore, students could also comment on their scores and request for re-evaluation in the form of email, which will be considered at the end of the course.
 
 <!--* Submission after the deadline is subjected to a penalty, which is 20 points for submission within a week after the deadline and 30 points for more than a week. --> 
