@@ -333,13 +333,15 @@
 
 **Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. In addition to them, contacts with mentors/assistants is only possible through email communications. Projects will be examined by the Professor and teaching assistants. 
 
+**Proposal/Report Format and Submission**: Writing and structure of the two documents are important and will be evaluated. They should be in academic/publication format. Additionally, documents be in PDF format, which are written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You should enter documents as well as codes and data into a repository named exactly "Applied_Machine_Learning_S20_Final_Project" (you can rename once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)  
+
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)
 * Create a repository inside your Github account with the exact name "Applied_Machine_Learning_S20_Assignments". (Rename it if already created.)
 * Please review the [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions.
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
-* Solutions of the exercises, as well as mathematical notations, could be written in [Latex](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or pdf. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
+* Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or PDF. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
 # Scores
 
