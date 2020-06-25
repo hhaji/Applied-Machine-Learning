@@ -331,7 +331,7 @@
 
 -> Deadline: Tuesday, Tir 10, 23:59 (Proposal) - Tuesday, Tir 31, 23:59 (Final Report and Codes) (Officially Announced at Khordad 31) 
 
-**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. In addition to them, contacts with mentors/assistants is only possible through email communications. Projects will be examined by the Professor and teaching assistants. 
+**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. In addition to them, contacts with mentors/assistants are only possible through email communications. Projects will be examined by the Professor and teaching assistants. 
 
 **Proposal/Report Format and Submission**: The writing and structure of the two documents are important and will be evaluated. They should be in academic/publication format. Additionally, documents must be in PDF format, which are written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You can also use available templates. You should enter documents as well as codes and data into a repository named exactly "Applied_Machine_Learning_S20_Final_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)  
 
@@ -350,7 +350,7 @@
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, the total score of each set can be more than 100.
 * **Submission after the deadline will not be accepted!** Exceptionally, Assignments 1 to 6, could be submitted after their deadline up to Farvardin 26, but it is subjected to a penalty of 30 points.
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
-* The score of final project will be calculated from 100 points. It can also be more than 100 due to the added rewards!  
+* The score of the final project will be calculated from 100 points. It can also be more than 100 due to the added rewards! 
 * The final score of assignments (1 to 16, excluding the final project) will be calculated based on the weighted average of them, from 100 points. Moreover, it can be more than 100 due to the added rewards! 
 * Scores may be commented. Furthermore, students could also comment on their scores and request for re-evaluation in the form of email, which will be considered at the end of the course.
 
