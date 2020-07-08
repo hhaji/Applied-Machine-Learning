@@ -278,7 +278,7 @@
    - Specify  the singular value limit you want to use when doing the calculations.
    - Use an image to test your SVD compression on.
 
--> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 13, 23:59 (Announced at Tir 2)
+-> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 20, 23:59 (Announced at Tir 2)
 
 ## Assignment Set 15
 
