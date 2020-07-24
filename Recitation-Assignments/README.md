@@ -102,7 +102,7 @@
 
    - Support Vector Machines of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with Scikit-Learn Part 12
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1jJcdxO0wI8QG3OVwEbiRDCOeo_knS8zY?usp=sharing)
 
 * **Session Sixteen** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Khordad 25 
 
