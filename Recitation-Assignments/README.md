@@ -337,12 +337,13 @@
 
 **Seminar Presentation**: Monday, Tir 6, 13:45 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 5 pages for the presentation!) 
 
-     - Pegah Khazaei: Suicide Rates Overview 1985 to 2016
-     - Zahra Taheri: Spread Visualization and Prediction of the Novel Coronavirus Disease COVID-19 Using Machine Learning
-     - Fateme Rahimi: Recommendation Engine 
-     - Mohammad Azodi: Bank-Marketing
-     - Amir Mehrpanah: Apply Denoising Using Autoencoders
-     - Zahra Oruji: Twitter US Airline Sentiment analysis
+     Applied Machine Learning Seminar:
+     1. Pegah Khazaei: Suicide Rates Overview 1985 to 2016
+     2. Zahra Taheri: Spread Visualization and Prediction of the Novel Coronavirus Disease COVID-19 Using Machine Learning
+     3. Fateme Rahimi: Recommendation Engine 
+     4. Mohammad Azodi: Bank-Marketing
+     5. Amir Mehrpanah: Apply Denoising Using Autoencoders
+     6. Zahra Oruji: Twitter US Airline Sentiment analysis
 
 # Submission Instruction 
 
