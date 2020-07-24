@@ -109,7 +109,7 @@
    - Intro. to Artificial Neural Networks with Keras of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow ](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    - Machine Learning with TensorFlow and Keras Part 2
    - Selected Experiments with Artificial Neural Networks
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1PRvweH1v3LFL85wnlek8RnvQMU7PRHFz?usp=sharing)
 
 # Assignments 
 
