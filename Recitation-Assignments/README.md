@@ -319,7 +319,7 @@
 
 -> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 10 Points) - Friday, Tir 20, 23:59 (Announced at Khordad 31!)
 
-## Final Project (Assignment Set 17)
+# Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of machine learning to provide practical solutions to realistic tasks. Two scenarios for the project can be imagined, applications and development of machine learning. Developing algorithms and methods is a valuable target, but may be challenging. On the other side, applications are highly recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps are expected: 
 
