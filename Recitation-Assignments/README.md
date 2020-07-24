@@ -338,6 +338,7 @@
 **Seminar Presentation**: Monday, Tir 6, 13:45 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 5 pages for the presentation!) 
 
      Applied Machine Learning Seminar:
+     
      1. Pegah Khazaei: Suicide Rates Overview 1985 to 2016
      2. Zahra Taheri: Spread Visualization and Prediction of the Novel Coronavirus Disease COVID-19 Using Machine Learning
      3. Fateme Rahimi: Recommendation Engine 
