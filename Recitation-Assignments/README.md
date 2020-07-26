@@ -356,7 +356,7 @@
 
 # Scores
 
-* Scores will be announced by early Mordad. (TBC)
+* Scores will be announced by early Mordad.
 * Please visit the [Link](https://docs.google.com/spreadsheets/d/1ygd1pvTxv3YbedejVGhXTZJ349-rLdRuPKt32WkhXCY/edit?usp=sharing) (updated at Esfand 25) for the scores.
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, it can be more than 100.
 * **Submission after the deadline will not be accepted!** Exceptionally, Assignments 1 to 6, could be submitted after their deadline up to Farvardin 26, but it is subjected to a penalty of 30 points.
