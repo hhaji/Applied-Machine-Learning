@@ -1,4 +1,3 @@
-
 <table>
   <tr>
     <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><span style="font-weight:bold">Webpage:</span> <a href="https://hhaji.github.io/Applied-Machine-Learning/">Applied Machine Learning 2020</a> <br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a> <br><br><a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
@@ -11,11 +10,13 @@
     <td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
     <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
     <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
+    <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
   </tr>
   <tr>
     <td><img src=".\Images\Y.jpg" alt="" border='3' height='140' width='140' /></td>
     <td><img src=".\Images\R.jpg" alt="" border='3' height='140' width='140' /></td>
     <td><img src=".\Images\K.jpg" alt="" border='3' height='140' width='140' /></td>
+    <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='140' width='140' /></td>
   </tr>
 </table>
 
