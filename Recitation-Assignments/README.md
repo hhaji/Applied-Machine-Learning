@@ -310,7 +310,7 @@
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - At least one other dataset (up to your choice, but should be different from those employed in previous assignments)
    
-* Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the exact same architecture at Tensorflow (and Keras) and Pytorch for the following data:
+* Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Tensorflow (and Keras) and Pytorch for the following data:
    
    - A High-Degree Perturbed Polynomial
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
@@ -329,11 +329,11 @@
     - The Main Phase of the Project
     - Writing and Submitting the Final Report (at least three pages) as well as Codes and Data
 
--> Deadline: Firday, Tir 13, 23:59 (Proposal) - Friday, Mordad 3, 23:59 (Final Report and Codes) (Officially Announced at Khordad 31) 
+-> Deadline: Friday, Tir 13, 23:59 (Proposal) - Friday, Mordad 3, 23:59 (Final Report and Codes) (Officially Announced at Khordad 31) 
  
 **Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. Projects will be examined by the Professor and teaching assistants. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
 
-**Proposal/Report Format and Submission**: The writing and structure of the two documents are important and will be evaluated. They should be in academic/publication format. Additionally, documents must be in PDF format, which are written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You can also use available templates. You should enter documents as well as codes and data into a repository named exactly "Applied_Machine_Learning_S20_Final_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)  
+**Proposal/Report Format and Submission**: The writing and structure of the two documents are important and will be evaluated. They should be in the academic/publication format. Additionally, documents must be in PDF format, which is written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You can also use available templates. You should enter documents as well as codes and data into a repository named exactly "Applied_Machine_Learning_S20_Final_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)  
 
 **Seminar Presentation**: Monday, Tir 6, 14:15 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 5 pages for the presentation!) 
 
