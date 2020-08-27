@@ -12,7 +12,7 @@
   
 **Please Note**: 
 
-* A carbon copy (Cc) of your email communications with TAs must be sent to the following email address (hhhaji@gmail.com).
+* A carbon copy (Cc) of your email communications with TAs must be sent to the following email address (hhhaji@yahoo.com).
 
 * Response to emails may take a few days. Please be patient!
 
