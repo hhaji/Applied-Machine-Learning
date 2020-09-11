@@ -295,7 +295,7 @@
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Furthermore, it would be much better to train (and experiment with) at least two models for each dataset. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
--> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 20, 23:59 (Announced at Khordad 31!)
+-> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 5 Points) - Friday, Tir 20, 23:59 (Announced at Khordad 31)
 
 ## Assignment Set 16
 
@@ -317,7 +317,7 @@
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
--> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 10 Points) - Friday, Tir 20, 23:59 (Announced at Khordad 31!)
+-> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 10 Points) - Friday, Tir 20, 23:59 (Announced at Khordad 31)
 
 # Final Project
 
@@ -335,7 +335,7 @@
 
 **Proposal/Report Format and Submission**: The writing and structure of the two documents are important and will be evaluated. They should be in the academic/publication format. Additionally, documents must be in PDF format, which is written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You can also use available templates. You should enter documents as well as codes and data into a repository named exactly "Applied_Machine_Learning_S20_Final_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)  
 
-**Seminar Presentation**: Monday, Tir 6, 14:15 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 5 pages for the presentation!) 
+**Seminar Presentation**: Monday, Tir 6, 14:15 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 10 slides for the presentation!) 
 
      Applied Machine Learning Seminar:
      
