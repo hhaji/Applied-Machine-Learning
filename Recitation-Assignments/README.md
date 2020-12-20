@@ -1,8 +1,8 @@
 
 
-# Teaching Assistants
+# Teaching Assistants (Spring 2020)
 
-* (Coordinator) [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)
+* (Head) [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)
 * [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) (Email: r.a.erfan@gmail.com)
   
@@ -18,7 +18,7 @@
 
 # Recitation
 
-* **First Video Tutorial** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
+* **Video Tutorial One** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) posted on Monday, Esfand 5
    - Brief on Working in Cloud-based Services, such as Google Colab
    - Brief Introduction of GIT
    - Video: Posted in the Skype Group
