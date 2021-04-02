@@ -606,9 +606,10 @@ The students can include mathematical notation within markdown cells using LaTeX
 * Midterm – 20%
 * Endterm – 50%
 
-### <a name="Two-Written-Exams"></a>Two Written Exams:
-Midterm Examination: Tuesday 1399/02/16, 13:00-14:30 <br>
-Final Examination: Tuesday 1399/03/27, 11:00-13:00 <br>
+### <a name="Two-Written-Exams"></a>Three Written Exams:
+Midterm Examination: Saturday 1400/02/04, 10:30-12:00   
+Midterm Examination: Saturday 1400/03/01, 10:30-12:00   
+Final Examination:  Tuesday 1400/03/18, 08:00-10:00   
 
 ## <a name="Prerequisites"></a>Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
