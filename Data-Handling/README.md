@@ -1,10 +1,5 @@
 # Data Handling
-Here we introduce several blogs related to data and data handling and also some resources of datasets. 
-
-
-## Dealing with Data 
-* [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) by Jeff Leek    
-* [ 10 Statistics Tips (and Why You Should Use Them!)](https://docs.google.com/presentation/d/1VZ_TnmyvC98lwTx5ukZm88y2dcg0S1uOIz5V8kwWSYI/edit?usp=sharing) by Jeff Leek      
+Here we introduce several blogs related to data and data handling and also some resources of datasets.   
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) by Geckoboard Company <br>
   - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) <br>
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) <br>
@@ -17,7 +12,8 @@ Here we introduce several blogs related to data and data handling and also some 
   [Cherry Picking](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cherry-picking/) |  [Data Dredging](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/data-dredging/) | [Survivorship Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/survivorship-bias/) | [Cobra Effect](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cobra-effect/) | [False Causality](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/false-causality/)
   [Gerrymandering](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gerrymandering/) | [Sampling Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/sampling-bias/) | [Gambler's Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gamblers-fallacy/) | [Hawthorne Effect](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/hawthorne-effect/) | [Regression Toward the Mean](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/regression-toward-the-mean/)  
   [Simpson's Paradox](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/simpsons-paradox/) | [McNamara Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/mcnamara-fallacy/) | [Overfitting](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/overfitting/) | [Publication Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/publication-bias/) | [Danger of Summary Metrics](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/danger-of-summary-metrics/)
- 
+  
+## Dealing with Data 
 * Slide: [Data Preparation](https://web.fe.up.pt/~ec/files_1112/week_03_Data_Preparation.pdf) by João Mendes Moreira and José Luís Borges    
 * Blog: [Applying Wrapper Methods in Python for Feature Selection](https://stackabuse.com/applying-wrapper-methods-in-python-for-feature-selection/) by Usman Malik  * Blog: [Basics of Feature Selection with Python](https://www.kaggle.com/ar2017/basics-of-feature-selection-with-python) by Andika Rachman  
 * Blog: [Exhaustive Feature Selector](http://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) by Sebastian Raschka   
