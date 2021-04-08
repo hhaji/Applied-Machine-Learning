@@ -1,9 +1,10 @@
 # Data Handling
 Here we introduce several blogs related to data and data handling and also some resources of datasets. 
 
+
+## Dealing with Data 
 * [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) by Jeff Leek    
 * [ 10 Statistics Tips (and Why You Should Use Them!)](https://docs.google.com/presentation/d/1VZ_TnmyvC98lwTx5ukZm88y2dcg0S1uOIz5V8kwWSYI/edit?usp=sharing) by Jeff Leek      
-* Slide: [Data_Preparation](https://web.fe.up.pt/~ec/files_1112/week_03_Data_Preparation.pdf) by João Mendes Moreira and José Luís Borges    
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) by Geckoboard Company <br>
   - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) <br>
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) <br>
@@ -16,7 +17,24 @@ Here we introduce several blogs related to data and data handling and also some 
   [Cherry Picking](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cherry-picking/) |  [Data Dredging](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/data-dredging/) | [Survivorship Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/survivorship-bias/) | [Cobra Effect](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/cobra-effect/) | [False Causality](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/false-causality/)
   [Gerrymandering](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gerrymandering/) | [Sampling Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/sampling-bias/) | [Gambler's Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gamblers-fallacy/) | [Hawthorne Effect](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/hawthorne-effect/) | [Regression Toward the Mean](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/regression-toward-the-mean/)  
   [Simpson's Paradox](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/simpsons-paradox/) | [McNamara Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/mcnamara-fallacy/) | [Overfitting](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/overfitting/) | [Publication Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/publication-bias/) | [Danger of Summary Metrics](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/danger-of-summary-metrics/)
-  
+ 
+* Slide: [Data Preparation](https://web.fe.up.pt/~ec/files_1112/week_03_Data_Preparation.pdf) by João Mendes Moreira and José Luís Borges    
+* Blog: [Applying Wrapper Methods in Python for Feature Selection](https://stackabuse.com/applying-wrapper-methods-in-python-for-feature-selection/) by Usman Malik  * Blog: [Basics of Feature Selection with Python](https://www.kaggle.com/ar2017/basics-of-feature-selection-with-python) by Andika Rachman  
+* Blog: [Exhaustive Feature Selector](http://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) by Sebastian Raschka   
+* Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
+* Blog: [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
+* Blog: [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
+* Blog: [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+* Blog: [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
+* Blog: [Application of Synthetic Minority Over-sampling Technique (SMOTe) for Imbalanced Datasets](https://medium.com/towards-artificial-intelligence/application-of-synthetic-minority-over-sampling-technique-smote-for-imbalanced-data-sets-509ab55cfdaf) by Navoneel Chakrabarty  
+* Paper: [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf) by Nitesh V. Chawla, Kevin W. Bowyer, Lawrence O. Hall, and W. Philip Kegelmeyer   
+* Blog: [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
+* Blog: [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
+* [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
+* Slide: [Learning with Missing Labels](https://svivek.com/teaching/machine-learning/fall2018/slides/em/missing-labels.pdf) by Vivek Srikumar
+* Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
+* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang  
+
 
 ## Datasets  
 The following resources may be helpful for those still undecided about their course projects.
@@ -80,20 +98,6 @@ Shiruipan
   - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
   - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html) 
 
-## Dealing with Data  
-* Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
-* Blog: [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
-* Blog: [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
-* Blog: [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
-* Blog: [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
-* Blog: [Application of Synthetic Minority Over-sampling Technique (SMOTe) for Imbalanced Datasets](https://medium.com/towards-artificial-intelligence/application-of-synthetic-minority-over-sampling-technique-smote-for-imbalanced-data-sets-509ab55cfdaf) by Navoneel Chakrabarty  
-* Paper: [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf) by Nitesh V. Chawla, Kevin W. Bowyer, Lawrence O. Hall, and W. Philip Kegelmeyer   
-* Blog: [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
-* Blog: [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
-* [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
-* Slide: [Learning with Missing Labels](https://svivek.com/teaching/machine-learning/fall2018/slides/em/missing-labels.pdf) by Vivek Srikumar
-* Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
-* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang  
 
 ## Data Science Competition Platforms  
 * [Kaggle](https://www.kaggle.com/datasets)
