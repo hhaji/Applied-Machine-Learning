@@ -15,10 +15,15 @@ Here we introduce several blogs related to data and data handling and also some 
   
 ## Dealing with Data 
 * Slide: [Data Preparation](https://web.fe.up.pt/~ec/files_1112/week_03_Data_Preparation.pdf) by João Mendes Moreira and José Luís Borges    
-* Blog: [Applying Wrapper Methods in Python for Feature Selection](https://stackabuse.com/applying-wrapper-methods-in-python-for-feature-selection/) by Usman Malik      
+* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang   
+* Slide: [Learning with Missing Labels](https://svivek.com/teaching/machine-learning/fall2018/slides/em/missing-labels.pdf) by Vivek Srikumar  
+* Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son    
+* Blog: [Applying Wrapper Methods in Python for Feature Selection](https://stackabuse.com/applying-wrapper-methods-in-python-for-feature-selection/) 
+by Usman Malik  
 * Blog: [Basics of Feature Selection with Python](https://www.kaggle.com/ar2017/basics-of-feature-selection-with-python) by Andika Rachman  
 * Blog: [Exhaustive Feature Selector](http://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) by Sebastian Raschka    
-* Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
+* Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html) by Zdravko Markov   
+* Blog: [How to Handle Correlated Features?](https://www.kaggle.com/reisel/how-to-handle-correlated-features) by Reinhard Sellmair  
 * Blog: [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
 * Blog: [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
 * Blog: [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
@@ -28,9 +33,6 @@ Here we introduce several blogs related to data and data handling and also some 
 * Blog: [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
 * Blog: [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
 * [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
-* Slide: [Learning with Missing Labels](https://svivek.com/teaching/machine-learning/fall2018/slides/em/missing-labels.pdf) by Vivek Srikumar
-* Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
-* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang  
 
 
 ## Datasets  
