@@ -275,6 +275,7 @@ Additional Resources:
     Additional Reading:
     ```
    
+    - Blog: [MAE, MSE, RMSE, Coefficient of Determination, Adjusted R Squared — Which Metric is Better?](https://medium.com/analytics-vidhya/mae-mse-rmse-coefficient-of-determination-adjusted-r-squared-which-metric-is-better-cd0326a5697e) by Akshita Chugh   
     - NoteBook: [Linear Regression](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb) by Kevin Markham <br>  
     - Paper: [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf) by Randal J. Barnes   
     - Lecture: [Logistic Regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) by Cosma Shalizi   
