@@ -415,7 +415,8 @@ Additional Resources:
     - Blog: [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74) by Will Koehrsen  
         - [Jupyter NoteBook](https://github.com/WillKoehrsen/Machine-Learning-Projects/blob/master/random_forest_explained/Improving%20Random%20Forest%20Part%202.ipynb) <br>
     - Blog: [Hyperparameter Optimization: Explanation of Automatized Algorithms](http://dkopczyk.quantee.co.uk/hyperparameter-optimization/#easy-footnote-bottom-1-379) by Dawid Kopczyk <br>
-        - [Code (Python):](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)
+        - [Code (Python):](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)  
+    - Blog: [How to Use Random Seeds Effectively](https://towardsdatascience.com/how-to-use-random-seeds-effectively-54a4cd855a79) by Jai Bansal   
     
     ```
     Additional Reading:
