@@ -10,22 +10,22 @@
   </tr>
   <tr>
     <td><a href="https://github.com/zahta">Zahra Taheri</a></td>
-    <td><a href="https://github.com/YavarYeganeh">Yavar T. Yeganeh</a></td>
     <td><a href="https://github.com/alihojatnia">Ali Hojatnia</a></td>
+    <td><a href="https://github.com/YavarYeganeh">Yavar T. Yeganeh</a></td>
   </tr>
   <tr>
     <td><img src=".\Images\DrTaheri.jpeg" alt="" border='3' height='140' width='120' /></td>
-    <td><img src=".\Images\MrYeganeh.jpg" alt="" border='3' height='140' width='120' /></td>
-    <td><img src=".\Images\MrHojatneia.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\MrHojatneia.jpeg" alt="" border='3' height='140' width='120' /></td>
+     <td><img src=".\Images\MrYeganeh.jpg" alt="" border='3' height='140' width='120' /></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/fatemeamanian">Fatehemeh Amanian</a></td>
     <td><a href="https://github.com/MsHosseini">Mahdis Hosseini</a></td>
-    <td><a href="https://github.com/MsAmanian">Fatehemeh Amanian</a></td>
     <td><a href="https://github.com/sohrabfaridi">Sohrab Faridi</a></td>
   </tr>
   <tr>
-    <td><img src=".\Images\MsHosseini.jpeg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\MsAmanian.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\MsHosseini.jpeg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\MrFaridi.jpg" alt="" border='3' height='140' width='120' /></td>   
   </tr>
 </table>
