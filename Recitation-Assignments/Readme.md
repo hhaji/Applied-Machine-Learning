@@ -1,4 +1,4 @@
-# Teaching Assistants (Spring 2020)
+# Teaching Assistants (Fall 2021)
 
 * (Head) [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)
