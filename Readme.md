@@ -19,7 +19,7 @@
      <td><img src=".\Images\MrYeganeh.jpg" alt="" border='3' height='140' width='120' /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/fatemeamanian">Fatehemeh Amanian</a></td>
+    <td><a href="https://github.com/fatemeamanian">Fatemeh Amanian</a></td>
     <td><a href="https://github.com/MhdsHosseini">Mahdis Hosseini</a></td>
     <td><a href="https://github.com/sohrabfaridi">Sohrab Faridi</a></td>
   </tr>
