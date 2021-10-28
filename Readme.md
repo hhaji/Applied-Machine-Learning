@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/fatemeamanian">Fatehemeh Amanian</a></td>
-    <td><a href="https://github.com/MsHosseini">Mahdis Hosseini</a></td>
+    <td><a href="https://github.com/MhdsHosseini">Mahdis Hosseini</a></td>
     <td><a href="https://github.com/sohrabfaridi">Sohrab Faridi</a></td>
   </tr>
   <tr>
