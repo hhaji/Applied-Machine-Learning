@@ -9,17 +9,30 @@
     <td colspan="5"><span style="font-weight:bold">Teaching Assistants:</span></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/behnazhoseyni">Zahra Taheri</a></td>
+    <td><a href="https://github.com/zahta">Zahra Taheri</a></td>
     <td><a href="https://github.com/YavarYeganeh">Yavar T. Yeganeh</a></td>
-    <td><a href="https://github.com/MSTF4">Ali Hojatnia</a></td>
-    <td><a href="https://github.com/E008001">Hosseini</a></td>
+    <td><a href="https://github.com/alihojatnia">Ali Hojatnia</a></td>
+    <td><a href="https://github.com/sohrabfaridi">Sohrab Faridi</a></td>
   </tr>
   <tr>
-    <td><img src=".\Images\MsTaheri.jpeg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\DrTaheri.jpeg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\MrYeganeh.jpg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\MrHojatneia.jpg" alt="" border='3' height='140' width='120' /></td>
-    <td><img src=".\Images\MsHosseini.jpg" alt="" border='3' height='140' width='120' /></td>   
+    <td><img src=".\Images\MrFaridi.jpg" alt="" border='3' height='140' width='120' /></td>   
   </tr>
+  <tr>
+    <td><a href="https://github.com/MsHosseini">Mahdis Hosseini</a></td>
+    <td><a href="https://github.com/MsAmanian">Fatehemeh Amanian</a></td>
+    <td><a href=  >     </a></td>
+    <td><a href=  >     </a></td>
+  </tr>
+  <tr>
+    <td><img src=".\Images\MsHosseini.jpeg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\MsAmanian.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src="" alt="" border='3' height='140' width='120' /></td>
+    <td><img src="" alt="" border='3' height='140' width='120' /></td>   
+  </tr>
+ 
 </table>
 
 
