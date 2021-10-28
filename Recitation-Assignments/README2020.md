@@ -1,5 +1,3 @@
-
-
 # Teaching Assistants (Spring 2020)
 
 * (Head) [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)
