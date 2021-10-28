@@ -24,7 +24,7 @@
     <td><a href="https://github.com/sohrabfaridi">Sohrab Faridi</a></td>
   </tr>
   <tr>
-    <td><img src=".\Images\MsAmanian.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\MsAmanian.jpeg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\MsHosseini.jpeg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\MrFaridi.jpg" alt="" border='3' height='140' width='120' /></td>   
   </tr>
@@ -626,9 +626,8 @@ The students can include mathematical notation within markdown cells using LaTeX
 * Endterm – 50%
 
 ### <a name="Two-Written-Exams"></a>Three Written Exams:
-Midterm Examination: Saturday 1400/02/04, 10:30-12:00   
-Midterm Examination: Saturday 1400/03/01, 10:30-12:00   
-Final Examination:  Tuesday 1400/03/18, 08:00-10:00   
+Midterm Examination: Saturday 1400/08/27, 10:30-12:00   
+Final Examination:  Thursday 1400/11/07, 14:00-16:00   
 
 ## <a name="Prerequisites"></a>Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
