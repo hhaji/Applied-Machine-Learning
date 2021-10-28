@@ -581,6 +581,7 @@ Saturday, Monday, Wednesday 10:30-12:00 PM
 ### <a name="MTA"></a>Recitation and Assignments:
 Monday and Wednesday 17:00-18:30 PM 
 Refer to the following [link](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Recitation-Assignments) to check the assignments.    
+Also, I recommend to study [link](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/README2020.md) of recitation and assignments of machine learning in 2020. 
 
 ## <a name="Projects"></a>Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by     
