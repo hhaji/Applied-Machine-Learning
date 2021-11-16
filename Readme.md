@@ -629,7 +629,7 @@ The students can include mathematical notation within markdown cells using LaTeX
 * Endterm – 50%
 
 ### <a name="Two-Written-Exams"></a>Three Written Exams:
-Midterm Examination: Saturday 1400/08/27, 10:30-12:00   
+Midterm Examination: Saturday 1400/09/27, 10:30-12:00   
 Final Examination:  Thursday 1400/11/07, 14:00-16:00   
 
 ## <a name="Prerequisites"></a>Prerequisites:
