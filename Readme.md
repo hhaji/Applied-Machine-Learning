@@ -372,6 +372,7 @@ Additional Resources:
     
     - Blog: [When to perform a Feature Scaling?](https://www.atoti.io/when-to-perform-a-feature-scaling/) by By Raghav Vashisht    
     - Blog: [Voronoi Tessellations](https://datagenetics.com/blog/may12017/index.html)     
+    - Blog: [Mahalanobis Distance](https://mccormickml.com/2014/07/22/mahalanobis-distance/) by Chris McCormick     
     - NoteBook: [Training a Machine Learning Model with Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb) by Kevin Markham <br>
         - [Video](https://www.youtube.com/watch?v=RlQuVL6-qe8&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=4) <br>
     - NoteBook: [Comparing Machine Learning Models in Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb) by Kevin Markham <br>
