@@ -636,7 +636,7 @@ Midterm Examination: Saturday 1400/09/27, 10:30-12:00
 Final Examination:  Thursday 1400/11/07, 14:00-16:00   
 
 ## <a name="Prerequisites"></a>Prerequisites:
-General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
+General mathematical sophistication; and a solid understanding of [Algorithms](https://www.scaler.com/topics/data-structures/), Linear Algebra, and 
 Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
 ### <a name="Linear-Algebra"></a>Linear Algebra:
